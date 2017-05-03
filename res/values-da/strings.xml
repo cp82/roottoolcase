@@ -25,6 +25,9 @@
     <string name="summary_root">This app requires root to function properly</string>
     <string name="summary_buildprop">"Edit your ROM's build properties"</string>
     <string name="summary_initd">Run scripts at boot time</string>
+    <string name="alert_premium">Thank you for upgrading to premium!</string>
+    <string name="alert_upgrade_title">Upgrade</string>
+    <string name="alert_upgrade_message">Would you like to upgrade to the ad free version?</string>
     <string name="ad_failed">Please upgrade to the ad-free version to support the developer</string>
 
     <!--Flash Wizard-->
@@ -44,6 +47,7 @@
     <string name="alert_kernel_title">Flash Boot Image (Kernel)</string>
     <string name="alert_kernel_progress">Flashing Boot Image</string>
     <string name="alert_kernel_message">Flashing the wrong image may corrupt your boot partition (Kernel). In that case, you may need to reflash your ROM.\n\nAre you sure you want to proceed?</string>
+    <string name="cfg_backup_title">BACKUP (TWRP REQUIRED)</string>
     <string name="cfg_backup">Create backup</string>
     <string name="toast_image_success">%1$s successfully flashed</string>
 
@@ -65,6 +69,7 @@
     <string name="action_sort_by_appsize">Sort by apk size</string>
     <string name="action_sort_by_datasize">Sort by data size</string>
     <string name="action_sort_by_totalsize">Sort by total size</string>
+    <string name="action_title">Choose an action</string>
     <string name="action_uninstall">Uninstall</string>
     <string name="action_freeze">Disable</string>
     <string name="action_unfreeze">Enable</string>
@@ -155,7 +160,9 @@
     <string name="alert_title_root">Root required</string>
     <string name="alert_root">This app requires root access</string>
     <string name="alert_yes">Yes</string>
+    <string name="alert_sure">"Sure, I'm in"</string>
     <string name="alert_no">No</string>
+    <string name="alert_no_thanks">No, thanks</string>
     <string name="alert_ok">OK</string>
     <string name="alert_save">Save</string>
     <string name="alert_discard">Discard</string>
@@ -171,6 +178,7 @@
     <string name="widget_cleaner">Task Cleaner</string>
     <string name="widget_toast_saved">%1.1f MB freed</string>
     <string name="widget_toast_noroot">No root access</string>
+    <string name="widget_busy">Just a sec…</string>
 
 
 
