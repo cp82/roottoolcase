@@ -3,7 +3,7 @@
 
 ## Introduction
 
-This repository contains the translation for my app [Root ToolCase](https://play.google.com/store/apps/details?id=com.cpu82.roottoolbox), a great collection of tools to tweak your android device and improve your user experience.
+This repository contains the translation for my app [Root ToolCase](https://play.google.com/store/apps/details?id=com.cpu82.roottoolcase), a great collection of tools to tweak your android device and improve your user experience.
 
 ## How to contribute
 
