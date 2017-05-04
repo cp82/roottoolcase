@@ -34,7 +34,7 @@
     <string name="title_activity_flash">Flash Wizard</string>
     <string name="summary_flasher">Install flashable zips or images</string>
     <string name="flasher_header">Choose an action</string>
-    <string name="flasher_type_zip">Install flashable zip</string>
+    <string name="flasher_type_zip">Install flashable zip (TWRP or CWM required)</string>
     <string name="flasher_type_recovery">Install revovery image</string>
     <string name="flasher_type_boot">Install boot image (kernel)</string>
     <string name="flasher_hint_zip">Add up to 5 zip files to the flash queue</string>
