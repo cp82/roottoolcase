@@ -1,0 +1,45 @@
+﻿TITLE
+*****
+
+Root ToolCase
+
+SHORT DESCRIPTION
+*****************
+
+Eine tolle Sammlung an Werkzeugen, um mehr aus Ihrem Gerät herauszuholen!
+
+FULL DESCRIPTION
+****************
+
+<b>ROOT ERFORDERLICH (diese App kann Ihr Gerät nicht rooten)</b>
+
+<b>Haftungsausschluss:</b>
+Einige Features dieser App sind sehr mächtig.
+DER ENTWICKLER ÜBERNIMMT KEINE VERANTWORTUNG FÜR SCHÄDEN AN DEINEM GERÄT
+
+
+<b>App Manager:</b>
+★ Appdaten und Appcache löschen
+★ Apps aktivieren/deaktivieren (einfrieren)
+★ Apps deinstallieren
+
+<b>Flash Wizard:</b>
+★ Flashbare ZIP-Archiveinstallieren
+★ Flash Queue (mehrere ZIPs auf einmal installieren) 
+★ Boot-Images (Kernel) flashen
+★ Recovery-Images flashen
+
+<b>Init.d Emulator:</b>
+★ Shell Skripte beim Systemstart ausführen
+★ Kein nativer init.d Support in der ROM erforderlich
+
+<b>Build.prop Editor:</b>
+★ Buildeigenschaften der ROM bearbeiten
+
+<b>Erweiterter Neustart:</b>
+★ Standard oder Soft Reboot
+★ Boot ins Recovery oder in den Bootloader (fastboot)
+
+<b>Widgets:</b>
+★ Task Cleaner
+★ Erweiterter Neustart
