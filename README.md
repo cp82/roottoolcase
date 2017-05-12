@@ -56,6 +56,7 @@ You find the template in the folder "PlayStoreEntry" under "yourlanguage.txt".
 ### Done
 * English, US - en-US
 * German - de
+* Spanish - es
 
 ### Needs translation
 * Afrikaans - af
@@ -94,7 +95,6 @@ You find the template in the folder "PlayStoreEntry" under "yourlanguage.txt".
 * Serbian (Cyrillic) - sr
 * Slovak - sk
 * Slovenian - sl
-* Spanish - es-ES
 * Swedish - sv-SE
 * Tagalog - tl-PH
 * Thai - th
