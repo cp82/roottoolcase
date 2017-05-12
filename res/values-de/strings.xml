@@ -55,6 +55,8 @@
     <string name="apps_total">Alle Apps (%1$d)</string>
     <string name="apps_system">Systemapps (%1$d)</string>
     <string name="apps_user">Benutzerapps (%1$d)</string>
+    <string name="apps_frozen">Deaktivierte Apps (%1$d)</string>
+    <string name="apps_updated">Aktualisierte Systemapps (%1$d)</string>
     <string name="apps_search">%1$d Apps gedungen</string>
     <string name="apps_init">Installierte Apps werden analysiert. Einen Moment…</string>
     <string name="apps_init_size">Dateigrößen werden berechnet. Einen Moment…</string>
@@ -62,8 +64,10 @@
     <string name="apps_label_app">"App: "</string>
     <string name="apps_label_data">"Daten: "</string>
     <string name="action_filter_all">Alle</string>
-    <string name="action_filter_system">System</string>
-    <string name="action_filter_user">Benutzer</string>
+    <string name="action_filter_system">Systemapps</string>
+    <string name="action_filter_user">Benutzerapps</string>
+    <string name="action_filter_frozen">Deaktivierte Apps</string>
+    <string name="action_filter_updated">Aktualisierte Systemapps</string>
     <string name="action_sort_by_name">Nach Namen sortieren</string>
     <string name="action_sort_by_package">Nach Paketnamen sortieren</string>
     <string name="action_sort_by_appsize">Nach APK-Größe sortieren</string>
@@ -111,7 +115,7 @@
     <string name="reboot_summary">Gerät neu starten</string>
     <string name="reboot_soft_title">Schneller Neustart</string>
     <string name="reboot_soft_summary">Androidsystem neu starten</string>
-    <string name="reboot_recovery_title">Neustart inst Recovery</string>
+    <string name="reboot_recovery_title">Neustart ins Recovery</string>
     <string name="reboot_recovery_summary">Gerät im Recoverymodus starten</string>
     <string name="reboot_fastboot_title">Neustart in den Bootloader</string>
     <string name="reboot_fastboot_summary">Gerät im Download- bzw. Fastbootmodus starten</string>
@@ -171,6 +175,7 @@
     <string name="status_requesting_root">Rootrechte werden angefordert</string>
     <string name="status_load_main">Startseite wird geladen</string>
     <string name="btn_cancel">Abbrechen</string>
+    <string name="toast_error">Ein Fehler ist aufgetreten</string>
 
 
     <!--Widgets-->

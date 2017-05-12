@@ -55,6 +55,8 @@
     <string name="apps_total">All apps (%1$d)</string>
     <string name="apps_system">System apps (%1$d)</string>
     <string name="apps_user">User apps (%1$d)</string>
+    <string name="apps_frozen">Disabled apps (%1$d)</string>
+    <string name="apps_updated">Updated system apps (%1$d)</string>
     <string name="apps_search">%1$d apps found</string>
     <string name="apps_init">Analyzing installed apps. Just a sec…</string>
     <string name="apps_init_size">Calculating app size. Just a sec…</string>
@@ -62,8 +64,10 @@
     <string name="apps_label_app">"App: "</string>
     <string name="apps_label_data">"Data: "</string>
     <string name="action_filter_all">All</string>
-    <string name="action_filter_system">System</string>
-    <string name="action_filter_user">User</string>
+    <string name="action_filter_system">System apps</string>
+    <string name="action_filter_user">User apps</string>
+    <string name="action_filter_frozen">Disabled apps</string>
+    <string name="action_filter_updated">Updated system apps</string>
     <string name="action_sort_by_name">Sort by name</string>
     <string name="action_sort_by_package">Sort by package</string>
     <string name="action_sort_by_appsize">Sort by apk size</string>
@@ -114,7 +118,7 @@
     <string name="reboot_recovery_title">Reboot to Recovery</string>
     <string name="reboot_recovery_summary">Reboot your device in recovery mode</string>
     <string name="reboot_fastboot_title">Reboot to Bootloader</string>
-    <string name="reboot_fastboot_summary">Reboot your device in download or fastboot mode. Might be disabled in some ROMs.</string>
+    <string name="reboot_fastboot_summary">Reboot your device in download or fastboot mode</string>
     <string name="reboot_poweroff_title">Power off</string>
     <string name="reboot_poweroff_summary">Switch off your device</string>
     <string name="alert_reboot">Rebooting</string>
@@ -171,12 +175,15 @@
     <string name="status_requesting_root">Requesting root access</string>
     <string name="status_load_main">Loading main screen</string>
     <string name="btn_cancel">Cancel</string>
+    <string name="toast_error">An error occurred</string>
+
 
 
     <!--Widgets-->
     <string name="widget_reboot">Reboot</string>
     <string name="widget_cleaner">Task Cleaner</string>
     <string name="widget_toast_saved">%1.1f MB freed</string>
+    <string name="widget_toast_version">This feature is currently only available for Android 5.1+</string>
     <string name="widget_toast_noroot">No root access</string>
     <string name="widget_busy">Just a sec…</string>
 
@@ -185,7 +192,6 @@
     <!--About Page-->
     <string name="title_about">About</string>
     <string name="title_betatest">Beta tester</string>
-    <string name="title_icon">App icon</string>
     <string name="title_status">Status</string>
     <string name="title_translation">English translation</string>
     <string name="translators">cpu82</string>
