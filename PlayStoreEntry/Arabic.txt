@@ -1,43 +1,48 @@
-﻿TITLE
+العنوان
 *****
 
-Root ToolCase
+اداه حالة الروت
 
-SHORT DESCRIPTION
+وصف قصير
 *****************
 
-A great collection of tools to get more out of your android device!
+مجموعة كبيرة من الأدوات للحصول على الكثير من  الخيارات على جهازك!
 
-FULL DESCRIPTION
+وصف كامل
 ****************
 
-<b>ROOT REQUIRED (this app won't root your device)</b>
+<b>يتطلب هذا البرنامج ROOT على الجهاز  (وهذا التطبيق لن يثبت الروت على  جهازك)</b>
 
-<b>DISCLAMER:</b>
-The features of this app are very powerful, be careful to use them properly.
-THE DEVELOPER OF THIS APP IS NOT RESPONSIBLE FOR DAMAGES TO YOUR DEVICE!
+<b>اخلاء المسؤولية:</b>
+ميزات هذا التطبيق قوية جدا، يرجى توخي الحذر في استخدامها بشكل صحيح.
+مطور هذا التطبيق غير مسؤول عن الأضرار التى تحدث على جهازك!
 
-<b>App Manager:</b>
-★ clear app data or app cache
-★ enable/disable (freeze) apps
-★ uninstall apps
+<b>مدير التطبيق:</b>
+★محو بيانات التطبيق أو التخزين المؤقت التطبيق
+★ تمكين / تعطيل (تجميد) التطبيقات
+★ إلغاء تثبيت التطبيقات
 
-<b>Flash Wizard:</b>
-★ install flashable zip files
-★ create flash queue for several zip files
-★ flash boot (kernel) images
-★ flash recovery images
+<b>معالج فلاش:</b>
+★ تثبيت ملفات مضغوطة  zip
+★ إنشاء طابور Flash لعدة ملفات مضغوط
+★تثبيت boot (kernel) 
+★ تثبيت ملف recovery
 
-<b>Init.d Emulator:</b>
-★ run scripts at startup
-★ no native init.d support required
+<b> لمحاكي Init.d:</b>
+★ تشغيل السكربت عند بدء التشغيل
+★ لا يوجد ملف الاصلي  init.d الأصلي المطلوب
 
 <b>Build.prop Editor:</b>
-★ edit your ROM's build properties
+★ تحرير ROM الخاص بك خصائص البناء
 
-<b>Advanced Reboot:</b>
-★ Boot into recovery or bootloader (fastboot)
+<b>إعادة تشغيل متقدم:</b>
+★ Boot الى recovery  أو bootloader (FASTBOOT)
 
-<b>Widgets:</b>
-★ Task Cleaner
-★ Advanced Reboot
+<b>الواجهات:</b>
+★ منظف المهام
+★ إعادة تشغيل متقدم
+
+
+
+
+تعريب :بشير احمد 
