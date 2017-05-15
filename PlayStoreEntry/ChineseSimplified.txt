@@ -6,38 +6,38 @@ Root ToolCase
 SHORT DESCRIPTION
 *****************
 
-A great collection of tools to get more out of your android device!
+一个能发挥您的安卓设备更多作用的工具合集！
 
 FULL DESCRIPTION
 ****************
 
-<b>ROOT REQUIRED (this app won't root your device)</b>
+<b>需要Root权限 (本应用不能Root您的设备)</b>
 
-<b>DISCLAMER:</b>
-The features of this app are very powerful, be careful to use them properly.
-THE DEVELOPER OF THIS APP IS NOT RESPONSIBLE FOR DAMAGES TO YOUR DEVICE!
+<b>免责声明:</b>
+本应用的功能非常强大，请谨慎使用。
+本应用的开发者不对您的设备发生问题承担任何责任！
 
-<b>App Manager:</b>
-★ clear app data or app cache
-★ enable/disable (freeze) apps
-★ uninstall apps
+<b>应用管理器:</b>
+★ 清除应用数据或应用缓存
+★ 启用/停用(冻结)应用
+★ 卸载应用
 
-<b>Flash Wizard:</b>
-★ install flashable zip files
-★ create flash queue for several zip files
-★ flash boot (kernel) images
-★ flash recovery images
+<b>刷机向导:</b>
+★ 安装刷机包文件
+★ 创建Zip文件刷机队列
+★ 刷入Boot(内核)镜像
+★ 刷入Recovery镜像
 
-<b>Init.d Emulator:</b>
-★ run scripts at startup
-★ no native init.d support required
+<b>Init.d模拟器:</b>
+★ 开机时运行脚本
+★ 无需本地init.d支持
 
-<b>Build.prop Editor:</b>
-★ edit your ROM's build properties
+<b>Build.prop编辑器:</b>
+★ 编辑您的ROM的build.prop属性
 
-<b>Advanced Reboot:</b>
-★ Boot into recovery or bootloader (fastboot)
+<b>高级重启:</b>
+★ 重启至Recovery或Bootloader(fastboot)
 
-<b>Widgets:</b>
-★ Task Cleaner
-★ Advanced Reboot
+<b>小部件:</b>
+★ 任务清理
+★ 高级重启
