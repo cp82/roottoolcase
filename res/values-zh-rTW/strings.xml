@@ -243,7 +243,7 @@
     <string name="three">"3. "</string>
     <string name="step_create">"Create an account"</string>
     <string name="step_donate">"Make a donation via PayPal"</string>
-    <string name="step_approve">"You'll receive your license within by Email the next 72hrs"</string>
+    <string name="step_approve">"You'll receive your license by Email within the next 72hrs"</string>
     <string name="chanced_device">Changed your device?</string>
     <string name="action_account">User account</string>
     <string name="action_share">Share</string>

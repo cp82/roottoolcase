@@ -229,28 +229,28 @@
     <string name="alert_paypal_title">Spenden, um eine Lizenz zu erhalten</string>
     <string name="alert_paypal_message">"Sie werden nun zu PayPal weitergeleitet.\n\nSobald Ihre Spende überprüft wurde, erhalten Sie innerhalb der nächsten 72h eine Benachrichtigung per E-Mail."</string>
     <string name="license_key">License key</string>
-    <string name="loading">Loading…</string>
+    <string name="loading">Wird geladen…</string>
     <string name="forgot_password_message">E-Mail-Adresse eingeben</string>
     <string name="email">E-Mail-Adresse</string>
-    <string name="alert_verify">Verification missing</string>
-    <string name="alert_verify_message">You need to verify your Email first</string>
-    <string name="alert_sign_in">You need to sign in first</string>
-    <string name="alert_paypal_message_noauth">\"You will be redirected to PayPal now.  Once, your donation has been approved, you\'ll receive an Email with your license key within the next 72 hrs.\"</string>
-    <string name="alert_email">Enter Email address</string>
-    <string name="alert_iab_description">\"Google Play is not available on this device.  Alternatively, you can obtain the ad-free version by performing the following steps:\"</string>
+    <string name="alert_verify">Bestätigung ausstehend</string>
+    <string name="alert_verify_message">Sie müssen zuerst Ihre E-Mail-Adresse bestätigen</string>
+    <string name="alert_sign_in">Sie müssen sich zuerst anmelden</string>
+    <string name="alert_paypal_message_noauth">"Sie werden nun zu PayPal weitergeleitet.\n\nSobald Ihre Spende überprüft wurde, erhalten Sie innerhalb der nächsten 72h einen Lizenzschlüssel per E-Mail."</string>
+    <string name="alert_email">E-Mail-Adresse eingeben</string>
+    <string name="alert_iab_description">Google Play ist auf diesem Gerät nicht verfügbar.  Sie können das Upgrade auch erhalten, indem Sie die folgenden Schritte ausführen:</string>
     <string name="one">"1. "</string>
     <string name="two">"2. "</string>
     <string name="three">"3. "</string>
-    <string name="step_create">"Create an account"</string>
-    <string name="step_donate">"Make a donation via PayPal"</string>
-    <string name="step_approve">"You'll receive your license within by Email the next 72hrs"</string>
-    <string name="chanced_device">Changed your device?</string>
-    <string name="toast_license_failed">License activation failed</string>
-    <string name="toast_license_request_failed">Error requesting license</string>
-    <string name="toast_license_success">License activated</string>
+    <string name="step_create">"Erstellen Sie ein Konto"</string>
+    <string name="step_donate">"Spenden Sie via PayPal"</string>
+    <string name="step_approve">"Sie erhalten Ihre Lizenz innerhalb der nächsten 72h per E-Mail"</string>
+    <string name="chanced_device">Neues Gerät?</string>
+    <string name="toast_license_failed">Aktivierung der Lizenz fehlgeschlagen</string>
+    <string name="toast_license_request_failed">Fehler beim Anfordern der Lizenz</string>
+    <string name="toast_license_success">License aktiviert</string>
     <string name="upgrade">Upgrade</string>
     <string name="title_status">Status</string>
-    <string name="request_new_key">Request new key</string>
+    <string name="request_new_key">Neuen Schlüssel anfordern</string>
 
 
 </resources>
