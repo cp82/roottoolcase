@@ -4,6 +4,8 @@
     <string name="action_pro">Werbung entfernen</string>
     <string name="action_about">Über Root ToolCase</string>
     <string name="action_translate">Übersetzen</string>
+    <string name="action_account">Benutzerkonto</string>
+    <string name="action_share">Teilen</string>
     <string name="action_settings">Einstellungen</string>
     <string name="title_advanced_reboot">Erweiterter Neustart</string>
     <string name="title_initd">Init.d Emulator</string>
@@ -27,6 +29,7 @@
     <string name="summary_initd">Skripte beim Systemstart ausführen</string>
     <string name="alert_premium">Danke, dass Sie sich für die Premiumversion entschieden haben!</string>
     <string name="alert_upgrade_title">Upgrade</string>
+    <string name="message_share">"Sieh dir \"%s\" an: "</string>
     <string name="alert_upgrade_message">Wollen Sie ein Upgrade auf die werbefreie Version durchführen?</string>
     <string name="ad_failed">Bitte aktualisieren Sie auf die werbefreie Version, um den Entwickler zu unterstützen</string>
 
@@ -57,7 +60,7 @@
     <string name="apps_user">Benutzerapps (%1$d)</string>
     <string name="apps_frozen">Deaktivierte Apps (%1$d)</string>
     <string name="apps_updated">Aktualisierte Systemapps (%1$d)</string>
-    <string name="apps_search">%1$d Apps gedungen</string>
+    <string name="apps_search">%1$d Apps gefunden</string>
     <string name="apps_init">Installierte Apps werden analysiert. Einen Moment…</string>
     <string name="apps_init_size">Dateigrößen werden berechnet. Einen Moment…</string>
     <string name="apps_sizeinfo">%1$.1f MB</string>
@@ -173,6 +176,7 @@
     <string name="alert_cancel">Abbrechen</string>
     <string name="search_title">Suchen</string>
     <string name="status_requesting_root">Rootrechte werden angefordert</string>
+    <string name="status_requesting_write">Schreibrechte werden angefordert</string>
     <string name="status_load_main">Startseite wird geladen</string>
     <string name="btn_cancel">Abbrechen</string>
     <string name="toast_error">Ein Fehler ist aufgetreten</string>
@@ -191,8 +195,62 @@
     <!--About Page-->
     <string name="title_about">Über Root ToolCase</string>
     <string name="title_betatest">Betatester</string>
-    <string name="title_status">Status</string>
     <string name="title_translation">Deutsche Übersetzung</string>
     <string name="translators">cpu82</string>
+
+    <!--Account-->
+    <string name="title_activity_account">Benutzerkonto</string>
+    <string name="title_user">Benutzerinfo</string>
+    <string name="title_license">Lizenzinfo</string>
+    <string name="verified">E-Mail bestätigt</string>
+    <string name="not_verified">E-mail nicht bestätigt</string>
+    <string name="user_standard">Standard</string>
+    <string name="user_premium">Premium</string>
+    <string name="signed_out">Abgemeldet</string>
+    <string name="signed_in">Angemeldet</string>
+    <string name="auth_failed">Anmeldung fehlgeschlagen</string>
+    <string name="hint_email">E-Mail</string>
+    <string name="hint_password">Passwort</string>
+    <string name="sign_in">Anmelden</string>
+    <string name="create_account">Konto erstellen</string>
+    <string name="sign_out">Abmelden</string>
+    <string name="verify_email">Bestätigungslink senden</string>
+    <string name="reset_password">Passwort zurücks.</string>
+    <string name="forgot_password">Passwort vergessen</string>
+    <string name="forgot_password_link"><u>Passwort vergessen</u></string>
+    <string name="request_license">Lizenz anfordern</string>
+    <string name="activate_license">Lizenzschlüssel eingeben</string>
+
+    <string name="toast_reset_success">Passwortlink an %s gesendet</string>
+    <string name="toast_reset_failed">Passwortlink senden fehlgeschlagen</string>
+    <string name="toast_verify_success">Bestätigungsmail an %s gesendet</string>
+    <string name="toast_verify_failed">Fehler beim Senden der Bestätigungsmail</string>
+
+    <string name="alert_paypal_title">Spenden, um eine Lizenz zu erhalten</string>
+    <string name="alert_paypal_message">"Sie werden nun zu PayPal weitergeleitet.\n\nSobald Ihre Spende überprüft wurde, erhalten Sie innerhalb der nächsten 72h eine Benachrichtigung per E-Mail."</string>
+    <string name="license_key">License key</string>
+    <string name="loading">Loading…</string>
+    <string name="forgot_password_message">E-Mail-Adresse eingeben</string>
+    <string name="email">E-Mail-Adresse</string>
+    <string name="alert_verify">Verification missing</string>
+    <string name="alert_verify_message">You need to verify your Email first</string>
+    <string name="alert_sign_in">You need to sign in first</string>
+    <string name="alert_paypal_message_noauth">\"You will be redirected to PayPal now.  Once, your donation has been approved, you\'ll receive an Email with your license key within the next 72 hrs.\"</string>
+    <string name="alert_email">Enter Email address</string>
+    <string name="alert_iab_description">\"Google Play is not available on this device.  Alternatively, you can obtain the ad-free version by performing the following steps:\"</string>
+    <string name="one">"1. "</string>
+    <string name="two">"2. "</string>
+    <string name="three">"3. "</string>
+    <string name="step_create">"Create an account"</string>
+    <string name="step_donate">"Make a donation via PayPal"</string>
+    <string name="step_approve">"You'll receive your license within by Email the next 72hrs"</string>
+    <string name="chanced_device">Changed your device?</string>
+    <string name="toast_license_failed">License activation failed</string>
+    <string name="toast_license_request_failed">Error requesting license</string>
+    <string name="toast_license_success">License activated</string>
+    <string name="upgrade">Upgrade</string>
+    <string name="title_status">Status</string>
+    <string name="request_new_key">Request new key</string>
+
 
 </resources>

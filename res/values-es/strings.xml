@@ -4,6 +4,7 @@
     <string name="action_pro">Eliminar anuncios</string>
     <string name="action_about">Acerca de</string>
     <string name="action_translate">Traduccion</string>
+    <string name="action_share">Compartir</string>
     <string name="action_settings">Ajustes</string>
     <string name="title_advanced_reboot">Reinicio avanzado</string>
     <string name="title_initd">Emulador Init.d</string>
@@ -27,6 +28,7 @@
     <string name="summary_initd">Ejecutar scripts en el arranque</string>
     <string name="alert_premium">Gracias por actualizar a premium!</string>
     <string name="alert_upgrade_title">Actualizar</string>
+    <string name="message_share">"Check out \"%s\": "</string>
     <string name="alert_upgrade_message">Te gustaria actualizar la version libre de anuncios?</string>
     <string name="ad_failed">Por favor, actualiza version libre de anuncios para ayudar al desarrollo</string>
 
@@ -173,6 +175,7 @@
     <string name="alert_cancel">Cancelar</string>
     <string name="search_title">Buscar</string>
     <string name="status_requesting_root">Solicitar acceso root</string>
+    <string name="status_requesting_write">Requesting write access</string>
     <string name="status_load_main">Leyendo pantalla principal</string>
     <string name="btn_cancel">Cancelar</string>
     <string name="toast_error">An error occurred</string>
@@ -194,5 +197,57 @@
     <string name="title_status">Stado</string>
     <string name="title_translation">Traduccion en español</string>
     <string name="translators">viruslaura</string>
+
+    <!-- Account -->
+    <string name="title_activity_account">User account</string>
+    <string name="title_user">User info</string>
+    <string name="title_license">License info</string>
+    <string name="verified">Email verified</string>
+    <string name="not_verified">Email not verified</string>
+    <string name="user_standard">Standard</string>
+    <string name="user_premium">Premium</string>
+    <string name="signed_out">Signed out</string>
+    <string name="signed_in">Signed in</string>
+    <string name="auth_failed">Authentication failed</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="create_account">Create Account</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="verify_email">Verify Email</string>
+    <string name="alert_email">Enter Email address</string>
+    <string name="email">Email</string>
+    <string name="reset_password">Reset password</string>
+    <string name="forgot_password">Forgot password</string>
+    <string name="forgot_password_link"><u>Forgot password</u></string>
+    <string name="forgot_password_message">Please enter your Email</string>
+    <string name="upgrade">Upgrade</string>
+    <string name="request_license">Request license</string>
+    <string name="activate_license">Enter license key</string>
+    <string name="license_key">License key</string>
+    <string name="toast_license_success">License activated</string>
+    <string name="toast_license_failed">License activation failed</string>
+    <string name="toast_license_request_failed">Error requesting license</string>
+    <string name="toast_reset_success">Reset link sent to %s</string>
+    <string name="toast_reset_failed">Failed to send reset link</string>
+    <string name="toast_verify_success">Verification email sent to %s</string>
+    <string name="toast_verify_failed">Failed to send verification email</string>
+    <string name="alert_verify">Verification missing</string>
+    <string name="alert_verify_message">You need to verify your Email first</string>
+    <string name="alert_sign_in">You need to sign in first</string>
+    <string name="alert_paypal_title">Donate to get a license</string>
+    <string name="alert_paypal_message">"You will be redirected to PayPal now.\n\nOnce, your donation has been approved, you'll receive an Email notification within the next 72 hrs."</string>
+    <string name="alert_paypal_message_noauth">"You will be redirected to PayPal now.\n\nOnce, your donation has been approved, you'll receive an Email with your license key within the next 72 hrs."</string>
+    <string name="loading">Loading…</string>
+    <string name="alert_iab_description">"Google Play is not available on this device.\n\nAlternatively, you can obtain the ad-free version by performing the following steps:"</string>
+    <string name="one">"1. "</string>
+    <string name="two">"2. "</string>
+    <string name="three">"3. "</string>
+    <string name="step_create">"Create an account"</string>
+    <string name="step_donate">"Make a donation via PayPal"</string>
+    <string name="step_approve">"You'll receive your license within by Email the next 72hrs"</string>
+    <string name="chanced_device">Changed your device?</string>
+    <string name="action_account">User account</string>
+    <string name="request_new_key">Request new key</string>
 
 </resources>

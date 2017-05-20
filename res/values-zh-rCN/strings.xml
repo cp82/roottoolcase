@@ -4,6 +4,7 @@
     <string name="action_pro">移除广告</string>
     <string name="action_about">关于</string>
     <string name="action_translate">翻译</string>
+    <string name="action_share">分享</string>
     <string name="action_settings">设置</string>
     <string name="title_advanced_reboot">高级重启</string>
     <string name="title_initd">Init.d模拟器</string>
@@ -27,6 +28,7 @@
     <string name="summary_initd">开机时运行脚本</string>
     <string name="alert_premium">感谢您升级到专业版!</string>
     <string name="alert_upgrade_title">升级</string>
+    <string name="message_share">"Check out \"%s\": "</string>
     <string name="alert_upgrade_message">是否要升级到无广告版？</string>
     <string name="ad_failed">请升级到无广告版以支持开发者</string>
 
@@ -173,6 +175,7 @@
     <string name="alert_cancel">取消</string>
     <string name="search_title">搜索</string>
     <string name="status_requesting_root">正在请求Root权限</string>
+    <string name="status_requesting_write">正在请求存储权限</string>
     <string name="status_load_main">正在载入主界面</string>
     <string name="btn_cancel">取消</string>
     <string name="toast_error">发生错误</string>
@@ -192,7 +195,60 @@
     <!--About Page-->
     <string name="title_about">关于</string>
     <string name="title_betatest">Beta版本测试者</string>
+    <string name="title_status">状态信息</string>
     <string name="title_translation">中文简体翻译</string>
     <string name="translators">WhaleMajda</string>
+
+    <!-- Account -->
+    <string name="title_activity_account">User account</string>
+    <string name="title_user">User info</string>
+    <string name="title_license">License info</string>
+    <string name="verified">Email verified</string>
+    <string name="not_verified">Email not verified</string>
+    <string name="user_standard">Standard</string>
+    <string name="user_premium">Premium</string>
+    <string name="signed_out">Signed out</string>
+    <string name="signed_in">Signed in</string>
+    <string name="auth_failed">Authentication failed</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="create_account">Create Account</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="verify_email">Verify Email</string>
+    <string name="alert_email">Enter Email address</string>
+    <string name="email">Email</string>
+    <string name="reset_password">Reset password</string>
+    <string name="forgot_password">Forgot password</string>
+    <string name="forgot_password_link"><u>Forgot password</u></string>
+    <string name="forgot_password_message">Please enter your Email</string>
+    <string name="upgrade">Upgrade</string>
+    <string name="request_license">Request license</string>
+    <string name="activate_license">Enter license key</string>
+    <string name="license_key">License key</string>
+    <string name="toast_license_success">License activated</string>
+    <string name="toast_license_failed">License activation failed</string>
+    <string name="toast_license_request_failed">Error requesting license</string>
+    <string name="toast_reset_success">Reset link sent to %s</string>
+    <string name="toast_reset_failed">Failed to send reset link</string>
+    <string name="toast_verify_success">Verification email sent to %s</string>
+    <string name="toast_verify_failed">Failed to send verification email</string>
+    <string name="alert_verify">Verification missing</string>
+    <string name="alert_verify_message">You need to verify your Email first</string>
+    <string name="alert_sign_in">You need to sign in first</string>
+    <string name="alert_paypal_title">Donate to get a license</string>
+    <string name="alert_paypal_message">"You will be redirected to PayPal now.\n\nOnce, your donation has been approved, you'll receive an Email notification within the next 72 hrs."</string>
+    <string name="alert_paypal_message_noauth">"You will be redirected to PayPal now.\n\nOnce, your donation has been approved, you'll receive an Email with your license key within the next 72 hrs."</string>
+    <string name="loading">Loading…</string>
+    <string name="alert_iab_description">"Google Play is not available on this device.\n\nAlternatively, you can obtain the ad-free version by performing the following steps:"</string>
+    <string name="one">"1. "</string>
+    <string name="two">"2. "</string>
+    <string name="three">"3. "</string>
+    <string name="step_create">"Create an account"</string>
+    <string name="step_donate">"Make a donation via PayPal"</string>
+    <string name="step_approve">"You'll receive your license within by Email the next 72hrs"</string>
+    <string name="chanced_device">Changed your device?</string>
+    <string name="action_account">User account</string>
+    <string name="request_new_key">Request new key</string>
 
 </resources>
