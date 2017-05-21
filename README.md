@@ -54,18 +54,18 @@ You find the template in the folder "PlayStoreEntry" under "yourlanguage.txt".
 ## Languages and country codes
 
 ### Done
+* Arabic - ar
+* Chinese simplified - zh-CN
+* Chinese traditional - zh-TW
 * English, US - en-US
 * German - de
 * Spanish - es
 
 ### Needs translation
 * Afrikaans - af
-* Arabic - ar
 * Belarusian - be
 * Burmese - my
 * Catalan - ca
-* Chinese simplified - zh-CN
-* Chinese traditional - zh-TW
 * Czech - cs
 * Croatian - hr
 * Danish - da
