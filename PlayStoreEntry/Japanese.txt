@@ -6,38 +6,38 @@ Root ToolCase
 SHORT DESCRIPTION
 *****************
 
-A great collection of tools to get more out of your android device!
+あなたのAndroid端末をさらに使いこなすための便利なツールコレクション！
 
 FULL DESCRIPTION
 ****************
 
-<b>ROOT REQUIRED (this app won't root your device)</b>
+<b>root権限が必要 (このアプリではrootを取得できません)</b>
 
-<b>DISCLAMER:</b>
-The features of this app are very powerful, be careful to use them properly.
-THE DEVELOPER OF THIS APP IS NOT RESPONSIBLE FOR DAMAGES TO YOUR DEVICE!
+<b>免責条項:</b>
+このアプリの機能は非常に強力です、適切にそれらを使用するように注意してください。
+万一あなたがお使いの端末が破損しても、開発者は一切その責任を負いません！
 
 <b>App Manager:</b>
-★ clear app data or app cache
-★ enable/disable (freeze) apps
-★ uninstall apps
+★ アプリのデータやキャッシュを消去
+★ アプリの有効 / 無効 (凍結)
+★ アプリをアンインストール
 
 <b>Flash Wizard:</b>
-★ install flashable zip files
-★ create flash queue for several zip files
-★ flash boot (kernel) images
-★ flash recovery images
+★ 書き込み可能なZIPファイルのインストール
+★ 複数ZIPファイルの書き込みキューを作成
+★ ブート(カーネル)イメージの書き込み
+★ リカバリーイメージの書き込み
 
 <b>Init.d Emulator:</b>
-★ run scripts at startup
-★ no native init.d support required
+★ 起動時にスクリプトを実行
+★ ネイティブのinit.dサポートは必要ありません
 
 <b>Build.prop Editor:</b>
-★ edit your ROM's build properties
+★ ROMの build.prop を編集
 
 <b>Advanced Reboot:</b>
-★ Boot into recovery or bootloader (fastboot)
+★ リカバリーまたはブートローダー(fastboot)で起動
 
 <b>Widgets:</b>
-★ Task Cleaner
-★ Advanced Reboot
+★ タスククリーナー
+★ 高度な再起動
