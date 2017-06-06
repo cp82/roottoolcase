@@ -13,12 +13,14 @@
   <string name="title_root">يتطلب ROOT</string>
   <string name="title_flasher">معالج التثبيت</string>
   <string name="title_buildprop">محرر Build.prop</string>
+  <string name="title_misc">Miscellaneous</string>
   <string name="title_activity_app_manager">إدارة التطبيق</string>
   <string name="title_activity_app">معلومات التطبيق</string>
   <string name="title_activity_reboot">إعادة التشغيل المتقدمة</string>
   <string name="title_activity_init_d">Init.d محاكي</string>
   <string name="title_activity_editor">محرر</string>
   <string name="title_activity_build_prop">محرر Build.prop</string>
+  <string name="title_activity_misc">Miscellaneous tools</string>
   <string name="alert_translate_title">ترجمة التطبيق</string>
   <string name="alert_translate_message">هل ترغب في المساهمة في ترجمة هذا التطبيق الى لغتك؟</string>
   <string name="alert_translate_yes">"بالتأكيد، انا سوف اقوم بهذا"</string>
@@ -27,6 +29,7 @@
   <string name="summary_reboot">إعادة تشغيل ، الدخول الى وضع recovery أو fastboot</string>
   <string name="summary_root">يتطلب هذا التطبيق Root</string>
   <string name="summary_buildprop">"تحرير خصائص بناء ROM الخاص بك"</string>
+  <string name="summary_misc">Miscellaneous tools</string>
   <string name="summary_initd">تشغيل السكربت في وقت التشغيل</string>
   <string name="alert_premium">شكرا لك للترقية إلى النسخة المدفوعة!</string>
   <string name="alert_upgrade_title">ترقية</string>
@@ -66,6 +69,7 @@
   <string name="apps_label_app">"التطبيق: "</string>
   <string name="apps_label_data">"البيانات: "</string>
   <string name="action_filter_all">جميع</string>
+  <string name="action_multiselect">Multiple selection</string>
   <string name="action_filter_system">تطبيقات النظام</string>
   <string name="action_filter_user">تطبيقات المستخدم</string>
   <string name="action_filter_frozen">التطبيقات المعطلة</string>
@@ -187,6 +191,13 @@
   <string name="title_status">الحالة</string>
   <string name="title_translation">ترجمة الى إللغة العربية</string>
   <string name="translators">بشير احمد \"PRInCEI7\"</string>
+
+  <!--miscellaneous-->
+  <string name="adb_title">ADB over WiFi</string>
+  <string name="adb_summary">Enable ADB over WiFi to connect wirelessly from your PC</string>
+  <string name="adb_connect">Use \"adb connect %s:5555\" to connect to this device</string>
+  <string name="spellcheck_title">Spell check</string>
+  <string name="spellcheck_summary">Enable or disable spell check (red underlines)</string>
 
   <!-- Account -->
   <string name="title_activity_account">User account</string>

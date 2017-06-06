@@ -12,12 +12,14 @@
     <string name="title_root">ROOT ERFORDERLICH</string>
     <string name="title_flasher">Flash Wizard</string>
     <string name="title_buildprop">Build.prop Editor</string>
+    <string name="title_misc">Diverse</string>
     <string name="title_activity_app_manager">App Manager</string>
     <string name="title_activity_app">App Info</string>
     <string name="title_activity_reboot">Erweiterter Neustart</string>
     <string name="title_activity_init_d">Init.d Emulator</string>
     <string name="title_activity_editor">Editor</string>
     <string name="title_activity_build_prop">Build.prop Editor</string>
+    <string name="title_activity_misc">Diverse Tools</string>
     <string name="alert_translate_title">App-Übersetzung</string>
     <string name="alert_translate_message">Wollen Sie zur Übersetzung dieser App in Ihrer Landessprache beitragen?</string>
     <string name="alert_translate_yes">Ich bin dabei</string>
@@ -26,6 +28,7 @@
     <string name="summary_reboot">Neustart, ins Recovery oder in den Bootloader starten</string>
     <string name="summary_root">Diese App erfordert Rootrechte, um ordnungsgemäß zu funktionieren</string>
     <string name="summary_buildprop">Buildeigenschaften Ihrer ROM bearbeiten</string>
+    <string name="summary_misc">Diverse Tools</string>
     <string name="summary_initd">Skripte beim Systemstart ausführen</string>
     <string name="alert_premium">Danke, dass Sie sich für die Premiumversion entschieden haben!</string>
     <string name="alert_upgrade_title">Upgrade</string>
@@ -82,6 +85,7 @@
     <string name="action_unfreeze">Aktivieren</string>
     <string name="action_clear_data">Daten löschen</string>
     <string name="action_clear_cache">Cache löschen</string>
+    <string name="action_multiselect">Mehrfachauswahl</string>
     <string name="app_updated">AKTUALISIERT</string>
     <string name="app_disabled">DEAKTIVIERT</string>
     <string name="appinfo_name">Name:</string>
@@ -198,6 +202,13 @@
     <string name="title_translation">Deutsche Übersetzung</string>
     <string name="translators">cpu82</string>
 
+    <!--miscellaneous-->
+    <string name="adb_title">ADB über WLAN</string>
+    <string name="adb_summary">ADB über WLAN aktivieren, um sich drahtlos von einem PC auf dieses Gerät zu verbinden</string>
+    <string name="adb_connect">Tippen Sie \"adb connect %s:5555\", um sich mit diesem Gerät zu verbinden</string>
+    <string name="spellcheck_title">Rechtschreibprüfung</string>
+    <string name="spellcheck_summary">Rechtschreibprüfung (rote Unterstreichung) ein-/ausschalten</string>
+
     <!--Account-->
     <string name="title_activity_account">Benutzerkonto</string>
     <string name="title_user">Benutzerinfo</string>
@@ -205,7 +216,7 @@
     <string name="verified">E-Mail bestätigt</string>
     <string name="not_verified">E-mail nicht bestätigt</string>
     <string name="user_standard">Standard</string>
-    <string name="user_premium">Premium</string>
+    <string name="user_premium">★ Premium ★</string>
     <string name="signed_out">Abgemeldet</string>
     <string name="signed_in">Angemeldet</string>
     <string name="auth_failed">Anmeldung fehlgeschlagen</string>
@@ -228,7 +239,7 @@
 
     <string name="alert_paypal_title">Spenden, um eine Lizenz zu erhalten</string>
     <string name="alert_paypal_message">"Sie werden nun zu PayPal weitergeleitet.\n\nSobald Ihre Spende überprüft wurde, erhalten Sie innerhalb der nächsten 72h eine Benachrichtigung per E-Mail."</string>
-    <string name="license_key">License key</string>
+    <string name="license_key">Lizenzschlüssel key</string>
     <string name="loading">Wird geladen…</string>
     <string name="forgot_password_message">E-Mail-Adresse eingeben</string>
     <string name="email">E-Mail-Adresse</string>
@@ -247,7 +258,7 @@
     <string name="chanced_device">Neues Gerät?</string>
     <string name="toast_license_failed">Aktivierung der Lizenz fehlgeschlagen</string>
     <string name="toast_license_request_failed">Fehler beim Anfordern der Lizenz</string>
-    <string name="toast_license_success">License aktiviert</string>
+    <string name="toast_license_success">Lizenz aktiviert</string>
     <string name="upgrade">Upgrade</string>
     <string name="title_status">Status</string>
     <string name="request_new_key">Neuen Schlüssel anfordern</string>

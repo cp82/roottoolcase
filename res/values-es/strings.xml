@@ -11,12 +11,14 @@
     <string name="title_root">REQUIERE ROOT</string>
     <string name="title_flasher">Asistente de flasheo</string>
     <string name="title_buildprop">Editor Build.prop</string>
+    <string name="title_misc">Miscellaneous</string>
     <string name="title_activity_app_manager">Control de apks</string>
     <string name="title_activity_app">Informacion apk</string>
     <string name="title_activity_reboot">Reinicio avanzado</string>
     <string name="title_activity_init_d">Emulador Init.d</string>
     <string name="title_activity_editor">Editor</string>
     <string name="title_activity_build_prop">Editor Build.prop</string>
+    <string name="title_activity_misc">Miscellaneous tools</string>
     <string name="alert_translate_title">Traduccion de la apk</string>
     <string name="alert_translate_message">Te gustaria contribuir para la traduccion de esta apk?</string>
     <string name="alert_translate_yes">"Si, Estoy seguro"</string>
@@ -25,6 +27,7 @@
     <string name="summary_reboot">Reiniciar, entrar en recovery o modo fastboot</string>
     <string name="summary_root">Esta aplicacion necesita root para funcionar correctamente</string>
     <string name="summary_buildprop">"Editar propiedades de la rom del Build"</string>
+    <string name="summary_misc">Miscellaneous tools</string>
     <string name="summary_initd">Ejecutar scripts en el arranque</string>
     <string name="alert_premium">Gracias por actualizar a premium!</string>
     <string name="alert_upgrade_title">Actualizar</string>
@@ -81,6 +84,7 @@
     <string name="action_unfreeze">Enable</string>
     <string name="action_clear_data">Clear data</string>
     <string name="action_clear_cache">Clear cache</string>
+    <string name="action_multiselect">Multiple selection</string>
     <string name="app_updated">UPDATED</string>
     <string name="app_disabled">DISABLED</string>
     <string name="appinfo_name">Name:</string>
@@ -197,6 +201,13 @@
     <string name="title_status">Stado</string>
     <string name="title_translation">Traduccion en español</string>
     <string name="translators">viruslaura</string>
+
+    <!--miscellaneous-->
+    <string name="adb_title">ADB over WiFi</string>
+    <string name="adb_summary">Enable ADB over WiFi to connect wirelessly from your PC</string>
+    <string name="adb_connect">Use \"adb connect %s:5555\" to connect to this device</string>
+    <string name="spellcheck_title">Spell check</string>
+    <string name="spellcheck_summary">Enable or disable spell check (red underlines)</string>
 
     <!-- Account -->
     <string name="title_activity_account">User account</string>

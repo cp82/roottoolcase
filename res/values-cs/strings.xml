@@ -12,12 +12,14 @@
     <string name="title_root">ROOT REQUIRED</string>
     <string name="title_flasher">Flash Wizard</string>
     <string name="title_buildprop">Build.prop Editor</string>
+    <string name="title_misc">Miscellaneous</string>
     <string name="title_activity_app_manager">App Manager</string>
     <string name="title_activity_app">App Info</string>
     <string name="title_activity_reboot">Advanced Reboot</string>
     <string name="title_activity_init_d">Init.d Emulator</string>
     <string name="title_activity_editor">Editor</string>
     <string name="title_activity_build_prop">Build.prop Editor</string>
+    <string name="title_activity_misc">Miscellaneous tools</string>
     <string name="alert_translate_title">App translation</string>
     <string name="alert_translate_message">Would you like to contribute to your local translation of this app?</string>
     <string name="alert_translate_yes">"Sure, I'm in"</string>
@@ -27,6 +29,7 @@
     <string name="summary_root">This app requires root to function properly</string>
     <string name="summary_buildprop">"Edit your ROM's build properties"</string>
     <string name="summary_initd">Run scripts at boot time</string>
+    <string name="summary_misc">Miscellaneous tools</string>
     <string name="alert_premium">Thank you for upgrading to premium!</string>
     <string name="alert_upgrade_title">Upgrade</string>
     <string name="alert_upgrade_message">Would you like to upgrade to the ad free version?</string>
@@ -82,6 +85,7 @@
     <string name="action_unfreeze">Enable</string>
     <string name="action_clear_data">Clear data</string>
     <string name="action_clear_cache">Clear cache</string>
+    <string name="action_multiselect">Multiple selection</string>
     <string name="app_updated">UPDATED</string>
     <string name="app_disabled">DISABLED</string>
     <string name="appinfo_name">Name:</string>
@@ -197,6 +201,16 @@
     <string name="title_translation">English translation</string>
     <string name="translators">cpu82</string>
 
+
+    <!--miscellaneous-->
+    <string name="adb_title">ADB over WiFi</string>
+    <string name="adb_summary">Enable ADB over WiFi to connect wirelessly from your PC</string>
+    <string name="adb_connect">Use \"adb connect %s:5555\" to connect to this device</string>
+    <string name="spellcheck_title">Spell check</string>
+    <string name="spellcheck_summary">Enable or disable spell check (red underlines)</string>
+
+
+
     <!-- Account -->
     <string name="title_activity_account">User account</string>
     <string name="title_user">User info</string>
@@ -204,7 +218,7 @@
     <string name="verified">Email verified</string>
     <string name="not_verified">Email not verified</string>
     <string name="user_standard">Standard</string>
-    <string name="user_premium">Premium</string>
+    <string name="user_premium">★ Premium ★</string>
     <string name="signed_out">Signed out</string>
     <string name="signed_in">Signed in</string>
     <string name="auth_failed">Authentication failed</string>

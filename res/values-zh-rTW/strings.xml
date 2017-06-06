@@ -10,12 +10,14 @@
     <string name="title_root">需要ROOT權限</string>
     <string name="title_flasher">刷機嚮導</string>
     <string name="title_buildprop">Build.prop編輯器</string>
+    <string name="title_misc">Miscellaneous</string>
     <string name="title_activity_app_manager">程式管理員</string>
     <string name="title_activity_app">程式資訊</string>
     <string name="title_activity_reboot">進階重啟</string>
     <string name="title_activity_init_d">Init.d模仿器</string>
     <string name="title_activity_editor">編輯器</string>
     <string name="title_activity_build_prop">Build.prop編輯器</string>
+    <string name="title_activity_misc">Miscellaneous tools</string>
     <string name="alert_translate_title">應用程式翻譯</string>
     <string name="alert_translate_message">您願意將該應用程式翻譯成您的本地語言嗎?</string>
     <string name="alert_translate_yes">"是的，我願意"</string>
@@ -24,6 +26,7 @@
     <string name="summary_reboot">重新開機，進入Recovery或Fastboot模式</string>
     <string name="summary_root">本程式需Root權限才能正常運作</string>
     <string name="summary_buildprop">"編輯您的ROM的Build屬性值"</string>
+    <string name="summary_misc">Miscellaneous tools</string>
     <string name="summary_initd">開機時運行腳本</string>
     <string name="alert_premium">非常謝謝您升級到付費版!</string>
     <string name="alert_upgrade_title">升級</string>
@@ -79,6 +82,7 @@
     <string name="action_unfreeze">解凍</string>
     <string name="action_clear_data">清除資料</string>
     <string name="action_clear_cache">清除快取</string>
+    <string name="action_multiselect">Multiple selection</string>
     <string name="app_updated">已更新</string>
     <string name="app_disabled">已凍結</string>
     <string name="appinfo_name">名稱:</string>
@@ -195,6 +199,13 @@
     <string name="title_status">狀態</string>
     <string name="title_translation">中文繁体翻譯</string>
     <string name="translators">WhaleMajda</string>
+
+    <!--miscellaneous-->
+    <string name="adb_title">ADB over WiFi</string>
+    <string name="adb_summary">Enable ADB over WiFi to connect wirelessly from your PC</string>
+    <string name="adb_connect">Use \"adb connect %s:5555\" to connect to this device</string>
+    <string name="spellcheck_title">Spell check</string>
+    <string name="spellcheck_summary">Enable or disable spell check (red underlines)</string>
 
     <!-- Account -->
     <string name="title_activity_account">User account</string>

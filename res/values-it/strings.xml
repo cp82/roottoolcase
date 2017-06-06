@@ -12,20 +12,23 @@
     <string name="title_root">ROOT RICHIESTO</string>
     <string name="title_flasher">Flash Wizard</string>
     <string name="title_buildprop">Editor di build.prop</string>
+    <string name="title_misc">Miscellaneo</string>
     <string name="title_activity_app_manager">Gestione App</string>
     <string name="title_activity_app">Informazioni App</string>
     <string name="title_activity_reboot">Reboot avanzato</string>
     <string name="title_activity_init_d">Emulatore di Init.d</string>
     <string name="title_activity_editor">Editor</string>
     <string name="title_activity_build_prop">Editor di build.prop</string>
+    <string name="title_activity_misc">Altri utensili</string>
     <string name="alert_translate_title">Traduzione App</string>
     <string name="alert_translate_message">Vuoi contribuire alla traduzione di questa app?</string>
     <string name="alert_translate_yes">"Certo!"</string>
     <string name="alert_translate_no">"No grazie"</string>
     <string name="summary_app_manager">Gestisci app utente e di sistema</string>
     <string name="summary_reboot">Riavvia, entra in recovery o in modalità fastboot</string>
-    <string name="summary_root">Quest'app ha bisogno dei permessi di root per funzionare correttamente</string>
+    <string name="summary_root">"Quest'app ha bisogno dei permessi di root per funzionare correttamente"</string>
     <string name="summary_buildprop">"Modifica le proprietà di build della tua ROM"</string>
+    <string name="summary_misc">Altri utensili</string>
     <string name="summary_initd">Esegui script al boot</string>
     <string name="alert_premium">Grazie per aver comprato il Premium!</string>
     <string name="alert_upgrade_title">Migliora</string>
@@ -36,20 +39,20 @@
     <!--Flash Wizard-->
     <string name="title_activity_flash">Flash Wizard</string>
     <string name="summary_flasher">Installa immagine o file zip</string>
-    <string name="flasher_header">Scegli un'azione</string>
+    <string name="flasher_header">"Scegli un'azione"</string>
     <string name="flasher_type_zip">Installa uno zip (TWRP o CWM richiesto)</string>
     <string name="flasher_type_recovery">Installa immagine di recovery</string>
     <string name="flasher_type_boot">Installa immagine di boot (kernel)</string>
     <string name="flasher_hint_zip">Aggiungi fino a 5 zip alla coda di flash</string>
     <string name="flasher_hint_image">Scegli un file immagine</string>
     <string name="alert_choose_zip">Seleziona lo zip da installare</string>
-    <string name="alert_choose_img">Seleziona l'immagine da installare</string>
-    <string name="alert_recovery_title">Flash dell'Immagine di Recovery</string>
-    <string name="alert_recovery_progress">Flashando l'Immagine di Recovery</string>
-    <string name="alert_recovery_message">Flashare un'immagine sbagliata può corrompere le tua partizione di recovery.\n\nSei sicuro di voler continuare?</string>
+    <string name="alert_choose_img">"Seleziona l'immagine da installare"</string>
+    <string name="alert_recovery_title">"Flash dell'Immagine di Recovery"</string>
+    <string name="alert_recovery_progress">"Flashando l'Immagine di Recovery"</string>
+    <string name="alert_recovery_message">"Flashare un'immagine sbagliata può corrompere le tua partizione di recovery.\n\nSei sicuro di voler continuare?"</string>
     <string name="alert_kernel_title">Flash Immagine di Boot (Kernel)</string>
-    <string name="alert_kernel_progress">Flashando l'Imagine di Boot</string>
-    <string name="alert_kernel_message">Flashare un'immagine sbagliata può corrompere la tua partizione di boot (Kernel). In tal caso, potresti dover riflashare la tua ROM.\n\nSei sicuro di voler procedere?</string>
+    <string name="alert_kernel_progress">"Flashando l'Imagine di Boot"</string>
+    <string name="alert_kernel_message">"Flashare un'immagine sbagliata può corrompere la tua partizione di boot (Kernel). In tal caso, potresti dover riflashare la tua ROM.\n\nSei sicuro di voler procedere?"</string>
     <string name="cfg_backup_title">BACKUP (TWRP RICHIESTO)</string>
     <string name="cfg_backup">Crea backup</string>
     <string name="toast_image_success">%1$s flashato con successo</string>
@@ -67,7 +70,7 @@
     <string name="apps_label_app">"App: "</string>
     <string name="apps_label_data">"Dati: "</string>
     <string name="action_filter_all">Tutto</string>
-    <string name="action_filter_system"App di sistema</string>
+    <string name="action_filter_system">App di sistema</string>
     <string name="action_filter_user">App utente</string>
     <string name="action_filter_frozen">App disabilitate</string>
     <string name="action_filter_updated">App di sistema aggiornate</string>
@@ -76,12 +79,13 @@
     <string name="action_sort_by_appsize">Ordina per dimensione APK</string>
     <string name="action_sort_by_datasize">Ordina per dimensione dati</string>
     <string name="action_sort_by_totalsize">Ordina per dimensione totale</string>
-    <string name="action_title">Scegli un'azione</string>
+    <string name="action_title">"Scegli un'azione"</string>
     <string name="action_uninstall">Disinstalla</string>
     <string name="action_freeze">Disabilita</string>
     <string name="action_unfreeze">Abilita</string>
-    <string name="action_clear_data">Cancella dati<string>
+    <string name="action_clear_data">Cancella dati</string>
     <string name="action_clear_cache">Cancella cache</string>
+    <string name="action_multiselect">Selezione multipla</string>
     <string name="app_updated">AGGIORNATO</string>
     <string name="app_disabled">DISABILITATO </string>
     <string name="appinfo_name">Nome:</string>
@@ -98,16 +102,16 @@
     <string name="meminfo_extdata">Dati (est.):</string>
     <string name="meminfo_cache">Cache:</string>
     <string name="alert_data_title">Cancella dati app</string>
-    <string name="alert_data_message">Tutti i dati dell'app verranno cancellati permamentemente, inclusi impostazioni, file ecc.</string>
+    <string name="alert_data_message">"Tutti i dati dell'app verranno cancellati permamentemente, inclusi impostazioni, file ecc."</string>
     <string name="alert_uninstall_title">Disinstalla app</string>
     <string name="alert_uninstall_system_title">Disinstalla app di sistema</string>
-    <string name="alert_uninstall_message">Vuoi davvero disinstallare quest'app?</string>
-    <string name="alert_uninstall_system_message">Vuoi davvero disinstallare questa <b>APP DI SISTEMA</b>?\nDisinstallare un'app sbagliata può causare seri problemi. In tal caso dovresti riflashare l'intera ROM.</string>
+    <string name="alert_uninstall_message">"Vuoi davvero disinstallare quest'app?"</string>
+    <string name="alert_uninstall_system_message">"Vuoi davvero disinstallare questa <b>APP DI SISTEMA</b>?\nDisinstallare un\'app sbagliata può causare seri problemi. In tal caso dovresti riflashare l\'intera ROM."</string>
     <string name="alert_uninstalling">Disinstallando</string>
     <string name="alert_enabling">Abilitando</string>
     <string name="alert_disabling">Disabilitando</string>
-    <string name="alert_clear_data">Cancellando i dati dell'app</string>
-    <string name="alert_clear_cache">Cancellando la cache dell'app</string>
+    <string name="alert_clear_data">"Cancellando i dati dell'app"</string>
+    <string name="alert_clear_cache">"Cancellando la cache dell'app"</string>
     <string name="alert_title_config">Opzioni di flash</string>
     <string name="search_hint">Cerca apk</string>
     <string name="toast_uninstall_success">%1$s disinstallata con successo</string>
@@ -165,7 +169,7 @@
 
     <!--General dialogs-->
     <string name="alert_title_root">Root richiesto</string>
-    <string name="alert_root">Quest'app ha bisogno dei permessi di root</string>
+    <string name="alert_root">"Quest'app ha bisogno dei permessi di root"</string>
     <string name="alert_yes">Sì</string>
     <string name="alert_sure">"Certo"</string>
     <string name="alert_no">No</string>
@@ -179,12 +183,12 @@
     <string name="status_requesting_write">Richiedendo i permessi di scrittura</string>
     <string name="status_load_main">Caricando la schermata principale</string>
     <string name="btn_cancel">Cancella</string>
-    <string name="toast_error">C'è stato un errore</string>
+    <string name="toast_error">"C'è stato un errore"</string>
 
 
     <!--Widgets-->
     <string name="widget_reboot">Riavvia</string>
-    <string name="widget_cleaner">Pulizia Task</string>                         <!-- This doesn't really sound good in Italian, perhaps you can leave the original -->
+    <string name="widget_cleaner">Task Cleaner</string>
     <string name="widget_toast_saved">%1.1f MB liberati</string>
     <string name="widget_toast_version">Questa funzionalità è disponibile solo per Android 5.1+</string>
     <string name="widget_toast_noroot">Accesso root mancante</string>
@@ -195,11 +199,18 @@
     <string name="title_about">Info</string>
     <string name="title_betatest">Beta tester</string>
     <string name="title_translation">Traduzione italiana</string>
-    <string name="translators">cpu82\nElectrocamel</string>                     <!-- Correct syntax? -->
+    <string name="translators">Electrocamel</string>
+
+    <!--miscellaneous-->
+    <string name="adb_title">ADB over WiFi</string>
+    <string name="adb_summary">Enable ADB over WiFi to connect wirelessly from your PC</string>
+    <string name="adb_connect">Use \"adb connect %s:5555\" to connect to this device</string>
+    <string name="spellcheck_title">Controllo ortografico</string>
+    <string name="spellcheck_summary">Enable or disable spell check (red underlines)</string>
 
     <!-- Account -->
     <string name="title_activity_account">Account utente</string>
-    <string name="title_user">Info utente</string>                              <!-- The correct translation would be "informazioni", but info is pretty widely used and much shorter. If you want a more formal tone, change it -->
+    <string name="title_user">Info utente</string>
     <string name="title_license">Info licenza</string>
     <string name="verified">Email verificata</string>
     <string name="not_verified">Email non verificata</string>
@@ -214,7 +225,7 @@
     <string name="create_account">Crea Account</string>
     <string name="sign_out">Logout</string>
     <string name="verify_email">Invia link di verifica</string>
-    <string name="alert_email">Inserisci l'indirizzo email</string>
+    <string name="alert_email">"Inserisci l'indirizzo email"</string>
     <string name="email">Email</string>
     <string name="reset_password">Resetta password</string>
     <string name="forgot_password">Password dimenticata</string>
@@ -223,19 +234,19 @@
     <string name="upgrade">Upgrade</string>
     <string name="request_license">Richiedi licenza</string>
     <string name="activate_license">Inserisci codice licenza</string>
-    <string name="request_new_key">Richiedi nuovo codice</string>               <!-- Assuming it's referring to the licence, in case it is not change "codice" with "chiave" -->
+    <string name="request_new_key">Richiedi nuovo codice</string>
     <string name="license_key">Codice licenza</string>
     <string name="toast_license_success">Licenza attivata</string>
     <string name="toast_license_failed">Attivazione licenza fallita</string>
     <string name="toast_license_request_failed">Errore richiedendo la licenza</string>
     <string name="toast_reset_success">Link di reset mandato a %s</string>
-    <string name="toast_reset_failed">Errore nell'invio link di reset</string>
+    <string name="toast_reset_failed">"Errore nell'invio link di reset"</string>
     <string name="toast_verify_success">Email di verifica inviata a %s</string>
-    <string name="toast_verify_failed">Errore nell'invio dell'email di verifica</string>
+    <string name="toast_verify_failed">"Errore nell'invio dell'email di verifica"</string>
     <string name="alert_verify">Verifica mancante</string>
     <string name="alert_verify_message">Devi prima verificare la tua email</string>
     <string name="alert_sign_in">Devi prima effettuare il login</string>
-    <string name="alert_paypal_title">DOna per ricevere una licanza</string>
+    <string name="alert_paypal_title">Dona per ricevere una licanza</string>
     <string name="alert_paypal_message">"Sarai ora reindirizzato a PayPal.\n\nUna volta che la tua donazione è stata approvata, riceverai una notifica via email entro 72 ore."</string>
     <string name="alert_paypal_message_noauth">"Sarai ora reindirizzato a PayPal.\n\nUna volta che la tua donazione è stata approvata, riceverai una email con la tua licenza entro 72 ore."</string>
     <string name="loading">Caricamento…</string>
