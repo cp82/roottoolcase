@@ -61,6 +61,7 @@
     <string name="apps_frozen">已凍結程式 (%1$d)</string>
     <string name="apps_updated">已更新的系統程式 (%1$d)</string>
     <string name="apps_search">找到%1$d個程式</string>
+    <string name="apps_fromlist">%1$s (%2$d)</string>
     <string name="apps_init">正在分析已安裝程式，請稍候…</string>
     <string name="apps_init_size">正在計算程式大小，請稍候…</string>
     <string name="apps_sizeinfo">%1$.1f MB</string>
@@ -71,6 +72,7 @@
     <string name="action_filter_user">使用者程式</string>
     <string name="action_filter_frozen">已凍結程式</string>
     <string name="action_filter_updated">已更新的系統程式</string>
+    <string name="action_filter_custom">Custom list</string>
     <string name="action_sort_by_name">按名稱排序</string>
     <string name="action_sort_by_package">按包名排序</string>
     <string name="action_sort_by_appsize">按程式大小排序</string>
@@ -83,6 +85,8 @@
     <string name="action_clear_data">清除資料</string>
     <string name="action_clear_cache">清除快取</string>
     <string name="action_multiselect">Multiple selection</string>
+    <string name="action_customlist">Add to custom list</string>
+    <string name="action_delete_list">Delete current list</string>
     <string name="app_updated">已更新</string>
     <string name="app_disabled">已凍結</string>
     <string name="appinfo_name">名稱:</string>
@@ -110,8 +114,31 @@
     <string name="alert_clear_data">正在刪除程式資料</string>
     <string name="alert_clear_cache">正在清除程式快取</string>
     <string name="alert_title_config">刷機選項</string>
+    <string name="alert_list">Select custom list</string>
+    <string name="alert_newlist">Create new list</string>
+    <string name="alert_newlist_title">New custom list</string>
+    <string name="alert_newlist_message">Enter a name for your custom app list</string>
+    <string name="alert_attention">Attention</string>
+    <string name="alert_cache_title">Clear app cache</string>
+    <string name="alert_continue">Continue</string>
+    <string name="alert_freeze_title">Disable apps</string>
+    <string name="alert_progress">%1$s (%2$d/%3$d)</string>
+    <string name="alert_multiuninstall_na">Uninstalling multiple system apps at once is not allowed, because it carries the risk of damaging your ROM.\n\nPlease make another selection without any system app.</string>
+    <string name="alert_multifreeze_na">Freezing multiple system apps at once is not allowed, because it carries the risk of damaging your ROM.\n\nPlease make another selection without any system app.</string>
+    <string name="alert_unfreeze_title">Enable apps</string>
+    <string name="alert_nolist_message">No custom list found</string>
+    <string name="alert_play_ad">Play ad</string>
+    <string name="alert_premium_title">Premium feature</string>
+    <string name="alert_premium_message">This is a premium feature. Please upgrade to the ad-free version.  Alternatively, you can watch a video ad to unlock this feature for this session.</string>
+    <string name="alert_upgrade">Upgrade</string>
     <string name="search_hint">搜尋程式</string>
     <string name="toast_uninstall_success">%1$s已成功解除安裝</string>
+    <string name="toast_newlist_success">\"%1$s\" successfully created</string>
+    <string name="toast_updatelist_success">\"%1$s\" successfully updated</string>
+    <string name="toast_newlist_failed">Error creating list</string>
+    <string name="toast_error_videoad">Error playing video ad. Please check your internet connection and ad-block settings and try again!</string>
+    <string name="toast_error_nolist">No list found</string>
+    <string name="toast_error_existinglist">This list is already existing</string>
 
 
     <!--Advanced reboot-->

@@ -64,6 +64,7 @@
     <string name="apps_frozen">Deaktivierte Apps (%1$d)</string>
     <string name="apps_updated">Aktualisierte Systemapps (%1$d)</string>
     <string name="apps_search">%1$d Apps gefunden</string>
+    <string name="apps_fromlist">%1$s (%2$d)</string>
     <string name="apps_init">Installierte Apps werden analysiert. Einen Moment…</string>
     <string name="apps_init_size">Dateigrößen werden berechnet. Einen Moment…</string>
     <string name="apps_sizeinfo">%1$.1f MB</string>
@@ -74,6 +75,7 @@
     <string name="action_filter_user">Benutzerapps</string>
     <string name="action_filter_frozen">Deaktivierte Apps</string>
     <string name="action_filter_updated">Aktualisierte Systemapps</string>
+    <string name="action_filter_custom">Eigene Liste</string>
     <string name="action_sort_by_name">Nach Namen sortieren</string>
     <string name="action_sort_by_package">Nach Paketnamen sortieren</string>
     <string name="action_sort_by_appsize">Nach APK-Größe sortieren</string>
@@ -86,6 +88,7 @@
     <string name="action_clear_data">Daten löschen</string>
     <string name="action_clear_cache">Cache löschen</string>
     <string name="action_multiselect">Mehrfachauswahl</string>
+    <string name="action_customlist">Zu einer Liste hinzufügen</string>
     <string name="app_updated">AKTUALISIERT</string>
     <string name="app_disabled">DEAKTIVIERT</string>
     <string name="appinfo_name">Name:</string>
@@ -113,9 +116,31 @@
     <string name="alert_clear_data">Appdaten werden gelöscht…</string>
     <string name="alert_clear_cache">Cache wird gelöscht…</string>
     <string name="alert_title_config">Flashoptionen</string>
+    <string name="alert_list">Liste wählen</string>
+    <string name="alert_newlist">Neue Liste erstellen</string>
+    <string name="alert_newlist_title">Neue Liste</string>
+    <string name="alert_newlist_message">Geben Sie einen Namen für die benutzerdefinierte Liste ein</string>
     <string name="search_hint">APK suchen</string>
     <string name="toast_uninstall_success">%1$s wurde erfolgreich deinstalliert</string>
-
+    <string name="toast_newlist_success">\"%1$s\" erfolgreich erstellt</string>
+    <string name="toast_updatelist_success">\"%1$s\" erfolgreich aktualisiert</string>
+    <string name="toast_newlist_failed">Fehler beim Erstellen der Liste</string>
+    <string name="alert_attention">Achtung</string>
+    <string name="alert_cache_title">Appcache löschen</string>
+    <string name="alert_continue">Fortsetzen</string>
+    <string name="alert_freeze_title">Apps deaktivieren</string>
+    <string name="alert_progress">%1$s (%2$d/%3$d)</string>
+    <string name="alert_multiuninstall_na">Das Deinstallieren mehrerer Systemapps auf einmal birgt das Risko, Ihre ROM zu beschädigen.\n\nBitte treffen Sie eine andere Auswahl ohne Systemapps.</string>
+    <string name="alert_multifreeze_na">Das Deaktivieren mehrerer Systemapps auf einmal birgt das Risko, Ihre ROM zu beschädigen.\n\nBitte treffen Sie eine andere Auswahl ohne Systemapps.</string>
+    <string name="alert_unfreeze_title">Apps aktivieren</string>
+    <string name="action_delete_list">Aktuelle Liste löschen</string>
+    <string name="alert_nolist_message">Keine benutzderdefinierte Liste gefunden</string>
+    <string name="alert_play_ad">Video ansehen</string>
+    <string name="alert_premium_title">Premiumfunktion</string>
+    <string name="alert_premium_message">Dies ist eine Premiumfunktion. Bitte kaufen Sie die werbefreie Version.\n\nStattdessen können Sie sich auch ein Werbevideo ansehen, um diese Funktion für die aktuelle Sitzung freizuschalten.</string>
+    <string name="alert_upgrade">Kaufen</string>
+    <string name="toast_error_videoad">Werbespot konnte nicht geladen werden. Bitte überprüfen Sie Ihre Internetverbindung und Werbeblockereinstellungen und versuchen Sie es noch einmal!</string>
+    <string name="toast_error_nolist">Keine Liste gefunden</string>
 
     <!--Advanced reboot-->
     <string name="reboot_title">Neustart</string>
@@ -262,6 +287,7 @@
     <string name="upgrade">Upgrade</string>
     <string name="title_status">Status</string>
     <string name="request_new_key">Neuen Schlüssel anfordern</string>
+    <string name="toast_error_existinglist">Diese Liste existiert bereits</string>
 
 
 </resources>

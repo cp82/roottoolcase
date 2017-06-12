@@ -64,6 +64,7 @@
     <string name="apps_frozen">App disabilitate (%1$d)</string>
     <string name="apps_updated">App di sistema aggiornate (%1$d)</string>
     <string name="apps_search">%1$d app trovate</string>
+    <string name="apps_fromlist">%1$s (%2$d)</string>
     <string name="apps_init">Analizzando le app installate. Solo un secondo…</string>
     <string name="apps_init_size">Calcolando la dimensione delle app. Solo un secondo…</string>
     <string name="apps_sizeinfo">%1$.1f MB</string>
@@ -74,6 +75,7 @@
     <string name="action_filter_user">App utente</string>
     <string name="action_filter_frozen">App disabilitate</string>
     <string name="action_filter_updated">App di sistema aggiornate</string>
+    <string name="action_filter_custom">Custom list</string>
     <string name="action_sort_by_name">Ordina per nome</string>
     <string name="action_sort_by_package">Ordina per pacchetto</string>
     <string name="action_sort_by_appsize">Ordina per dimensione APK</string>
@@ -86,6 +88,8 @@
     <string name="action_clear_data">Cancella dati</string>
     <string name="action_clear_cache">Cancella cache</string>
     <string name="action_multiselect">Selezione multipla</string>
+    <string name="action_customlist">Add to custom list</string>
+    <string name="action_delete_list">Delete current list</string>
     <string name="app_updated">AGGIORNATO</string>
     <string name="app_disabled">DISABILITATO </string>
     <string name="appinfo_name">Nome:</string>
@@ -113,8 +117,31 @@
     <string name="alert_clear_data">"Cancellando i dati dell'app"</string>
     <string name="alert_clear_cache">"Cancellando la cache dell'app"</string>
     <string name="alert_title_config">Opzioni di flash</string>
+    <string name="alert_list">Select custom list</string>
+    <string name="alert_newlist">Create new list</string>
+    <string name="alert_newlist_title">New custom list</string>
+    <string name="alert_newlist_message">Enter a name for your custom app list</string>
+    <string name="alert_attention">Attention</string>
+    <string name="alert_cache_title">Clear app cache</string>
+    <string name="alert_continue">Continue</string>
+    <string name="alert_freeze_title">Disable apps</string>
+    <string name="alert_progress">%1$s (%2$d/%3$d)</string>
+    <string name="alert_multiuninstall_na">Uninstalling multiple system apps at once is not allowed, because it carries the risk of damaging your ROM.\n\nPlease make another selection without any system app.</string>
+    <string name="alert_multifreeze_na">Freezing multiple system apps at once is not allowed, because it carries the risk of damaging your ROM.\n\nPlease make another selection without any system app.</string>
+    <string name="alert_unfreeze_title">Enable apps</string>
+    <string name="alert_nolist_message">No custom list found</string>
+    <string name="alert_play_ad">Play ad</string>
+    <string name="alert_premium_title">Premium feature</string>
+    <string name="alert_premium_message">This is a premium feature. Please upgrade to the ad-free version.  Alternatively, you can watch a video ad to unlock this feature for this session.</string>
+    <string name="alert_upgrade">Upgrade</string>
     <string name="search_hint">Cerca apk</string>
     <string name="toast_uninstall_success">%1$s disinstallata con successo</string>
+    <string name="toast_newlist_success">\"%1$s\" successfully created</string>
+    <string name="toast_updatelist_success">\"%1$s\" successfully updated</string>
+    <string name="toast_newlist_failed">Error creating list</string>
+    <string name="toast_error_videoad">Error playing video ad. Please check your internet connection and ad-block settings and try again!</string>
+    <string name="toast_error_nolist">No list found</string>
+    <string name="toast_error_existinglist">This list is already existing</string>
 
 
     <!--Advanced reboot-->
