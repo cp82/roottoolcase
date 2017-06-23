@@ -6,15 +6,15 @@ Root ToolCase
 SHORT DESCRIPTION
 *****************
 
-A great collection of tools to get more out of your android device!
+Android cihazınızdan daha fazla yararlanmak için araçlar!
 
 FULL DESCRIPTION
 ****************
 
-<b>ROOT REQUIRED (this app won't root your device)</b>
+<b>ROOT GEREKLİDİR (Bu uygulama cihazınızı rootlamaz.)</b>
 
-<b>DISCLAMER:</b>
-The features of this app are very powerful, be careful to use them properly.
+<b>SORUMLULUK REDDİ:</b>
+Bu uygulamanın özellikleri çok güçlüdür, bunları dikkatli kullanmaya .
 THE DEVELOPER OF THIS APP IS NOT RESPONSIBLE FOR DAMAGES TO YOUR DEVICE!
 
 <b>App Manager:</b>
