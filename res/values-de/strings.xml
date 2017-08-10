@@ -5,6 +5,7 @@
     <string name="action_about">Über Root ToolCase</string>
     <string name="action_translate">Übersetzen</string>
     <string name="action_account">Benutzerkonto</string>
+    <string name="action_follow">Folgen</string>
     <string name="action_share">Teilen</string>
     <string name="action_settings">Einstellungen</string>
     <string name="title_advanced_reboot">Erweiterter Neustart</string>
@@ -31,6 +32,8 @@
     <string name="summary_misc">Diverse Tools</string>
     <string name="summary_initd">Skripte beim Systemstart ausführen</string>
     <string name="alert_premium">Danke, dass Sie sich für die Premiumversion entschieden haben!</string>
+    <string name="alert_twitter_title">Root ToolCase auf Twitter</string>
+    <string name="alert_twitter_message">Root ToolCase ist jetzt auf Twitter!\n\nFolgen Sie uns, um über App-Updates etc. auf dem Laufenden zu bleiben!</string>
     <string name="alert_upgrade_title">Upgrade</string>
     <string name="message_share">"Sieh dir \"%s\" an: "</string>
     <string name="alert_upgrade_message">Wollen Sie ein Upgrade auf die werbefreie Version durchführen?</string>
@@ -95,7 +98,7 @@
     <string name="appinfo_pkg">Paketname:</string>
     <string name="appinfo_status">Status:</string>
     <string name="appinfo_version">Version:</string>
-    <string name="appinfo_path">Pfat:</string>
+    <string name="appinfo_path">Pfad:</string>
     <string name="appinfo_memory">Speicherbelegung</string>
     <string name="meminfo_total">Gesamt:</string>
     <string name="meminfo_apk">APK:</string>
@@ -191,6 +194,15 @@
     <string name="alert_reboot_later">Später</string>
     <string name="alert_reboot_message">Jetzt neu starten, um die Änderungen wirksam zu machen?</string>
     <string name="alert_reboot_message2">Um Ihre Änderungen wirksam zu machen, müssen Sie Ihr Gerät neu starten.\n\nJetzt neu starten?</string>
+    <string name="alert_backup_title">Wählen Sie eine Sicherung</string>
+    <string name="alert_nobackup_message">Keine Sicherung gefunden</string>
+    <string name="alert_restore">Wiederherstellen</string>
+    <string name="alert_delete">Löschen</string>
+    <string name="toast_save_success">Sicherung von build.prop erstellt</string>
+    <string name="toast_save_error">Fehler beim Erstellen der Sicherung</string>
+    <string name="toast_delete_success">Sicherung gelöscht</string>
+    <string name="toast_restore_success">Sicherung von build.prop wiederhergestellt</string>
+    <string name="toast_restore_error">Fehler beim Wiederherstellen der Sicherung</string>
 
     <!--General dialogs-->
     <string name="alert_title_root">Root erforderlich</string>
@@ -288,6 +300,38 @@
     <string name="title_status">Status</string>
     <string name="request_new_key">Neuen Schlüssel anfordern</string>
     <string name="toast_error_existinglist">Diese Liste existiert bereits</string>
+    <string name="title_cloud">Cloud-Synchronisation</string>
+    <string name="switch_googledrive">Google Drive</string>
+    <string name="action_convert_system">In Systemapp umwandeln</string>
+    <string name="action_convert_user">In Benutzerapp uwandeln</string>
+    <string name="action_extract">Extrahieren</string>
+    <string name="action_integrate_update">Update ins System integrieren</string>
+    <string name="alert_extract_message">Wollen Sie die APK-Datei dieser App extrahieren?\n\nSie finden die Datei anschließend unter:\n\n \"/sdcard/Root ToolCase/Extracted\"</string>
+    <string name="alert_extract_title">APK extrahieren</string>
+    <string name="alert_integrate_update">Wollen Sie dieses Updae ins System integrieren?</string>
+    <string name="toast_extract_success">%1$s erfolgreich extrahiert</string>
+    <string name="alert_choose_apk">Wählen Sie eine APK-Datei</string>
+    <string name="alert_install_success">Installation erfolgreich</string>
+    <string name="alert_installing">Wird installiert</string>
+    <string name="alert_overwrite_title">Hinweis</string>
+    <string name="alert_overwrite_message">Diese App existiert bereits. Wollen Sie sie überschreiben?</string>
+    <string name="alert_type_user">Benutzerapp</string>
+    <string name="alert_type_title">\"%s\" installieren als</string>
+    <string name="alert_type_system">Systemapp</string>
+    <string name="alert_updated_sysapp_message">Dies ist eine aktualisierte Systemapp. Deinstallieren Sie zuerst das Update, oder versuchen Sie die Installation als Benutzerapp.</string>
+    <string name="alert_overwrite_sysapp_message">Diese Systemapp existiert bereits.\n\nDas Überschreiben von Systemapps kann Ihr System beschädigen. In diesem Fall müssen Sie Ihre ROM neu installieren.\n\nWollen Sie die existierende App überschreiben?</string>
+    <string name="toast_version">Diese Funktion ist im Moment nur für Android 5.0+ verfügbar</string>
+    <string name="action_load_queue">Flashliste laden</string>
+    <string name="action_save_queue">Flashliste speichern</string>
+    <string name="alert_new_queue">Neue Liste erstellen</string>
+    <string name="alert_new_queue_title">Neue Flashliste</string>
+    <string name="alert_new_queue_message">Geben Sie einen Namen für die benutzerdefinierte Liste ein</string>
+    <string name="toast_error_existingqueue">Diese Liste existiert bereits</string>
+    <string name="toast_deletelist_success">\"%1$s\" erfolgreich gelöscht</string>
+    <string name="action_delete_queue">Flashliste löschen</string>
+    <string name="toast_queue_empty">Liste ist leer</string>
+    <string name="mountrw_title">System R/W einhängen</string>
+    <string name="mountrw_summary">Die Systempartition (/system) beschreibbar einhängen (statt read-only)</string>
 
 
 </resources>
