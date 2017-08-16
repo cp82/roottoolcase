@@ -58,6 +58,7 @@ You find the template in the folder "PlayStoreEntry" under "yourlanguage.txt".
 * Chinese simplified - zh-CN
 * Chinese traditional - zh-TW
 * English, US - en-US
+* French - fr
 * German - de
 * Italian - it
 * Spanish - es
@@ -74,7 +75,6 @@ You find the template in the folder "PlayStoreEntry" under "yourlanguage.txt".
 * Estonian - et
 * Filipino - fil-PH
 * Finnish - fi
-* French - fr
 * Greek - el
 * Hebrew - he
 * Hindi - hi
