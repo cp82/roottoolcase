@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="apps_selected">
-        <item quantity="one">%d app selected</item>
-        <item quantity="other">%d apps selected</item>
+        <item quantity="one">%d application sélectionnée</item>
+        <item quantity="other">%d applications sélectionnées</item>
     </plurals>
     <plurals name="apps_clear_cache">
-        <item quantity="one">You are about to clear the cache of %d app?</item>
-        <item quantity="other">You are about to clear cache of %d apps?</item>
+        <item quantity="one">Vous êtes sur le point de vider le cache de %d application</item>
+        <item quantity="other">Vous êtes sur le point de vider le cache les données de %d applications</item>
     </plurals>
     <plurals name="apps_clear_data">
-        <item quantity="one">You are about to clear the data of %d app?</item>
-        <item quantity="other">You are about to clear the data of %d apps?</item>
+        <item quantity="one">Vous êtes sur le point de supprimer les données de %d application</item>
+        <item quantity="other">Vous êtes sur le point de supprimer les données de %d applications</item>
     </plurals>
     <plurals name="apps_uninstall">
-        <item quantity="one">You are about to uninstall %d app?</item>
-        <item quantity="other">You are about to uninstall %d apps?</item>
+        <item quantity="one">Vous êtes sur le point de désinstaller de %d application</item>
+        <item quantity="other">Vous êtes sur le point de désinstaller %d applications</item>
     </plurals>
     <plurals name="apps_enable">
-        <item quantity="one">You are about to enable %d app?</item>
-        <item quantity="other">You are about to enable %d apps?</item>
+        <item quantity="one">"Vous êtes sur le point d'activer de %d application"</item>
+        <item quantity="other">"Vous êtes sur le point d'activer de %d applications"</item>
     </plurals>
     <plurals name="apps_disable">
-        <item quantity="one">You are about to disable %d app?</item>
-        <item quantity="other">You are about to disable %d apps?</item>
+        <item quantity="one">"Vous êtes sur le point de désactiver de %d application"</item>
+        <item quantity="other">"Vous êtes sur le point de désactiver de %d applications"</item>
     </plurals>
 </resources>

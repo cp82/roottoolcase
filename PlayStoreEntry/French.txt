@@ -6,38 +6,37 @@ Root ToolCase
 SHORT DESCRIPTION
 *****************
 
-A great collection of tools to get more out of your android device!
+Une grande collection d'outils pour obtenir plus de votre smartphone Android!
 
 FULL DESCRIPTION
 ****************
 
-<b>ROOT REQUIRED (this app won't root your device)</b>
+<b>ROOT REQUIS (cette application ne sera pas installé root)</b>
 
 <b>DISCLAMER:</b>
 The features of this app are very powerful, be careful to use them properly.
 THE DEVELOPER OF THIS APP IS NOT RESPONSIBLE FOR DAMAGES TO YOUR DEVICE!
 
-<b>App Manager:</b>
-★ clear app data or app cache
-★ enable/disable (freeze) apps
-★ uninstall apps
+<b>Gestionnaire d'application:</b>
+★ effacer les données ou vider le cache
+★ activer/désactiver (freeze) les applications
+★ désinstaller les applications
 
 <b>Flash Wizard:</b>
-★ install flashable zip files
-★ create flash queue for several zip files
-★ flash boot (kernel) images
-★ flash recovery images
+★ installer le fichier zip
+★ installer l’image de boot
+★ installer l’image de recovery
 
-<b>Init.d Emulator:</b>
-★ run scripts at startup
-★ no native init.d support required
+<b>Emulateur d'Init.d:</b>
+★ exécuter des scripts au démarrage
+★ aucun support initial init.d requis
 
-<b>Build.prop Editor:</b>
-★ edit your ROM's build properties
+<b>Éditeur de Build.prop:</b>
+★ modifier les propriétés de Build de votre ROM
 
-<b>Advanced Reboot:</b>
-★ Boot into recovery or bootloader (fastboot)
+<b>Redémarrage avancé:</b>
+★ Redémarrer en Recovery bootloader (fastboot)
 
 <b>Widgets:</b>
 ★ Task Cleaner
-★ Advanced Reboot
+★ Redémarrage avancé
