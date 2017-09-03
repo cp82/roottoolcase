@@ -1,43 +1,43 @@
 ﻿TITLE
 *****
 
-Root ToolCase
+Root Alet Çantası
 
 SHORT DESCRIPTION
 *****************
 
-A great collection of tools to get more out of your android device!
+Android cihazınızdan daha fazla faydalanmak için harika bir alet çantası.
 
 FULL DESCRIPTION
 ****************
 
-<b>ROOT REQUIRED (this app won't root your device)</b>
+<b>ROOT GEREKLİ (Bu uygulama cihazınızı rootlamaz.)</b>
 
-<b>DISCLAMER:</b>
-The features of this app are very powerful, be careful to use them properly.
-THE DEVELOPER OF THIS APP IS NOT RESPONSIBLE FOR DAMAGES TO YOUR DEVICE!
+<b>SORUMLULUK REDDİ:</b>
+Bu uygulamanın özellikleri çok güçlüdür, bunları düzgün kullanmaya özen gösterin.
+BU UYGULAMA GELİŞTİRİCİSİ, CİHAZINIZIN ZARARLARDAN SORUMLU TUTULAMAZ!
 
-<b>App Manager:</b>
-★ clear app data or app cache
-★ enable/disable (freeze) apps
-★ uninstall apps
+<b>Uygulama Yöneticisi:</b>
+★ uygulama verilerini ve önceliğini temizleyin
+★ aktif/devre dışı (dondur) uygulamaları
+★ uygulamalar kaldır
 
-<b>Flash Wizard:</b>
-★ install flashable zip files
-★ create flash queue for several zip files
-★ flash boot (kernel) images
-★ flash recovery images
+<b>Flash Sihirbazı:</b>
+★ flashable dosyaları kurun
+★ Birkaç zip dosyası için flash kuyruğu oluştur
+★ boot (kernel) images flashlayın
+★ recovery images kurun
 
-<b>Init.d Emulator:</b>
-★ run scripts at startup
-★ no native init.d support required
+<b>Init.d Emülatörü:</b>
+★ başlangıçta komut dosyalarını çalıştır
+★ yerli init.d desteği gerekli değil
 
-<b>Build.prop Editor:</b>
-★ edit your ROM's build properties
+<b>Build.prop Editör:</b>
+★ ROM'unuzun yapı özelliklerini düzenleyin
 
-<b>Advanced Reboot:</b>
-★ Boot into recovery or bootloader (fastboot)
+<b>Gelişmiş Yeniden Başlatma:</b>
+★ Kurtarma veya önyükleme programına önyükleme (fastboot)
 
-<b>Widgets:</b>
-★ Task Cleaner
-★ Advanced Reboot
+<b>Widgetler:</b>
+★ Görev Temizleyici
+★ Gelişmiş Yeniden Başlatma
