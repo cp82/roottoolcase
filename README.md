@@ -60,8 +60,11 @@ You find the template in the folder "PlayStoreEntry" under "yourlanguage.txt".
 * English, US - en-US
 * French - fr
 * German - de
+* Hindi - hi
 * Italian - it
+* Russian - ru
 * Spanish - es
+* Vietnamese - vi
 
 ### Needs translation
 * Afrikaans - af
@@ -77,7 +80,6 @@ You find the template in the folder "PlayStoreEntry" under "yourlanguage.txt".
 * Finnish - fi
 * Greek - el
 * Hebrew - he
-* Hindi - hi
 * Hungarian - hu
 * Indonesian - id
 * Japanese - ja
@@ -91,7 +93,6 @@ You find the template in the folder "PlayStoreEntry" under "yourlanguage.txt".
 * Portuguese - pt-PT 
 * Portuguese, Brazilian - pt-BR
 * Romanian - ro
-* Russian - ru
 * Serbian (Cyrillic) - sr
 * Slovak - sk
 * Slovenian - sl
@@ -100,7 +101,6 @@ You find the template in the folder "PlayStoreEntry" under "yourlanguage.txt".
 * Thai - th
 * Turkish - tr
 * Ukrainian - uk
-* Vietnamese - vi
 
 
 If your language is missing or you need help with github, please send a message to cpu82@gmx.net
