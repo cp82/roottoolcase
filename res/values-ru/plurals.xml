@@ -1,27 +1,27 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <resources>
     <plurals name="apps_selected">
-        <item quantity="one">%d app selected</item>
-        <item quantity="other">%d apps selected</item>
+        <item quantity="one">%d приложение выбрано</item>
+        <item quantity="other">%d приложений выбран</item>
     </plurals>
     <plurals name="apps_clear_cache">
-        <item quantity="one">You are about to clear the cache of %d app</item>
-        <item quantity="other">You are about to clear cache of %d apps</item>
+        <item quantity="one">Вы должны очистить кэш приложения %d</item>
+        <item quantity="other">Вы должны очистить кэш приложений %d</item>
     </plurals>
     <plurals name="apps_clear_data">
-        <item quantity="one">You are about to clear the data of %d app</item>
-        <item quantity="other">You are about to clear the data of %d apps</item>
+        <item quantity="one">Вы должны очистить данные приложения %d</item>
+        <item quantity="other">Вы должны очистить данные приложений %d</item>
     </plurals>
     <plurals name="apps_uninstall">
-        <item quantity="one">You are about to uninstall %d app</item>
-        <item quantity="other">You are about to uninstall %d apps</item>
+        <item quantity="one">Вы собираетесь удалить приложение %d</item>
+        <item quantity="other">Вы собираетесь удалить %d приложения</item>
     </plurals>
     <plurals name="apps_enable">
-        <item quantity="one">You are about to enable %d app</item>
-        <item quantity="other">You are about to enable %d apps</item>
+        <item quantity="one">Вы должны включить %d app</item>
+        <item quantity="other">Вы должны включить %d приложений</item>
     </plurals>
     <plurals name="apps_disable">
-        <item quantity="one">You are about to disable %d app</item>
-        <item quantity="other">You are about to disable %d apps</item>
+        <item quantity="one">Вы должны отключить %d app</item>
+        <item quantity="other">Вы должны отключить %d приложения</item>
     </plurals>
 </resources>

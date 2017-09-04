@@ -1,53 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
 <resources>
-    <!--Main Activity-->
+    
     <string name="app_name">Root ToolCase</string>
-    <string name="action_pro">Remove ads</string>
-    <string name="action_about">About</string>
-    <string name="action_translate">Translate</string>
-    <string name="action_share">Share</string>
-    <string name="action_follow">Follow</string>
-    <string name="action_account">User account</string>
-    <string name="action_settings">Settings</string>
-    <string name="title_advanced_reboot">Advanced Reboot</string>
-    <string name="title_initd">Init.d Emulator</string>
-    <string name="title_root">ROOT REQUIRED</string>
-    <string name="title_flasher">Flash Wizard</string>
-    <string name="title_buildprop">Build.prop Editor</string>
-    <string name="title_misc">Miscellaneous</string>
-    <string name="title_activity_app_manager">App Manager</string>
-    <string name="title_activity_app">App Info</string>
-    <string name="title_activity_reboot">Advanced Reboot</string>
-    <string name="title_activity_init_d">Init.d Emulator</string>
-    <string name="title_activity_editor">Editor</string>
-    <string name="title_activity_build_prop">Build.prop Editor</string>
-    <string name="title_activity_misc">Miscellaneous tools</string>
-    <string name="alert_translate_title">App translation</string>
-    <string name="alert_translate_message">Would you like to contribute to your local translation of this app?</string>
-    <string name="alert_translate_yes">"Sure, I'm in"</string>
-    <string name="alert_translate_no">"No thanks"</string>
-    <string name="summary_app_manager">Manage user and system apps</string>
-    <string name="summary_reboot">Reboot, enter recovery or fastboot mode</string>
-    <string name="summary_root">This app requires root to function properly</string>
-    <string name="summary_buildprop">"Edit your ROM's build properties"</string>
-    <string name="summary_initd">Run scripts at boot time</string>
-    <string name="summary_misc">Miscellaneous tools</string>
-    <string name="alert_premium">Thank you for upgrading to premium!</string>
-    <string name="alert_twitter_title">Root ToolCase on Twitter</string>
-    <string name="alert_twitter_message">Root ToolCase is now on Twitter!\n\nFollow us to receive news about the latest app updates etc.</string>
-    <string name="alert_upgrade_title">Upgrade</string>
-    <string name="alert_upgrade_message">Would you like to upgrade to the ad free version?</string>
-    <string name="message_share">"Check out \"%s\": "</string>
-    <string name="ad_failed">Please upgrade to the ad-free version to support the developer</string>
+    <string name="action_pro">Удалить рекламу</string>
+    <string name="action_about">О приложении</string>
+    <string name="action_translate">Перевести</string>
+    <string name="action_share">Предоставить общий доступ</string>
+    <string name="action_follow">Следить</string>
+    <string name="action_account">Учетная запись пользователя</string>
+    <string name="action_settings">Параметры</string>
+    <string name="title_advanced_reboot">Расширенная перезагрузка</string>
+    <string name="title_initd">Эмулятор Init.d</string>
+    <string name="title_root">КОРЕНЬ ТРЕБУЕТСЯ</string>
+    <string name="title_flasher">Мастер прошивок</string>
+    <string name="title_buildprop">Редактор Build.prop</string>
+    <string name="title_misc">Прочее</string>
+    <string name="title_activity_app_manager">Менеджер приложений</string>
+    <string name="title_activity_app">Информация приложения</string>
+    <string name="title_activity_reboot">Расширенные перезагрузки</string>
+    <string name="title_activity_init_d">Эмулятор Init.d</string>
+    <string name="title_activity_editor">Редактор</string>
+    <string name="title_activity_build_prop">Редактор Build.prop</string>
+    <string name="title_activity_misc">Прочие инструменты</string>
+    <string name="alert_translate_title">App Перевод</string>
+    <string name="alert_translate_message">Вы хотите перевести это приложение на язык своей страны?</string>
+    <string name="alert_translate_yes">Конечно я в</string>
+    <string name="alert_translate_no">Нет, спасибо</string>
+    <string name="summary_app_manager">Управление пользовательских и системных приложений</string>
+    <string name="summary_reboot">Перезагрузитесь, войдите в режим восстановления или fastboot</string>
+    <string name="summary_root">Приложению требуются права суперпользователя</string>
+    <string name="summary_buildprop">Редактировать свойства построения вашего ROM</string>
+    <string name="summary_initd">Выполнять скрипты во время загрузки</string>
+    <string name="summary_misc">Другие инструменты</string>
+    <string name="alert_premium">Благодарю вас за обновление до премиум!</string>
+    <string name="alert_twitter_title">Корень ToolCase по щебетать</string>
+    <string name="alert_twitter_message">ToolCase корень в настоящее время на Twitter! \n\nFollow нам получать новости о последних обновлениях приложения и т.д.</string>
+    <string name="alert_upgrade_title">Премиум</string>
+    <string name="alert_upgrade_message">Вы хотите обновить версию без рекламы?</string>
+    <string name="message_share">Проверить «%s\": </string>
+    <string name="ad_failed">Выполните обновление до версии ad бесплатный для поддержки разработчиков</string>
 
-    <!--Flash Wizard-->
+    
     <string name="title_activity_flash">Flash Wizard</string>
-    <string name="summary_flasher">Install flashable zips or images</string>
-    <string name="flasher_header">Choose an action</string>
-    <string name="flasher_type_zip">Install flashable zip (TWRP or CWM required)</string>
-    <string name="flasher_type_recovery">Install revovery image</string>
-    <string name="flasher_type_boot">Install boot image (kernel)</string>
-    <string name="flasher_hint_zip">Add up to 5 zip files to the flash queue</string>
-    <string name="flasher_hint_image">Choose an image file</string>
+    <string name="summary_flasher">Установить перезаписываемыми молнии или изображения</string>
+    <string name="flasher_header">Выберите действие</string>
+    <string name="flasher_type_zip">Флэш-запись zip-файла (TWRP или CWM требуется)</string>
+    <string name="flasher_type_recovery">Установить образ для восстановления</string>
+    <string name="flasher_type_boot">Установить бут-образ (ядро)</string>
+    <string name="flasher_hint_zip">Добавить до 5 zip файлов</string>
+    <string name="flasher_hint_image">Выберите файл изображения</string>
     <string name="alert_choose_zip">Select zip file to install</string>
     <string name="alert_choose_img">Select image file to install</string>
     <string name="alert_recovery_title">Flash Recovery Image</string>
@@ -56,71 +57,63 @@
     <string name="alert_kernel_title">Flash Boot Image (Kernel)</string>
     <string name="alert_kernel_progress">Flashing Boot Image</string>
     <string name="alert_kernel_message">Flashing the wrong image may corrupt your boot partition (Kernel). In that case, you may need to reflash your ROM.\n\nAre you sure you want to proceed?</string>
-    <string name="cfg_backup_title">BACKUP (TWRP REQUIRED)</string>
-    <string name="cfg_backup">Create backup</string>
-    <string name="toast_image_success">%1$s successfully flashed</string>
-    <string name="action_load_queue">Load flash queue</string>
-    <string name="action_save_queue">Save flash queue</string>
-    <string name="action_delete_queue">Delete flash queue</string>
-    <string name="alert_new_queue">Create new queue</string>
-    <string name="alert_new_queue_title">New flash queue</string>
-    <string name="alert_new_queue_message">Enter a name for your flash queue</string>
-    <string name="toast_error_existingqueue">This queue already exists!</string>
-    <string name="toast_deletelist_success">\"%1$s\" successfully deleted</string>
-    <string name="toast_queue_empty">Queue is empty</string>
+    <string name="cfg_backup_title">Резервное копирование (ТРЕБУЕТСЯ TWRP)</string>
+    <string name="cfg_backup">Создать резервную копию</string>
+    <string name="toast_image_success">%1$s успешно установлен</string>
 
-    <!--App Manager-->
-    <string name="apps_total">All apps (%1$d)</string>
-    <string name="apps_system">System apps (%1$d)</string>
-    <string name="apps_user">User apps (%1$d)</string>
-    <string name="apps_frozen">Disabled apps (%1$d)</string>
-    <string name="apps_updated">Updated system apps (%1$d)</string>
-    <string name="apps_search">%1$d apps found</string>
-    <string name="apps_fromlist">%1$s (%2$d)</string>
-    <string name="apps_init">Analyzing installed apps. Just a sec…</string>
-    <string name="apps_init_size">Calculating app size. Just a sec…</string>
-    <string name="apps_sizeinfo">%1$.1f MB</string>
-    <string name="apps_label_app">"App: "</string>
-    <string name="apps_label_data">"Data: "</string>
-    <string name="action_filter_all">All</string>
-    <string name="action_filter_system">System apps</string>
-    <string name="action_filter_user">User apps</string>
-    <string name="action_filter_frozen">Disabled apps</string>
-    <string name="action_filter_updated">Updated system apps</string>
-    <string name="action_filter_custom">Custom list</string>
-    <string name="action_sort_by_name">Sort by name</string>
-    <string name="action_sort_by_package">Sort by package</string>
-    <string name="action_sort_by_appsize">Sort by apk size</string>
-    <string name="action_sort_by_datasize">Sort by data size</string>
-    <string name="action_sort_by_totalsize">Sort by total size</string>
-    <string name="action_title">Choose an action</string>
-    <string name="action_uninstall">Uninstall</string>
-    <string name="action_freeze">Disable</string>
-    <string name="action_unfreeze">Enable</string>
-    <string name="action_clear_data">Clear data</string>
-    <string name="action_clear_cache">Clear cache</string>
-    <string name="action_extract">Extract</string>
+    
+    <string name="apps_total">Все приложений (%1$d)</string>
+    <string name="apps_system">Системные (%1$d)</string>
+    <string name="apps_user">Пользователь (%1$d)</string>
+    <string name="apps_frozen">Инвалидов приложений (%1$d)</string>
+    <string name="apps_updated">Обновленные системные приложения (%1$d)</string>
+    <string name="apps_search">Найдено приложений %1$d</string>
+    <string name="apps_fromlist">%1$s (%2$d)</string>    
+    <string name="apps_init">Анализ установленных приложений. Пожалуйста, подождите...</string>
+    <string name="apps_init_size">Вычисление общего размера всех ваших приложений. Пожалуйста, подождите...</string>    
+    <string name="apps_sizeinfo">%1$.1f Мб</string>    
+    <string name="apps_label_app">Приложение: </string>
+    <string name="apps_label_data">Данные: </string>
+    <string name="action_filter_all">Все</string>
+    <string name="action_filter_system">Системы приложений</string>
+    <string name="action_filter_user">Пользователь приложений</string>    
+    <string name="action_filter_frozen">Инвалидов приложений</string>
+    <string name="action_filter_updated">Обновленные системные приложения</string>
+    <string name="action_filter_custom">Пользовательский список</string>    
+    <string name="action_sort_by_name">Сортировка по имени</string>
+    <string name="action_sort_by_package">Сортировка по упаковке</string>
+    <string name="action_sort_by_appsize">Сортировать по размеру APK</string>
+    <string name="action_sort_by_datasize">Сортировать по размеру данных</string>
+    <string name="action_sort_by_totalsize">Сортировка по общий размер</string>    
+    <string name="action_title">Выберите действие</string>    
+    <string name="action_uninstall">удалить</string>
+    <string name="action_freeze">Выключить</string>
+    <string name="action_unfreeze">включить</string>    
+    <string name="action_clear_data">Стереть данные</string>
+    <string name="action_clear_cache">Стереть кэш</string>    
+    <string name="action_extract">Экстракт</string>    
     <string name="action_convert_system">Convert to system app</string>
     <string name="action_convert_user">Convert to user app</string>
-    <string name="action_integrate_update">Integrate update to system</string>
-    <string name="action_multiselect">Multiple selection</string>
-    <string name="action_customlist">Add to custom list</string>
-    <string name="action_delete_list">Delete current list</string>
-    <string name="app_updated">UPDATED</string>
-    <string name="app_disabled">DISABLED</string>
-    <string name="appinfo_name">Name:</string>
-    <string name="appinfo_pkg">Package:</string>
-    <string name="appinfo_status">Status:</string>
-    <string name="appinfo_version">Version:</string>
-    <string name="appinfo_path">Path:</string>
-    <string name="appinfo_memory">Memory usage</string>
-    <string name="meminfo_total">Total:</string>
+    <string name="action_integrate_update">Integrate update to system</string>    
+    <string name="action_multiselect">Множественный выбор</string>
+    <string name="action_customlist">Добавить в личный список</string>
+    <string name="action_delete_list">Удалить текущий список</string>
+    
+    <string name="app_updated">ОБНОВЛЕНО</string>
+    <string name="app_disabled">ОТКЛЮЧЕНО</string>
+    <string name="appinfo_name">Имя:</string>
+    <string name="appinfo_pkg">Пакет:</string>
+    <string name="appinfo_status">Статус:</string>
+    <string name="appinfo_version">Версия:</string>
+    <string name="appinfo_path">Путь:</string>
+    <string name="appinfo_memory">Использование памяти</string>
+    <string name="meminfo_total">Итого:</string>
     <string name="meminfo_apk">APK:</string>
     <string name="meminfo_odex">Odex:</string>
     <string name="meminfo_libs">Libs:</string>
-    <string name="meminfo_data">Data:</string>
-    <string name="meminfo_extdata">Data (ext.):</string>
-    <string name="meminfo_cache">Cache:</string>
+    <string name="meminfo_data">Данные:</string>
+    <string name="meminfo_extdata">Данные (внутр. тел.):</string>
+    <string name="meminfo_cache">Кэш:</string>       
     <string name="alert_freeze_title">Disable apps</string>
     <string name="alert_unfreeze_title">Enable apps</string>
     <string name="alert_attention">Attention</string>
@@ -130,8 +123,6 @@
     <string name="alert_extract_title">Extract apk</string>
     <string name="alert_extract_message">"Do you want to extract the apk file of this app?\n\nYou'll find the file under:\n\n \"/sdcard/Root Toolcase/Extracted\""</string>
     <string name="alert_integrate_update">Do you want to integrate this update to system?</string>
-    <string name="alert_convert_system" translatable="false">"Do you want to convert this app to a system app?\n\nYou'll need to restart your device to make your changes effective."</string>
-    <string name="alert_convert_user" translatable="false">"Do you want to convert this app to a user app?\n\nYou'll need to restart your device to make your changes effective."</string>
     <string name="alert_overwrite_title">Notice</string>
     <string name="alert_overwrite_message">This app already exists. Do you want to overwrite the existing app?</string>
     <string name="alert_overwrite_sysapp_message">This system app already exists.\n\nOverwriting system apps may corrupt your system. In that case, you may need to reflash your ROM.\n\nDo you want to overwrite the existing app?</string>
@@ -173,20 +164,21 @@
     <string name="toast_error_existinglist">This list already exists!</string>
     <string name="toast_newlist_failed">Error creating list</string>
     <string name="toast_error_videoad">Error playing video ad. Please check your internet connection and ad-block settings and try again!</string>
+    <string name="alert_hint_title">Hint</string>
+    <string name="alert_hint_message">You can also use quick actions on apps.\n\nOpen the quick actions menu by long-pressing a list entry!</string>
 
 
-
-    <!--Advanced reboot-->
-    <string name="reboot_title">Reboot</string>
-    <string name="reboot_summary">Reboot your device</string>
-    <string name="reboot_soft_title">Soft Reboot</string>
-    <string name="reboot_soft_summary">Reboot android system only</string>
-    <string name="reboot_recovery_title">Reboot to Recovery</string>
-    <string name="reboot_recovery_summary">Reboot your device in recovery mode</string>
-    <string name="reboot_fastboot_title">Reboot to Bootloader</string>
-    <string name="reboot_fastboot_summary">Reboot your device in download or fastboot mode</string>
-    <string name="reboot_poweroff_title">Power off</string>
-    <string name="reboot_poweroff_summary">Switch off your device</string>
+    
+    <string name="reboot_title">Перезагрузить</string>
+    <string name="reboot_summary">Устройство будет перезагружено</string>
+    <string name="reboot_soft_title">Быстрый перезапуск</string>
+    <string name="reboot_soft_summary">Перезагрузка системы android только</string>    
+    <string name="reboot_recovery_title">Перезапуск восстановления</string>    
+    <string name="reboot_recovery_summary">Перезапуск в режим восстановления</string>    
+    <string name="reboot_fastboot_title">Перезапуск загрузчика</string>
+    <string name="reboot_fastboot_summary">ППерезапуск в загрузчик (fastboot)</string>    
+    <string name="reboot_poweroff_title">Выключение</string>
+    <string name="reboot_poweroff_summary">Устройство будет выключено</string>    
     <string name="alert_reboot">Rebooting</string>
     <string name="alert_reboot_soft">Restarting Android</string>
     <string name="alert_reboot_recovery">Rebooting into Recovery</string>
@@ -195,40 +187,39 @@
     <string name="alert_fastboot_title">Reboot to Bootloader</string>
     <string name="alert_fastboot_message">Do you really want to reboot your device into the bootloader?\n\nThis feature may be disabled in some ROMs. You can probably turn it on in the developer settings.</string>
 
-
-    <!--Init.d emulator-->
-    <string name="initd_title">Enable init.d</string>
-    <string name="initd_summary">"Init.d emulation allows you to run scripts at startup even on ROMs without native init.d support.\n\nDon't use this option if your ROM has native init.d or you are already using another init.d emulator."</string>
-    <string name="alert_initd_new">New script</string>
-    <string name="alert_initd_name">Enter a name for your script</string>
-    <string name="alert_initd_delete">Delete script</string>
+    
+    
+    <string name="initd_title">Эмулировать Init.d</string>
+    <string name="initd_summary">Init.d эмуляции позволяет запускать сценарии при запуске даже на ПЗУ без родной init.d поддержки.</string>
+    <string name="alert_initd_new">Новый сценарий</string>
+    <string name="alert_initd_name">Введите имя для вашего скрипта</string>
+    <string name="alert_initd_delete">Удалить скрипт</string>
     <string name="toast_initd_save">Changes to %s saved</string>
     <string name="alert_initd_delete_message">Are you sure you want to delete this script (%s)?</string>
     <string name="alert_unsaved_title">Save changes</string>
     <string name="alert_unsaved_messsage">You have unsaved changes.\n\nSave changes now?</string>
-    <string name="initd_run">Run</string>
-    <string name="initd_edit">Edit</string>
-    <string name="initd_delete">Delete</string>
+    <string name="initd_run">Выполнять</string>
+    <string name="initd_edit">Редактировать</string>
+    <string name="initd_delete">Удалить</string>
 
-
-    <!--Build.prop Editor-->
-    <string name="prop_edit">Edit</string>
-    <string name="prop_delete">Delete</string>
-    <string name="action_sort_by_key">Sort by key</string>
-    <string name="action_sort_by_file">Original</string>
-    <string name="alert_prop_delete_message">Are you sure you want to delete this property (%s)?</string>
-    <string name="alert_prop_delete">Delete property</string>
-    <string name="alert_prop_edit">Edit property</string>
-    <string name="alert_prop_new">New property</string>
-    <string name="search_hint_key">Search for keys</string>
-    <string name="alert_reboot_title">Reboot</string>
-    <string name="alert_reboot_later">Later</string>
-    <string name="alert_reboot_message">Reboot now to make your changes effective?</string>
-    <string name="alert_reboot_message2">To make your changes effective, you need to reboot your device.\n\nReboot now?</string>
-    <string name="alert_backup_title">Select a backup</string>
-    <string name="alert_nobackup_message">No backups found</string>
-    <string name="alert_restore">Restore</string>
-    <string name="alert_delete">Delete</string>
+    
+    <string name="prop_edit">Изменить</string>
+    <string name="prop_delete">Удалить</string>
+    <string name="action_sort_by_key">Сортировка по ключу</string>
+    <string name="action_sort_by_file">Исходный текст</string>
+    <string name="alert_prop_delete_message">Вы уверены, что хотите удалить это свойство (%s)?</string>
+    <string name="alert_prop_delete">Удалить свойство</string>
+    <string name="alert_prop_edit">Изменить свойства</string>
+    <string name="alert_prop_new">Новое свойство</string>
+    <string name="search_hint_key">Поиск для ключей</string>
+    <string name="alert_reboot_title">Перезагрузить</string>
+    <string name="alert_reboot_later">Позже</string>
+    <string name="alert_reboot_message">Перезагрузить сейчас, чтобы сделать ваши изменения эффективным?</string>
+    <string name="alert_reboot_message2">Чтобы ваши изменения эффективным, вам нужно перезагрузить ваш device.\n\nПерезагрузить сейчас?</string>
+    <string name="alert_backup_title">Выберите резервную копию</string>
+    <string name="alert_nobackup_message">Резервные копии не найдены</string>
+    <string name="alert_restore">Восстановление</string>
+    <string name="alert_delete">Удалить</string>
     <string name="toast_save_success">Backup of build.prop successfully created</string>
     <string name="toast_save_error">Error backing up build.prop</string>
     <string name="toast_delete_success">Backup deleted</string>
@@ -236,93 +227,65 @@
     <string name="toast_restore_error">Error restoring build.prop</string>
     <string name="toast_version">This feature is currently only available for Android 5.0+</string>
 
-    <!--General dialogs-->
-    <string name="alert_title_root">Root required</string>
-    <string name="alert_root">This app requires root access</string>
-    <string name="alert_yes">Yes</string>
-    <string name="alert_sure">"Sure, I'm in"</string>
-    <string name="alert_no">No</string>
-    <string name="alert_no_thanks">No, thanks</string>
-    <string name="alert_ok">OK</string>
-    <string name="alert_save">Save</string>
-    <string name="alert_discard">Discard</string>
-    <string name="alert_cancel">Cancel</string>
-    <string name="alert_continue">Continue</string>
-    <string name="search_title">Search</string>
-    <string name="status_requesting_root">Requesting root access</string>
-    <string name="status_requesting_write">Requesting write access</string>
-    <string name="status_load_main">Loading main screen</string>
-    <string name="btn_cancel">Cancel</string>
-    <string name="toast_error">An error occurred</string>
+    
+    <string name="alert_title_root">Корень требуется</string>
+    <string name="alert_root">Приложению требуются права суперпользователя</string>
+    <string name="alert_yes">Да</string>
+    <string name="alert_sure">Конечно я в</string>
+    <string name="alert_no">Нет</string>
+    <string name="alert_no_thanks">Нет, спасибо</string>
+    <string name="alert_ok">Хорошо</string>
+    <string name="alert_save">Сохранить</string>
+    <string name="alert_discard">Отменить</string>
+    <string name="alert_cancel">Отмена</string>
+    <string name="alert_continue">Продолжить</string>
+    <string name="search_title">Поиск</string>
+    <string name="status_requesting_root">Запрос прав суперпользователя</string>
+    <string name="status_requesting_write">Запрос доступа на запись</string>
+    <string name="status_load_main">Загрузка основного экрана</string>
+    <string name="btn_cancel">Отмена</string>
+    <string name="toast_error">Произошла ошибка</string>
 
 
-    <!--Widgets-->
-    <string name="widget_reboot">Reboot</string>
+    
+    <string name="widget_reboot">Перезагрузка</string>
     <string name="widget_cleaner">Task Cleaner</string>
     <string name="widget_toast_saved">%1.1f MB freed</string>
-    <string name="widget_toast_version">This feature is currently only available for Android 5.1+</string>
-    <string name="widget_toast_noroot">No root access</string>
-    <string name="widget_busy">Just a sec…</string>
+    <string name="widget_toast_version">В настоящее время эта функция доступна только для Android 5.1 +</string>
+    <string name="widget_toast_noroot">Рут-доступ не найден</string>
+    <string name="widget_busy">Пожалуйста, подождите...</string>
 
 
-    <!--About Page-->
-    <string name="title_about">About</string>
-    <string name="title_betatest">Beta tester</string>
-    <string name="title_translation">English translation</string>
+    
+    <string name="title_about">О приложении</string>
+    <string name="title_betatest">Тестеры</string>
+    <string name="title_translation">Русский язык</string>
     <string name="translators">cpu82</string>
-
-
-    <!--miscellaneous-->
-    <string name="adb_title">ADB over WiFi</string>
-    <string name="adb_summary">Enable ADB over WiFi to connect wirelessly from your PC</string>
+    
+    <string name="adb_title">ADB через WiFi</string>
+    <string name="adb_summary">Включить ADB через WiFi для беспроводного подключения с вашего компьютера</string>
     <string name="adb_connect">Use \"adb connect %s:5555\" to connect to this device</string>
-    <string name="spellcheck_title">Spell check</string>
-    <string name="spellcheck_summary">Enable or disable spell check (red underlines)</string>
+    <string name="spellcheck_title">Проверка правописания</string>
+    <string name="spellcheck_summary">Включение и отключение проверки правописания (красное подчеркивание)</string>
     <string name="mountrw_title">Mount System R/W</string>
     <string name="mountrw_summary">Mount system partition (/system) readable/writable instead of read-only</string>
+    <string name="language_title">Изменить язык системы</string>
+    <string name="alert_select_language">Выбрать язык</string>
 
 
-
-    <!-- Account -->
-    <string name="title_activity_account">User account</string>
-    <string name="title_user">User info</string>
-    <string name="title_license">License info</string>
-    <string name="title_cloud">Cloud synchronisation</string>
-    <string name="switch_googledrive">Google Drive</string>
-    <string name="verified">Email verified</string>
-    <string name="not_verified">Email not verified</string>
-    <string name="user_standard">Standard</string>
-    <string name="user_premium">★ Premium ★</string>
-    <string name="signed_out">Signed out</string>
-    <string name="signed_in">Signed in</string>
-    <string name="auth_failed">Authentication failed</string>
-    <string name="hint_email">Email</string>
-    <string name="hint_password">Password</string>
-    <string name="sign_in">Sign In</string>
-    <string name="create_account">Create Account</string>
-    <string name="sign_out">Sign Out</string>
-    <string name="verify_email">Send verification link</string>
-    <string name="alert_email">Enter Email address</string>
-    <string name="email">Email</string>
-    <string name="reset_password">Reset password</string>
-    <string name="forgot_password">Forgot password</string>
-    <string name="forgot_password_link"><u>Forgot password</u></string>
-    <string name="forgot_password_message">Please enter your Email</string>
-    <string name="upgrade">Upgrade</string>
-    <string name="request_license">Request license</string>
-    <string name="activate_license">Enter license key</string>
-    <string name="request_new_key">Request new key</string>
-    <string name="license_key">License key</string>
-    <string name="toast_license_success">License activated</string>
-    <string name="toast_license_failed">License activation failed</string>
-    <string name="toast_license_request_failed">Error requesting license</string>
-    <string name="toast_reset_success">Reset link sent to %s</string>
-    <string name="toast_reset_failed">Failed to send reset link</string>
-    <string name="toast_verify_success">Verification email sent to %s</string>
-    <string name="toast_verify_failed">Failed to send verification email</string>
-    <string name="alert_verify">Verification missing</string>
-    <string name="alert_verify_message">You need to verify your Email first</string>
-    <string name="alert_sign_in">You need to sign in first</string>
+    <string name="title_activity_account">Учетная запись пользователя</string>
+    <string name="title_user">Информация о пользователе</string>
+    <string name="title_license">Информация о лицензии</string>
+    <string name="user_standard">Стандарт</string>
+    <string name="user_premium">★ Премиум ★</string>
+    <string name="upgrade">Обновление</string>
+    <string name="request_license">Запрос лицензии</string>
+    <string name="activate_license">Введите лицензионный ключ</string>
+    <string name="request_new_key">Запросить новый ключ</string>
+    <string name="license_key">Лицензионный ключ</string>
+    <string name="toast_license_success">Лицензия активирована</string>
+    <string name="toast_license_failed">Сбой активации лицензии</string>
+    <string name="toast_license_request_failed">Ошибка запрашивающее лицензию</string>
     <string name="alert_paypal_title">Donate to get a license</string>
     <string name="alert_paypal_message">"You will be redirected to PayPal now.\n\nOnce, your donation has been approved, you'll receive an Email notification within the next 72hrs."</string>
     <string name="alert_paypal_message_noauth">"You will be redirected to PayPal now.\n\nOnce, your donation has been approved, you'll receive an Email with your license key within the next 72hrs."</string>
@@ -337,5 +300,40 @@
     <string name="step_approve">"You'll receive your license within by Email the next 72hrs"</string>
     <string name="title_status">Status</string>
     <string name="chanced_device">Changed your device?</string>
+    <string name="action_delete_queue">Delete flash queue</string>
+    <string name="action_load_queue">Load flash queue</string>
+    <string name="action_save_queue">Save flash queue</string>
+    <string name="alert_new_queue">Create new queue</string>
+    <string name="alert_new_queue_message">Enter a name for your flash queue</string>
+    <string name="toast_queue_empty">Queue is empty</string>
+    <string name="toast_deletelist_success">\"%1$s\" successfully deleted</string>
+    <string name="toast_error_existingqueue">This queue already exists!</string>
+    <string name="alert_new_queue_title">New flash queue</string>
+    <string name="alert_sign_in">You need to sign in first</string>
+    <string name="alert_verify">Verification missing</string>
+    <string name="alert_verify_message">You need to verify your Email first</string>
+    <string name="auth_failed">Authentication failed</string>
+    <string name="create_account">Create Account</string>
+    <string name="email">Email</string>
+    <string name="forgot_password">"Forgot "</string>
+    <string name="forgot_password_link"><u>Forgot password</u></string>
+    <string name="forgot_password_message">Please enter your Email</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="not_verified">Email not verified</string>
+    <string name="reset_password">Reset password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="signed_in">Signed in</string>
+    <string name="signed_out">Signed out</string>
+    <string name="switch_googledrive">Google Drive</string>
+    <string name="title_cloud">Cloud synchronisation</string>
+    <string name="toast_reset_failed">Failed to send reset link</string>
+    <string name="toast_reset_success">Reset link sent to %s</string>
+    <string name="toast_verify_failed">Failed to send verification email</string>
+    <string name="toast_verify_success">Verification email sent to %s</string>
+    <string name="verified">Email verified</string>
+    <string name="verify_email">Send verification link</string>
+    <string name="alert_email">Enter Email address</string>
 
 </resources>
