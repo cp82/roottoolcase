@@ -10,7 +10,7 @@ This repository contains the translation for my app [Root ToolCase](https://play
 You can help making this app better by contributing to your local translation.
 
 Your work will be credited in the app's about page:
-![alt text](https://i.imgur.com/ymumsIs.png)
+![alt text](http://i.imgur.com/oUa0sp3.png)
 
 ### Prerequisites
 
