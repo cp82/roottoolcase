@@ -10,7 +10,7 @@ This repository contains the translation for my app [Root ToolCase](https://play
 You can help making this app better by contributing to your local translation.
 
 Your work will be credited in the app's about page:
-![alt text](http://imgur.com/9VIn4o6.png)
+![alt text](https://i.imgur.com/ymumsIs.png)
 
 ### Prerequisites
 
@@ -62,8 +62,10 @@ You find the template in the folder "PlayStoreEntry" under "yourlanguage.txt".
 * German - de
 * Hindi - hi
 * Italian - it
+* Portuguese - pt-PT 
 * Russian - ru
 * Spanish - es
+* Turkish - tr
 * Vietnamese - vi
 
 ### Needs translation
@@ -90,7 +92,6 @@ You find the template in the folder "PlayStoreEntry" under "yourlanguage.txt".
 * Norwegian - nb
 * Persian - fa
 * Polish - pl
-* Portuguese - pt-PT 
 * Portuguese, Brazilian - pt-BR
 * Romanian - ro
 * Serbian (Cyrillic) - sr
@@ -99,7 +100,6 @@ You find the template in the folder "PlayStoreEntry" under "yourlanguage.txt".
 * Swedish - sv-SE
 * Tagalog - tl-PH
 * Thai - th
-* Turkish - tr
 * Ukrainian - uk
 
 
