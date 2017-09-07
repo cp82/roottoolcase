@@ -83,7 +83,7 @@ You find the template in the folder "PlayStoreEntry" under "yourlanguage.txt".
 * Greek - el
 * Hebrew - he
 * Hungarian - hu
-* Indonesian - id
+* Indonesian - in
 * Japanese - ja
 * Korean - ko
 * Latvian - lv
