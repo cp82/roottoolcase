@@ -11,12 +11,12 @@
     <string name="action_settings">Параметры</string>
     <string name="title_advanced_reboot">Расширенная перезагрузка</string>
     <string name="title_initd">Эмулятор Init.d</string>
-    <string name="title_root">КОРЕНЬ ТРЕБУЕТСЯ</string>
+    <string name="title_root">Требуются root права</string>
     <string name="title_flasher">Мастер прошивок</string>
     <string name="title_buildprop">Редактор Build.prop</string>
     <string name="title_misc">Прочее</string>
     <string name="title_activity_app_manager">Менеджер приложений</string>
-    <string name="title_activity_app">Информация приложения</string>
+    <string name="title_activity_app">Информация о приложениях</string>
     <string name="title_activity_reboot">Расширенные перезагрузки</string>
     <string name="title_activity_init_d">Эмулятор Init.d</string>
     <string name="title_activity_editor">Редактор</string>
@@ -24,21 +24,21 @@
     <string name="title_activity_misc">Прочие инструменты</string>
     <string name="alert_translate_title">App Перевод</string>
     <string name="alert_translate_message">Вы хотите перевести это приложение на язык своей страны?</string>
-    <string name="alert_translate_yes">Конечно я в</string>
+    <string name="alert_translate_yes">Да</string>
     <string name="alert_translate_no">Нет, спасибо</string>
-    <string name="summary_app_manager">Управление пользовательских и системных приложений</string>
+    <string name="summary_app_manager">Управление пользовательскими и системными приложениями</string>
     <string name="summary_reboot">Перезагрузитесь, войдите в режим восстановления или fastboot</string>
     <string name="summary_root">Приложению требуются права суперпользователя</string>
     <string name="summary_buildprop">Редактировать свойства построения вашего ROM</string>
-    <string name="summary_initd">Выполнять скрипты во время загрузки</string>
+    <string name="summary_initd">Выполнить скрипты во время загрузки</string>
     <string name="summary_misc">Другие инструменты</string>
     <string name="alert_premium">Благодарю вас за обновление до премиум!</string>
     <string name="alert_twitter_title">Корень ToolCase по щебетать</string>
-    <string name="alert_twitter_message">ToolCase корень в настоящее время на Twitter! \n\nFollow нам получать новости о последних обновлениях приложения и т.д.</string>
+    <string name="alert_twitter_message">ToolCase в настоящее время на Twitter! \n\nFollow нам получать новости о последних обновлениях приложения и т.д.</string>
     <string name="alert_upgrade_title">Премиум</string>
     <string name="alert_upgrade_message">Вы хотите обновить версию без рекламы?</string>
     <string name="message_share">Проверить «%s\": </string>
-    <string name="ad_failed">Выполните обновление до версии ad бесплатный для поддержки разработчиков</string>
+    <string name="ad_failed">Выполните обновление до версии без рекламы и поддержите разработчиков</string>
 
     
     <string name="title_activity_flash">Flash Wizard</string>
