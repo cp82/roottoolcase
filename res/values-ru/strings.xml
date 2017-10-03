@@ -220,9 +220,9 @@
     <string name="alert_nobackup_message">Резервные копии не найдены</string>
     <string name="alert_restore">Восстановление</string>
     <string name="alert_delete">Удалить</string>
-    <string name="toast_save_success">Backup build.prop успешно создан</string>
+    <string name="toast_save_success">Резервная копия build.prop успешно создана</string>
     <string name="toast_save_error">Error backing up build.prop</string>
-    <string name="toast_delete_success">Backup deleted</string>
+    <string name="toast_delete_success">Резервная копия удалена</string>
     <string name="toast_restore_success">Backup of build.prop successfully restored</string>
     <string name="toast_restore_error">Error restoring build.prop</string>
     <string name="toast_version">This feature is currently only available for Android 5.0+</string>
@@ -260,7 +260,7 @@
     <string name="title_about">О приложении</string>
     <string name="title_betatest">Тестеровщики</string>
     <string name="title_translation">Перевод на русский язык</string>
-    <string name="translators">cpu82, fozema67(Дмитрий Митерин)</string>
+    <string name="translators">cpu82\n fozema67(Дмитрий Митерин)</string>
     
     <string name="adb_title">ADB через WiFi</string>
     <string name="adb_summary">Включить ADB через WiFi для беспроводного подключения с вашего компьютера</string>
