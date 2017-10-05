@@ -11,32 +11,32 @@ A great collection of tools to get more out of your android device!
 FULL DESCRIPTION
 ****************
 
-<b>ROOT REQUIRED (this app won't root your device)</b>
+<b>ROOT REQUIRED (это приложение не работает на устройствах без root)</b>
 
 <b>DISCLAMER:</b>
 The features of this app are very powerful, be careful to use them properly.
 THE DEVELOPER OF THIS APP IS NOT RESPONSIBLE FOR DAMAGES TO YOUR DEVICE!
 
-<b>App Manager:</b>
-★ clear app data or app cache
-★ enable/disable (freeze) apps
-★ uninstall apps
+<b>Менеджер приложений:</b>
+★ Очистка данных или кэша приложений
+★ Заморозка и разморозка приложений
+★ Удаление приложений
 
 <b>Flash Wizard:</b>
-★ install flashable zip files
+★ Установка zip прошивок
 ★ create flash queue for several zip files
-★ flash boot (kernel) images
-★ flash recovery images
+★ Установка образов ядер
+★ Установка образов recovery
 
-<b>Init.d Emulator:</b>
+<b>Init.d Эмулятор:</b>
 ★ run scripts at startup
 ★ no native init.d support required
 
 <b>Build.prop Editor:</b>
-★ edit your ROM's build properties
+★ Редактирование вашей прошивки
 
 <b>Advanced Reboot:</b>
-★ Boot into recovery or bootloader (fastboot)
+★ Перезагрузка в recovery или fastboot
 
 <b>Widgets:</b>
 ★ Task Cleaner
