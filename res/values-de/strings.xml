@@ -44,7 +44,7 @@
     <string name="summary_flasher">Flashbare ZIPs oder Images installieren</string>
     <string name="flasher_header">Wählen Sie eine Aktion</string>
     <string name="flasher_type_zip">Flashbare ZIP-Datei installieren (TWRP oder CWM erforderlich)</string>
-    <string name="flasher_type_recovery">Revovery-Image installieren</string>
+    <string name="flasher_type_recovery">Recovery-Image installieren</string>
     <string name="flasher_type_boot">Boot-Image (Kernel installieren)</string>
     <string name="flasher_hint_zip">Fügen Sie bis zu 5 ZIP-Dateien hinzu</string>
     <string name="flasher_hint_image">Wählen Sie ein Image</string>
@@ -332,6 +332,28 @@
     <string name="toast_queue_empty">Liste ist leer</string>
     <string name="mountrw_title">System R/W einhängen</string>
     <string name="mountrw_summary">Die Systempartition (/system) beschreibbar einhängen (statt read-only)</string>
-
+    <string name="language_title">Systemsprache ändern</string>
+    <string name="alert_select_language">Sprache wählen</string>
+    <string name="alert_hint_title">Tipp</string>
+    <string name="alert_hint_message">Sie können auch Schnellaktionen auf Apps anwenden.\n\nÖffnen Sie das Aktionsmenü durch langes Drücken auf einen Listeneintrag!</string>
+    <string name="action_rate">Bewerten</string>
+    <string name="alert_great">Großartig!</string>
+    <string name="alert_improve">Was können wir verbessern?</string>
+    <string name="alert_not_again">Nicht mehr fragen</string>
+    <string name="alert_rate_market">Bitte teilen Sie diese Meinung mit anderen auf Google Play.\n\nVielen Dank!</string>
+    <string name="ui_design">Das Appdesign ist verbesserungswürdig</string>
+    <string name="like">Ganz gut</string>
+    <string name="feature_missing">Mir fehlt eine bestimmte Funktion</string>
+    <string name="feature_broken">Ein Feature funktioniert nicht richtig</string>
+    <string name="comment">Kommentar</string>
+    <string name="awesome">Fantastisch!</string>
+    <string name="dislike">Nicht so toll</string>
+    <string name="alert_rate">Wie gefällt Ihnen Root ToolCase?</string>
+    <string name="alert_send">Senden</string>
+    <string name="alert_thanks">Vielen Dank!</string>
+    <string name="alert_too_bad">Das ist sehr schade!</string>
+    <string name="apps_sysupdate">Suche nach reinstallierten Systemapps. Einen Moment…</string>
+    <string name="notify_sysupdate_title">Systemupdate erkannt</string>
+    <string name="notify_sysupdate">Root ToolCase kann prüfen, ob bereits gelöschte Systemapps wieder installiert wurden.</string>
 
 </resources>

@@ -178,7 +178,7 @@
     <string name="reboot_title">Redémarrage</string>
     <string name="reboot_summary">Reboot your device</string>
     <string name="reboot_soft_title">Redémarrage doux</string>
-    <string name="reboot_soft_summary">RRedémarrez le système Android seulement</string>
+    <string name="reboot_soft_summary">Redémarrez le système Android seulement</string>
     <string name="reboot_recovery_title">Redémarrer en Recovery</string>
     <string name="reboot_recovery_summary">Redémarrez votre téléphone en mode Recovery</string>
     <string name="reboot_fastboot_title">Redémarrer en Bootloader</string>
@@ -335,5 +335,28 @@
     <string name="step_approve">"You'll receive your license within by Email the next 72hrs"</string>
     <string name="title_status">Status</string>
     <string name="chanced_device">Changed your device?</string>
+    <string name="language_title">Changer la langue du système</string>
+    <string name="alert_select_language">Sélectionnez votre langue</string>
+    <string name="alert_hint_title">Allusion</string>
+    <string name="alert_hint_message">You can also use quick actions on apps!\n\nOpen the quick actions menu by long-pressing a list entry.</string>
+    <string name="action_rate">Évaluer</string>
+    <string name="alert_improve">What can we do better?</string>
+    <string name="alert_great">Great!</string>
+    <string name="alert_not_again">Don\'t ask again</string>
+    <string name="alert_rate_market">Please share your opinion with others on Google Play.\n\nThanks!</string>
+    <string name="alert_rate">How do you like Root ToolCase?</string>
+    <string name="ui_design">App design needs improvement</string>
+    <string name="feature_missing">A feature is missing</string>
+    <string name="feature_broken">A feature is not working</string>
+    <string name="comment">Comment</string>
+    <string name="awesome">It\'s awesome!</string>
+    <string name="dislike">Not so great</string>
+    <string name="alert_send">Send</string>
+    <string name="alert_thanks">Thanks!</string>
+    <string name="alert_too_bad">That\'s too bad!</string>
+    <string name="like">It\'s OK</string>
+    <string name="apps_sysupdate">Looking for reinstalled system apps. Just a sec…</string>
+    <string name="notify_sysupdate_title">System update detected</string>
+    <string name="notify_sysupdate">Root ToolCase can check if previously removed system apps have been reinstalled.</string>
 
 </resources>

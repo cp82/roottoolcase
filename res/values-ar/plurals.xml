@@ -9,43 +9,43 @@
         <item quantity="other">%d apps selected</item>
     </plurals>
     <plurals name="apps_clear_cache">
-        <item quantity="one">You are about to clear the cache of %d app?</item>
-        <item quantity="two">You are about to clear cache of %d apps?</item>
-        <item quantity="zero">You are about to clear cache of %d apps?</item>
-        <item quantity="few">You are about to clear cache of %d apps?</item>
-        <item quantity="many">You are about to clear cache of %d apps?</item>
-        <item quantity="other">You are about to clear cache of %d apps?</item>
+        <item quantity="one">You are about to clear the cache of %d app</item>
+        <item quantity="two">You are about to clear cache of %d apps</item>
+        <item quantity="zero">You are about to clear cache of %d apps</item>
+        <item quantity="few">You are about to clear cache of %d apps</item>
+        <item quantity="many">You are about to clear cache of %d apps</item>
+        <item quantity="other">You are about to clear cache of %d apps</item>
     </plurals>
     <plurals name="apps_clear_data">
-        <item quantity="one">You are about to clear the data of %d app?</item>
-        <item quantity="two">You are about to clear the data of %d apps?</item>
-        <item quantity="zero">You are about to clear the data of %d apps?</item>
-        <item quantity="few">You are about to clear the data of %d apps?</item>
-        <item quantity="many">You are about to clear the data of %d apps?</item>
-        <item quantity="other">You are about to clear the data of %d apps?</item>
+        <item quantity="one">You are about to clear the data of %d app</item>
+        <item quantity="two">You are about to clear the data of %d apps</item>
+        <item quantity="zero">You are about to clear the data of %d apps</item>
+        <item quantity="few">You are about to clear the data of %d apps</item>
+        <item quantity="many">You are about to clear the data of %d apps</item>
+        <item quantity="other">You are about to clear the data of %d apps</item>
     </plurals>
     <plurals name="apps_uninstall">
-        <item quantity="one">You are about to uninstall %d app?</item>
-        <item quantity="two">You are about to uninstall %d apps?</item>
-        <item quantity="zero">You are about to uninstall %d apps?</item>
-        <item quantity="few">You are about to uninstall %d apps?</item>
-        <item quantity="many">You are about to uninstall %d apps?</item>
-        <item quantity="other">You are about to uninstall %d apps?</item>
+        <item quantity="one">You are about to uninstall %d app</item>
+        <item quantity="two">You are about to uninstall %d apps</item>
+        <item quantity="zero">You are about to uninstall %d apps</item>
+        <item quantity="few">You are about to uninstall %d apps</item>
+        <item quantity="many">You are about to uninstall %d apps</item>
+        <item quantity="other">You are about to uninstall %d apps</item>
     </plurals>
     <plurals name="apps_enable">
-        <item quantity="one">You are about to enable %d app?</item>
-        <item quantity="two">You are about to enable %d apps?</item>
-        <item quantity="zero">You are about to enable %d apps?</item>
-        <item quantity="few">You are about to enable %d apps?</item>
-        <item quantity="many">You are about to enable %d apps?</item>
-        <item quantity="other">You are about to enable %d apps?</item>
+        <item quantity="one">You are about to enable %d app</item>
+        <item quantity="two">You are about to enable %d apps</item>
+        <item quantity="zero">You are about to enable %d apps</item>
+        <item quantity="few">You are about to enable %d apps</item>
+        <item quantity="many">You are about to enable %d apps</item>
+        <item quantity="other">You are about to enable %d apps</item>
     </plurals>
     <plurals name="apps_disable">
-        <item quantity="one">You are about to disable %d app?</item>
-        <item quantity="two">You are about to disable %d apps?</item>
-        <item quantity="zero">You are about to disable %d apps?</item>
-        <item quantity="few">You are about to disable %d apps?</item>
-        <item quantity="many">You are about to disable %d apps?</item>
-        <item quantity="other">You are about to disable %d apps?</item>
+        <item quantity="one">You are about to disable %d app</item>
+        <item quantity="two">You are about to disable %d apps</item>
+        <item quantity="zero">You are about to disable %d apps</item>
+        <item quantity="few">You are about to disable %d apps</item>
+        <item quantity="many">You are about to disable %d apps</item>
+        <item quantity="other">You are about to disable %d apps</item>
     </plurals>
 </resources>

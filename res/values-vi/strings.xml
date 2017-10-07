@@ -130,8 +130,8 @@
     <string name="alert_extract_title">Trích xuất apk</string>
     <string name="alert_extract_message">"Bạn có muốn trích xuất tệp tin APK của ứng dụng này?\n\nBạn sẽ tìm thấy tệp tin dưới:\n\n \"/sdcard/Root Toolcase/Extracted\""</string>
     <string name="alert_integrate_update">Bạn có muốn tích hợp cập nhật này với hệ thống?</string>
-    <string name="alert_convert_system" translatable="false">"Bạn có muốn chuyển đổi ứng dụng này sang ứng dụng hệ thống?\n\nBạn sẽ cần khởi động lại thiết bị của mình để thực hiện các thay đổi của mình hiệu quả."</string>
-    <string name="alert_convert_user" translatable="false">"Bạn có muốn chuyển đổi ứng dụng này sang ứng dụng người dùng không?\n\nBạn sẽ cần khởi động lại thiết bị của mình để thực hiện các thay đổi của mình hiệu quả."</string>
+    <!--<string name="alert_convert_system" translatable="false">"Bạn có muốn chuyển đổi ứng dụng này sang ứng dụng hệ thống?\n\nBạn sẽ cần khởi động lại thiết bị của mình để thực hiện các thay đổi của mình hiệu quả."</string>-->
+    <!--<string name="alert_convert_user" translatable="false">"Bạn có muốn chuyển đổi ứng dụng này sang ứng dụng người dùng không?\n\nBạn sẽ cần khởi động lại thiết bị của mình để thực hiện các thay đổi của mình hiệu quả."</string>-->
     <string name="alert_overwrite_title">Để ý</string>
     <string name="alert_overwrite_message">Ứng dụng này đã tồn tại. Bạn có muốn ghi đè ứng dụng hiện có không?</string>
     <string name="alert_overwrite_sysapp_message">Ứng dụng hệ thống này đã tồn tại.\n\nGhi đè lên các ứng dụng hệ thống có thể làm hỏng hệ thống của bạn. Trong trường hợp đó, bạn có thể cần flash lại ROM của bạn.\n\nBạn có muốn ghi đè ứng dụng hiện tại?</string>
@@ -173,7 +173,8 @@
     <string name="toast_error_existinglist">Danh sách này đã tồn tại!</string>
     <string name="toast_newlist_failed">Lỗi khi tạo danh sách</string>
     <string name="toast_error_videoad">Lỗi khi phát quảng cáo video. Vui lòng kiểm tra kết nối internet và cài đặt chặn quảng cáo của bạn và thử lại!</string>
-
+    <string name="alert_hint_title">Hint</string>
+    <string name="alert_hint_message">You can also use quick actions on apps.\n\nOpen the quick actions menu by long-pressing a list entry!</string>
 
 
     <!--Advanced reboot-->
@@ -337,5 +338,26 @@
     <string name="step_approve">"Bạn sẽ nhận được giấy phép của mình trong vòng 72 giờ tiếp theo bằng Email"</string>
     <string name="title_status">Status</string>
     <string name="chanced_device">Changed your device?</string>
+    <string name="alert_select_language">Chọn ngôn ngữ của bạn</string>
+    <string name="language_title">Thay đổi ngôn ngữ hệ thống</string>
+    <string name="action_rate">Xếp hạng</string>
+    <string name="alert_improve">What can we do better?</string>
+    <string name="alert_great">Great!</string>
+    <string name="alert_not_again">Don\'t ask again</string>
+    <string name="alert_rate_market">Please share your opinion with others on Google Play.\n\nThanks!</string>
+    <string name="alert_rate">How do you like Root ToolCase?</string>
+    <string name="ui_design">App design needs improvement</string>
+    <string name="feature_missing">A feature is missing</string>
+    <string name="feature_broken">A feature is not working</string>
+    <string name="comment">Comment</string>
+    <string name="awesome">It\'s awesome!</string>
+    <string name="dislike">Not so great</string>
+    <string name="alert_send">Send</string>
+    <string name="alert_thanks">Thanks!</string>
+    <string name="alert_too_bad">That\'s too bad!</string>
+    <string name="like">It\'s OK</string>
+    <string name="apps_sysupdate">Looking for reinstalled system apps. Just a sec…</string>
+    <string name="notify_sysupdate_title">System update detected</string>
+    <string name="notify_sysupdate">Root ToolCase can check if previously removed system apps have been reinstalled.</string>
 
 </resources>

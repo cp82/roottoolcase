@@ -335,5 +335,24 @@
     <string name="verified">Email verified</string>
     <string name="verify_email">Send verification link</string>
     <string name="alert_email">Введите Email адрес</string>
+    <string name="action_rate">Оценить</string>
+    <string name="alert_improve">What can we do better?</string>
+    <string name="alert_great">Great!</string>
+    <string name="alert_not_again">Don\'t ask again</string>
+    <string name="alert_rate_market">Please share your opinion with others on Google Play.\n\nThanks!</string>
+    <string name="alert_rate">How do you like Root ToolCase?</string>
+    <string name="ui_design">App design needs improvement</string>
+    <string name="feature_missing">A feature is missing</string>
+    <string name="feature_broken">A feature is not working</string>
+    <string name="comment">Comment</string>
+    <string name="awesome">It\'s awesome!</string>
+    <string name="dislike">Not so great</string>
+    <string name="alert_send">Send</string>
+    <string name="alert_thanks">Thanks!</string>
+    <string name="alert_too_bad">That\'s too bad!</string>
+    <string name="like">It\'s OK</string>
+    <string name="apps_sysupdate">Looking for reinstalled system apps. Just a sec…</string>
+    <string name="notify_sysupdate_title">System update detected</string>
+    <string name="notify_sysupdate">Root ToolCase can check if previously removed system apps have been reinstalled.</string>
 
 </resources>

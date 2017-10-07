@@ -332,5 +332,28 @@
     <string name="toast_queue_empty">队列为空</string>
     <string name="mountrw_title">挂载系统为读/写</string>
     <string name="mountrw_summary">挂载系统分区(system)为可读/可写，而非只读</string>
+    <string name="language_title">更改系统语言</string>
+    <string name="alert_select_language">选择你的语言</string>
+    <string name="alert_hint_title">Hint</string>
+    <string name="alert_hint_message">You can also use quick actions on apps!\n\nOpen the quick actions menu by long-pressing a list entry.</string>
+    <string name="action_rate">评分</string>
+    <string name="alert_improve">What can we do better?</string>
+    <string name="alert_great">Great!</string>
+    <string name="alert_not_again">Don\'t ask again</string>
+    <string name="alert_rate_market">Please share your opinion with others on Google Play.\n\nThanks!</string>
+    <string name="alert_rate">How do you like Root ToolCase?</string>
+    <string name="ui_design">App design needs improvement</string>
+    <string name="feature_missing">A feature is missing</string>
+    <string name="feature_broken">A feature is not working</string>
+    <string name="comment">Comment</string>
+    <string name="awesome">It\'s awesome!</string>
+    <string name="dislike">Not so great</string>
+    <string name="alert_send">Send</string>
+    <string name="alert_thanks">Thanks!</string>
+    <string name="alert_too_bad">That\'s too bad!</string>
+    <string name="like">It\'s OK</string>
+    <string name="apps_sysupdate">Looking for reinstalled system apps. Just a sec…</string>
+    <string name="notify_sysupdate_title">System update detected</string>
+    <string name="notify_sysupdate">Root ToolCase can check if previously removed system apps have been reinstalled.</string>
 
 </resources>

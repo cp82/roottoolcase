@@ -32,8 +32,8 @@
     <string name="summary_initd">Önyükleme sırasında komut dosyalarını çalıştırma</string>
     <string name="summary_misc">Diğer Araçlar</string>
     <string name="alert_premium">Premium sürüme yükselttiğiniz için teşekkürler!</string>
-    <string name="alert_twitter_title">Root ToolCase Twitter'da</string>
-    <string name="alert_twitter_message">Root ToolCase Twitter'da !\n\nEn son uygulama güncellemeleri vs. hakkında haber almak için bizi takip edin.</string>
+    <string name="alert_twitter_title">"Root ToolCase Twitter'da"</string>
+    <string name="alert_twitter_message">"Root ToolCase Twitter'da !\n\nEn son uygulama güncellemeleri vs. hakkında haber almak için bizi takip edin."</string>
     <string name="alert_upgrade_title">Yükselt</string>
     <string name="alert_upgrade_message">Reklamsız sürüme yükseltmek istediğinize emin misiniz</string>
     <string name="message_share">"Çıkış Yap \"%s\": "</string>
@@ -55,7 +55,7 @@
     <string name="alert_recovery_message">Yanlış recovery dosyası kurtarma bölümünü bozabilir\n\nDevam etmek istediğinden emin misin?</string>
     <string name="alert_kernel_title">Boot Image (Kernel) Flaşla</string>
     <string name="alert_kernel_progress">Boot Image Flaşlanıyor</string>
-    <string name="alert_kernel_message">Yanlış flash yüklenmesi, önyükleme bölümünüzün (Çekirdek) bozulmasına neden olabilir. Bu durumda, ROM'unuzu yeniden yüklemeniz gerekebilir.\n\nDevam etmek istediğinden emin misin?</string>
+    <string name="alert_kernel_message">"Yanlış flash yüklenmesi, önyükleme bölümünüzün (Çekirdek) bozulmasına neden olabilir. Bu durumda, ROM'unuzu yeniden yüklemeniz gerekebilir.\n\nDevam etmek istediğinden emin misin?"</string>
     <string name="cfg_backup_title">YEDEK (TWRP GEREKLİ)</string>
     <string name="cfg_backup">Yedek oluştur</string>
     <string name="toast_image_success">%1$s başarıyla flaşlandı</string>
@@ -130,8 +130,6 @@
     <string name="alert_extract_title">Apk çıkar</string>
     <string name="alert_extract_message">"Bu uygulamanın APK dosyasını çıkarmak istiyor musunuz?\n\nDosyayı şu adreste bulacaksınız:\n\n \"/sdcard/Root Toolcase/Extracted\""</string>
     <string name="alert_integrate_update">Bu güncelleştirmeyi sisteme entegre etmek istiyor musunuz?</string>
-    <string name="alert_convert_system" translatable="false">"Bu uygulamayı sistem uygulaması yapmak istiyor musunuz?\n\nDeğişikliklerin etkin olması için cıhazınızı yeniden başlatmalısınız"</string>
-    <string name="alert_convert_user" translatable="false">"Bu sistem uygulamasını kullanıcı uygulamasına çevirmek ister misiniz?\n\nDeğişikliklerin etkin olması için cıhazınızı yeniden başlatmalısınız"</string>
     <string name="alert_overwrite_title">Uyarı</string>
     <string name="alert_overwrite_message">Bu uygulama zaten var. Mevcut uygulamanın üzerine yazmak istiyor musunuz?</string>
     <string name="alert_overwrite_sysapp_message">Bu sistem uygulaması zaten var\n\nBu uygulamanın üzerine yazmak, sistemi bozabilir. Bu durumda yeniden ROM yüklemeniz gerekebilir.\n\nMevcut uygulamanın üzerine yazmak istiyor musunuz?</string>
@@ -139,7 +137,7 @@
     <string name="alert_uninstall_title">Uygulamayı kaldır</string>
     <string name="alert_uninstall_system_title">Sistem uygulamasını kaldır</string>
     <string name="alert_uninstall_message">Bu uygulamayı gerçekten kaldırmak istiyor musunuz?</string>
-    <string name="alert_uninstall_system_message">Bu <b>SİSTEM UYGULAMASINI</b> kaldırmak istiyor musunuz?\nYanlış uygulamaların kaldırılmasının ciddi sorunlara neden olabileceğini unutmayın. Bu durumda komple ROM'u yeniden yüklemeniz gerekebilir.</string>
+    <string name="alert_uninstall_system_message">"Bu <b>SİSTEM UYGULAMASINI</b> kaldırmak istiyor musunuz?\nYanlış uygulamaların kaldırılmasının ciddi sorunlara neden olabileceğini unutmayın. Bu durumda komple ROM\'u yeniden yüklemeniz gerekebilir."</string>
     <string name="alert_uninstalling">Kaldırılıyor</string>
     <string name="alert_installing">Kuruluyor</string>
     <string name="alert_install_success">Kurulum başarılı</string>
@@ -158,8 +156,8 @@
     <string name="alert_newlist_title">Yeni özel liste</string>
     <string name="alert_newlist_message">Uygulama listesi için bir isim girin</string>
     <string name="alert_progress">%1$s (%2$d/%3$d)</string>
-    <string name="alert_multiuninstall_na">Birden fazla sistem uygulamasını aynı anda kaldırmak, ROM'unuza zarar verebilir.\n\nLütfen herhangi bir sistem uygulaması olmadan başka bir seçim yapın.</string>
-    <string name="alert_multifreeze_na">Birden fazla sistem uygulamasını bir defada dondurmak yasaktır, çünkü ROM'ınıza zarar verme riski taşır.\n\nLütfen herhangi bir sistem uygulaması olmadan başka bir seçim yapın.</string>
+    <string name="alert_multiuninstall_na">"Birden fazla sistem uygulamasını aynı anda kaldırmak, ROM'unuza zarar verebilir.\n\nLütfen herhangi bir sistem uygulaması olmadan başka bir seçim yapın."</string>
+    <string name="alert_multifreeze_na">"Birden fazla sistem uygulamasını bir defada dondurmak yasaktır, çünkü ROM'ınıza zarar verme riski taşır.\n\nLütfen herhangi bir sistem uygulaması olmadan başka bir seçim yapın."</string>
     <string name="alert_choose_apk">Bir APK seçin</string>
     <string name="alert_type_title">\"%s\" olarak yükle</string>
     <string name="alert_type_system">Sistem uygulaması</string>
@@ -183,7 +181,7 @@
     <string name="reboot_soft_summary">Yalnızca Android sistemi yeniden başlatın</string>
     <string name="reboot_recovery_title">Kurtarma modunda yeniden başlat</string>
     <string name="reboot_recovery_summary">Cihazınızı kurtarma(recovery) modunda yeniden başlatır</string>
-    <string name="reboot_fastboot_title">Bootloader'da başlat</string>
+    <string name="reboot_fastboot_title">"Bootloader'da başlat"</string>
     <string name="reboot_fastboot_summary">Cihazını indirme veya fastboot modunda başlatır</string>
     <string name="reboot_poweroff_title">Kapat</string>
     <string name="reboot_poweroff_summary">Cihazınızı kapatın</string>
@@ -193,7 +191,7 @@
     <string name="alert_reboot_fastboot">Bootloader modunda yeniden başlatılıyor</string>
     <string name="alert_reboot_poweroff">Kapatılıyor</string>
     <string name="alert_fastboot_title">Bootloader modunda başlat</string>
-    <string name="alert_fastboot_message">Cihazınızı bootloader modunda başlatmak istiyor musunuz?\n\nBu özellik bazı ROM'larda devre dışı olabilir. Muhtemelen geliştirici ayarlarında açabilirsiniz.</string>
+    <string name="alert_fastboot_message">"Cihazınızı bootloader modunda başlatmak istiyor musunuz?\n\nBu özellik bazı ROM'larda devre dışı olabilir. Muhtemelen geliştirici ayarlarında açabilirsiniz."</string>
 
 
     <!--Init.d emulator-->
@@ -201,7 +199,7 @@
     <string name="initd_summary">"Init.d emülasyonu, ana init.d desteği olmadan ROM'larda bile başlangıçta komut dosyalarını çalıştırmanıza izin verir.\n\nROM'unuz yerel init.d'ye sahipse veya zaten başka bir init.d emülatörü kullanıyorsanız bu seçeneği kullanmayın."</string>
     <string name="alert_initd_new">Yeni script</string>
     <string name="alert_initd_name">Script için yeni isim girin</string>
-    <string name="alert_initd_delete">Script'i sil</string>
+    <string name="alert_initd_delete">"Script'i sil"</string>
     <string name="toast_initd_save">Değişiklikler buraya %s kaydedildi</string>
     <string name="alert_initd_delete_message">Bu betiği silmek istediğinizden emin misiniz (%s)?</string>
     <string name="alert_unsaved_title">Değişiklikleri kaydet</string>
@@ -274,7 +272,7 @@
 
     <!--miscellaneous-->
     <string name="adb_title">WiFi üzerinden ADB</string>
-    <string name="adb_summary">WiFi üzerinden ADB'ye bilgisayardan  bağlantıyı etkinleştir</string>
+    <string name="adb_summary">"WiFi üzerinden ADB'ye bilgisayardan  bağlantıyı etkinleştir"</string>
     <string name="adb_connect">Cihazınıza bağlanmak için \"adb connect %s:5555\" komutunu kullanın</string>
     <string name="spellcheck_title">Spell Kontrol</string>
     <string name="spellcheck_summary">Spell kontrolünü aktif et/devre dışı bırak (Kırmızı alt çizgi)</string>
@@ -315,7 +313,7 @@
     <string name="license_key">Lisans anahtarı</string>
     <string name="toast_license_success">Lisans aktif edildi</string>
     <string name="toast_license_failed">Lisans aktivasyonu başarısız</string>
-    <string name="toast_license_request_failed">Lisans isteği başarısız/string>
+    <string name="toast_license_request_failed">>Error requesting license</string>Lisans isteği başarısız/string>
     <string name="toast_reset_success">Şifre sıfırlama bağlantısı %s adresinr gönderildi</string>
     <string name="toast_reset_failed">Şifre sıfırlama bağlantısı gönderimi başarısız oldu</string>
     <string name="toast_verify_success">Doğrulama e-postası %s adresine gönderildi</string>
@@ -337,5 +335,28 @@
     <string name="step_approve">"Lisansınızı gelecek 72 saat içinde E-posta ile alacaksınız."</string>
     <string name="title_status">Durum</string>
     <string name="chanced_device">Cihazınızı mı değiştiriniz?</string>
+    <string name="alert_hint_title">İpucu</string>
+    <string name="alert_select_language">Dil Seçin</string>
+    <string name="language_title">Sistem dilini değiştir</string>
+    <string name="alert_hint_message">>You can also use quick actions on apps.\\n\\nOpen the quick actions menu by long-pressing a list entry!</string>
+    <string name="action_rate">Değerlendir</string>
+    <string name="alert_improve">What can we do better?</string>
+    <string name="alert_great">Great!</string>
+    <string name="alert_not_again">Don\'t ask again</string>
+    <string name="alert_rate_market">Please share your opinion with others on Google Play.\n\nThanks!</string>
+    <string name="alert_rate">How do you like Root ToolCase?</string>
+    <string name="ui_design">App design needs improvement</string>
+    <string name="feature_missing">A feature is missing</string>
+    <string name="feature_broken">A feature is not working</string>
+    <string name="comment">Comment</string>
+    <string name="awesome">It\'s awesome!</string>
+    <string name="dislike">Not so great</string>
+    <string name="alert_send">Send</string>
+    <string name="alert_thanks">Thanks!</string>
+    <string name="alert_too_bad">That\'s too bad!</string>
+    <string name="like">It\'s OK</string>
+    <string name="apps_sysupdate">Looking for reinstalled system apps. Just a sec…</string>
+    <string name="notify_sysupdate_title">System update detected</string>
+    <string name="notify_sysupdate">Root ToolCase can check if previously removed system apps have been reinstalled.</string>
 
 </resources>

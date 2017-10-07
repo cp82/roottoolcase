@@ -5,6 +5,7 @@
     <string name="action_about">About</string>
     <string name="action_translate">Translate</string>
     <string name="action_share">Share</string>
+    <string name="action_rate">Rate</string>
     <string name="action_follow">Follow</string>
     <string name="action_account">User account</string>
     <string name="action_settings">Settings</string>
@@ -44,7 +45,7 @@
     <string name="summary_flasher">Install flashable zips or images</string>
     <string name="flasher_header">Choose an action</string>
     <string name="flasher_type_zip">Install flashable zip (TWRP or CWM required)</string>
-    <string name="flasher_type_recovery">Install revovery image</string>
+    <string name="flasher_type_recovery">Install recovery image</string>
     <string name="flasher_type_boot">Install boot image (kernel)</string>
     <string name="flasher_hint_zip">Add up to 5 zip files to the flash queue</string>
     <string name="flasher_hint_image">Choose an image file</string>
@@ -78,6 +79,7 @@
     <string name="apps_search">%1$d apps found</string>
     <string name="apps_fromlist">%1$s (%2$d)</string>
     <string name="apps_init">Analyzing installed apps. Just a sec…</string>
+    <string name="apps_sysupdate">Looking for reinstalled system apps. Just a sec…</string>
     <string name="apps_init_size">Calculating app size. Just a sec…</string>
     <string name="apps_sizeinfo">%1$.1f MB</string>
     <string name="apps_label_app">"App: "</string>
@@ -173,7 +175,12 @@
     <string name="toast_error_existinglist">This list already exists!</string>
     <string name="toast_newlist_failed">Error creating list</string>
     <string name="toast_error_videoad">Error playing video ad. Please check your internet connection and ad-block settings and try again!</string>
+    <string name="alert_hint_title">Hint</string>
+    <string name="alert_hint_message">You can also use quick actions on apps.\n\nOpen the quick actions menu by long-pressing a list entry!</string>
 
+    <string name="alert_oreo_message" translatable="false">In Android Oreo, Root ToolCase requires your permission to read usage stats in order to query the size of installed apps.</string>
+    <string name="alert_grant" translatable="false">Grant</string>
+    <string name="alert_ignore" translatable="false">Ignore</string>
 
 
     <!--Advanced reboot-->
@@ -224,7 +231,7 @@
     <string name="alert_reboot_title">Reboot</string>
     <string name="alert_reboot_later">Later</string>
     <string name="alert_reboot_message">Reboot now to make your changes effective?</string>
-    <string name="alert_reboot_message2">To make your changes effective, you need to reboot your device.\n\nReboot now?</string>
+    <string name="alert_reboot_message2">To make your changes effective, you need to reboot your device. Reboot now?</string>
     <string name="alert_backup_title">Select a backup</string>
     <string name="alert_nobackup_message">No backups found</string>
     <string name="alert_restore">Restore</string>
@@ -280,7 +287,9 @@
     <string name="spellcheck_summary">Enable or disable spell check (red underlines)</string>
     <string name="mountrw_title">Mount System R/W</string>
     <string name="mountrw_summary">Mount system partition (/system) readable/writable instead of read-only</string>
-
+    <string name="language_title">Change system language</string>
+    <string name="alert_select_language">Select language</string>
+    <string name="alert_language" translatable="false">Changing system language</string>
 
 
     <!-- Account -->
@@ -337,5 +346,25 @@
     <string name="step_approve">"You'll receive your license within by Email the next 72hrs"</string>
     <string name="title_status">Status</string>
     <string name="chanced_device">Changed your device?</string>
+    <string name="awesome">It\'s awesome!</string>
+    <string name="like">It\'s OK</string>
+    <string name="dislike">Not so great</string>
+    <string name="alert_not_again">Don\'t ask again</string>
+    <string name="alert_rate">How do you like Root ToolCase?</string>
+    <string name="alert_rate_market">Please share your opinion with others on Google Play.\n\nThanks!</string>
+    <string name="alert_great">Great!</string>
+    <string name="alert_send">Send</string>
+
+    <string name="alert_thanks">Thanks!</string>
+    <string name="alert_too_bad">That\'s too bad!</string>
+    <string name="alert_improve">What can we do better?</string>
+
+    <string name="feature_broken">A feature is not working</string>
+    <string name="feature_missing">A feature is missing</string>
+    <string name="ui_design">App design needs improvement</string>
+    <string name="comment">Comment</string>
+    <string name="notify_sysupdate">Root ToolCase can check if previously removed system apps have been reinstalled.</string>
+    <string name="notify_sysupdate_title">System update detected</string>
+
 
 </resources>
