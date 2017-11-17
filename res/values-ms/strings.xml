@@ -1,65 +1,54 @@
 <resources>
-    <!--Main Activity-->
-    <string name="app_name">Root ToolCase</string>
-    <string name="action_pro">Remove ads</string>
-    <string name="action_about">About</string>
-    <string name="action_translate">Translate</string>
-    <string name="action_share">Share</string>
-    <string name="action_rate">Rate</string>
-    <string name="action_follow">Follow</string>
-    <string name="action_account">User account</string>
-    <string name="action_settings">Settings</string>
-    <string name="title_advanced_reboot">Advanced Reboot</string>
-    <string name="title_initd">Init.d Emulator</string>
-    <string name="title_root">ROOT REQUIRED</string>
-    <string name="title_flasher">Flash Wizard</string>
-    <string name="title_buildprop">Build.prop Editor</string>
-    <string name="title_misc">Miscellaneous</string>
-    <string name="title_activity_app_manager">App Manager</string>
-    <string name="title_activity_app">App Info</string>
-    <string name="title_activity_reboot">Advanced Reboot</string>
-    <string name="title_activity_init_d">Init.d Emulator</string>
-    <string name="title_activity_editor">Editor</string>
-    <string name="title_activity_build_prop">Build.prop Editor</string>
-    <string name="title_activity_misc">Miscellaneous tools</string>
-    <string name="alert_translate_title">App translation</string>
-    <string name="alert_translate_message">Would you like to contribute to your local translation of this app?</string>
-    <string name="alert_translate_yes">"Sure, I'm in"</string>
-    <string name="alert_translate_no">"No thanks"</string>
-    <string name="summary_app_manager">Manage user and system apps</string>
-    <string name="summary_reboot">Reboot, enter recovery or fastboot mode</string>
-    <string name="summary_root">This app requires root to function properly</string>
-    <string name="summary_buildprop">"Edit your ROM's build properties"</string>
-    <string name="summary_initd">Run scripts at boot time</string>
-    <string name="summary_misc">Miscellaneous tools</string>
-    <string name="alert_premium">Thank you for upgrading to premium!</string>
-    <string name="alert_twitter_title">Root ToolCase on Twitter</string>
-    <string name="alert_twitter_message">Root ToolCase is now on Twitter!\n\nFollow us to receive news about the latest app updates etc.</string>
-    <string name="alert_upgrade_title">Upgrade</string>
-    <string name="alert_upgrade_message">Would you like to upgrade to the ad free version?</string>
-    <string name="message_share">"Check out \"%s\": "</string>
-    <string name="ad_failed">Please upgrade to the ad-free version to support the developer</string>
+    <string name="app_name">BekasAlatan Root</string>
+    <string name="action_pro">Buang iklan</string>
+    <string name="action_about">Tentang</string>
+    <string name="action_translate">Terjemah</string>
+    <string name="action_share">Kongsi</string>
+    <string name="action_rate">Nilai</string>
+    <string name="action_follow">Ikuti</string>
+    <string name="action_account">Akaun pengguna</string>
+    <string name="action_settings">Tetapan</string>
+    <string name="title_advanced_reboot">Reboot Lanjutan</string>
+    <string name="title_initd">Perangkat Init.d</string>
+    <string name="title_flasher">Wizard Cepat</string>
+    <string name="title_buildprop">Pengedit Build.prop</string>
+    <string name="title_misc">Pelbagai</string>
+    <string name="title_activity_app_manager">Pengurus Aplikasi</string>
+    <string name="title_activity_app">Maklumat Aplikasi</string>
+    <string name="title_activity_reboot">Reboot Lanjutan</string>
+    <string name="title_activity_init_d">Perangkat Init.d</string>
+    <string name="title_activity_editor">Pengedit</string>
+    <string name="title_activity_build_prop">Pengedit Build.prop</string>
+    <string name="title_activity_misc">Alatan pelbagai</string>
+    <string name="alert_translate_title">Terjemahan Aplikasi</string>
+    <string name="summary_root">Aplikasi ini memerlukan root untuk berfungsi dengan betul</string>
+    <string name="summary_app_manager">Urus aplikasi pengguna dan sistem</string>
+    <string name="summary_reboot">Reboot, masuk mod pemulihan atau boot cepat</string>
+    <string name="summary_buildprop">"edit ciri terbina bagi ROM anda"</string>
+    <string name="summary_initd">Jalankan skrip semasa boot</string>
+    <string name="summary_misc">Alatan pelbagai</string>
+    <string name="alert_upgrade_title">Naik taraf</string>
+    <string name="ad_failed">Sila naik taraf ke versi bebas iklan untuk menyokong pemaju</string>
 
-    <!--Flash Wizard-->
-    <string name="title_activity_flash">Flash Wizard</string>
-    <string name="summary_flasher">Install flashable zips or images</string>
-    <string name="flasher_header">Choose an action</string>
-    <string name="flasher_type_zip">Install flashable zip (TWRP or CWM required)</string>
-    <string name="flasher_type_recovery">Install recovery image</string>
-    <string name="flasher_type_boot">Install boot image (kernel)</string>
-    <string name="flasher_hint_zip">Add up to 5 zip files to the flash queue</string>
-    <string name="flasher_hint_image">Choose an image file</string>
-    <string name="alert_choose_zip">Select zip file to install</string>
-    <string name="alert_choose_img">Select image file to install</string>
-    <string name="alert_recovery_title">Flash Recovery Image</string>
+    <string name="title_activity_flash">Wizard Cepat</string>
+    <string name="summary_flasher">Pasang zip boleh cepat dan imej</string>
+    <string name="flasher_header">Pilih  tindakan</string>
+    <string name="flasher_type_zip">Pasang zip boleh cepat (TWRP atau CWM diperlukan)</string>
+    <string name="flasher_type_recovery">Pasang imej pemulihan</string>
+    <string name="flasher_type_boot">Pasang imej boot (kernel)</string>
+    <string name="flasher_hint_zip">Tambah sehingga 5 fail zip ke giliran cepat</string>
+    <string name="flasher_hint_image">Pilih fail imej</string>
+    <string name="alert_choose_zip">Pilih fail zip untuk pasang</string>
+    <string name="alert_choose_img">Pilih fail imej untuk pasang</string>
+    <string name="alert_recovery_title">Imej Pemulihan Cepat</string>
     <string name="alert_recovery_progress">Flashing Recovery Image</string>
     <string name="alert_recovery_message">Flashing the wrong image may corrupt your recovery partition.\n\nAre you sure you want to proceed?</string>
-    <string name="alert_kernel_title">Flash Boot Image (Kernel)</string>
+    <string name="alert_kernel_title">Imej Boot Cepat (Kernel)</string>
     <string name="alert_kernel_progress">Flashing Boot Image</string>
     <string name="alert_kernel_message">Flashing the wrong image may corrupt your boot partition (Kernel). In that case, you may need to reflash your ROM.\n\nAre you sure you want to proceed?</string>
-    <string name="cfg_backup_title">BACKUP (TWRP REQUIRED)</string>
-    <string name="cfg_backup">Create backup</string>
-    <string name="toast_image_success">%1$s successfully flashed</string>
+    <string name="cfg_backup_title">SALINAN (TWRP DIPERLUKAN)</string>
+    <string name="cfg_backup">Wujudkan salinan</string>
+    <string name="toast_image_success">%1$s berjaya dicepatkan</string>
     <string name="action_load_queue">Load flash queue</string>
     <string name="action_save_queue">Save flash queue</string>
     <string name="action_delete_queue">Delete flash queue</string>
@@ -70,46 +59,42 @@
     <string name="toast_deletelist_success">\"%1$s\" successfully deleted</string>
     <string name="toast_queue_empty">Queue is empty</string>
 
-    <!--App Manager-->
-    <string name="apps_total">All apps (%1$d)</string>
-    <string name="apps_system">System apps (%1$d)</string>
-    <string name="apps_user">User apps (%1$d)</string>
-    <string name="apps_frozen">Disabled apps (%1$d)</string>
-    <string name="apps_updated">Updated system apps (%1$d)</string>
-    <string name="apps_search">%1$d apps found</string>
+    <string name="apps_total">Semua aplikasi (%1$d)</string>
+    <string name="apps_system">Aplikasi sistem (%1$d)</string>
+    <string name="apps_user">Aplikasi pengguna (%1$d)</string>
+    <string name="apps_frozen">Nyahaktif apliksi (%1$d)</string>
+    <string name="apps_updated">Aplikasi sistem dikemaskini (%1$d)</string>
+    <string name="apps_search">%1$d aplikasi dijumpai</string>
     <string name="apps_fromlist">%1$s (%2$d)</string>
-    <string name="apps_init">Analyzing installed apps. Just a sec…</string>
-    <string name="apps_sysupdate">Looking for reinstalled system apps. Just a sec…</string>
-    <string name="apps_init_size">Calculating app size. Just a sec…</string>
-    <string name="apps_sizeinfo">%1$.1f MB</string>
-    <string name="apps_label_app">"App: "</string>
+    <string name="apps_init">Menganalisis aplikasi yang dipasang. Sekejap…</string>
+    <string name="apps_label_app">"Aplikasi: "</string>
     <string name="apps_label_data">"Data: "</string>
-    <string name="action_filter_all">All</string>
-    <string name="action_filter_system">System apps</string>
-    <string name="action_filter_user">User apps</string>
-    <string name="action_filter_frozen">Disabled apps</string>
-    <string name="action_filter_updated">Updated system apps</string>
-    <string name="action_filter_custom">Custom list</string>
-    <string name="action_sort_by_name">Sort by name</string>
-    <string name="action_sort_by_package">Sort by package</string>
-    <string name="action_sort_by_appsize">Sort by apk size</string>
-    <string name="action_sort_by_datasize">Sort by data size</string>
-    <string name="action_sort_by_totalsize">Sort by total size</string>
-    <string name="action_title">Choose an action</string>
-    <string name="action_uninstall">Uninstall</string>
-    <string name="action_freeze">Disable</string>
-    <string name="action_unfreeze">Enable</string>
-    <string name="action_clear_data">Clear data</string>
-    <string name="action_clear_cache">Clear cache</string>
-    <string name="action_extract">Extract</string>
-    <string name="action_convert_system">Convert to system app</string>
-    <string name="action_convert_user">Convert to user app</string>
-    <string name="action_integrate_update">Integrate update to system</string>
-    <string name="action_multiselect">Multiple selection</string>
-    <string name="action_customlist">Add to custom list</string>
-    <string name="action_delete_list">Delete current list</string>
-    <string name="app_updated">UPDATED</string>
-    <string name="app_disabled">DISABLED</string>
+    <string name="action_filter_all">Semua</string>
+    <string name="action_filter_system">Aplikasi sistem</string>
+    <string name="action_filter_user">Aplikasi pengguna</string>
+    <string name="action_filter_frozen">Nyahaktif apliksi</string>
+    <string name="action_filter_updated">Aplikasi sistem dikemaskini</string>
+    <string name="action_filter_custom">Senarai kebiasaan</string>
+    <string name="action_sort_by_name">Susun mengikut nama</string>
+    <string name="action_sort_by_package">Susun mengikut pakej</string>
+    <string name="action_sort_by_appsize">Susun mengikut saiz aplikasi</string>
+    <string name="action_sort_by_datasize">Susun mengikut saiz data</string>
+    <string name="action_sort_by_totalsize">Susun mengikut jumlah saiz</string>
+    <string name="action_title">Pilih tindakan</string>
+    <string name="action_uninstall">Nyahpasang</string>
+    <string name="action_freeze">Nyahaktif</string>
+    <string name="action_unfreeze">Aktif</string>
+    <string name="action_clear_data">Kosongkan data</string>
+    <string name="action_clear_cache">Kosongkan cache</string>
+    <string name="action_extract">Keluarkan</string>
+    <string name="action_convert_system">Tukar ke aplikasi sistem</string>
+    <string name="action_convert_user">Tukar ke aplikasi pengguna</string>
+    <string name="action_integrate_update">Mengintegrasi kemas kini ke sistem</string>
+    <string name="action_multiselect">Pilihan pelbagai</string>
+    <string name="action_customlist">Tambah ke senarai kebiasaan</string>
+    <string name="action_delete_list">Padam senarai kebiasaan</string>
+    <string name="app_updated">DIKEMASKINI</string>
+    <string name="app_disabled">DINYAHAKTIF</string>
     <string name="appinfo_name">Name:</string>
     <string name="appinfo_pkg">Package:</string>
     <string name="appinfo_status">Status:</string>
@@ -132,8 +117,6 @@
     <string name="alert_extract_title">Extract apk</string>
     <string name="alert_extract_message">"Do you want to extract the apk file of this app?\n\nYou'll find the file under:\n\n \"/sdcard/Root Toolcase/Extracted\""</string>
     <string name="alert_integrate_update">Do you want to integrate this update to system?</string>
-    <string name="alert_convert_system" translatable="false">"Do you want to convert this app to a system app?\n\nYou'll need to restart your device to make your changes effective."</string>
-    <string name="alert_convert_user" translatable="false">"Do you want to convert this app to a user app?\n\nYou'll need to restart your device to make your changes effective."</string>
     <string name="alert_overwrite_title">Notice</string>
     <string name="alert_overwrite_message">This app already exists. Do you want to overwrite the existing app?</string>
     <string name="alert_overwrite_sysapp_message">This system app already exists.\n\nOverwriting system apps may corrupt your system. In that case, you may need to reflash your ROM.\n\nDo you want to overwrite the existing app?</string>
@@ -178,119 +161,95 @@
     <string name="alert_hint_title">Hint</string>
     <string name="alert_hint_message">You can also use quick actions on apps.\n\nOpen the quick actions menu by long-pressing a list entry!</string>
 
-    <string name="alert_oreo_message" translatable="false">In Android Oreo, Root ToolCase requires your permission to read usage stats in order to query the size of installed apps.</string>
-    <string name="alert_grant" translatable="false">Grant</string>
-    <string name="alert_ignore" translatable="false">Ignore</string>
-
-
-    <!--Advanced reboot-->
     <string name="reboot_title">Reboot</string>
-    <string name="reboot_summary">Reboot your device</string>
-    <string name="reboot_soft_title">Soft Reboot</string>
-    <string name="reboot_soft_summary">Reboot android system only</string>
-    <string name="reboot_recovery_title">Reboot to Recovery</string>
-    <string name="reboot_recovery_summary">Reboot your device in recovery mode</string>
-    <string name="reboot_fastboot_title">Reboot to Bootloader</string>
-    <string name="reboot_fastboot_summary">Reboot your device in download or fastboot mode</string>
-    <string name="reboot_poweroff_title">Power off</string>
-    <string name="reboot_poweroff_summary">Switch off your device</string>
-    <string name="alert_reboot">Rebooting</string>
-    <string name="alert_reboot_soft">Restarting Android</string>
-    <string name="alert_reboot_recovery">Rebooting into Recovery</string>
-    <string name="alert_reboot_fastboot">Rebooting into Bootloader</string>
-    <string name="alert_reboot_poweroff">Powering off</string>
-    <string name="alert_fastboot_title">Reboot to Bootloader</string>
+    <string name="reboot_summary">Reboot peranti anda</string>
+    <string name="reboot_soft_title">Reboot Sedikit</string>
+    <string name="reboot_soft_summary">Reboot sistem android sahaja</string>
+    <string name="reboot_recovery_title">Reboot ke Pemulihan</string>
+    <string name="reboot_recovery_summary">Reboot peranti anda dalam mod pemulihan</string>
+    <string name="reboot_fastboot_title">Reboot ke Pemuat boot</string>
+    <string name="reboot_fastboot_summary">Reboot peranti anda dalam mod muat turun atau boot cepat</string>
+    <string name="reboot_poweroff_title">Matikan</string>
+    <string name="reboot_poweroff_summary">Matikan peranti anda</string>
+    <string name="alert_reboot">Sedang Reboot</string>
+    <string name="alert_reboot_soft">Memulakan semula Android</string>
+    <string name="alert_reboot_recovery">Sedang Reboot ke Pemulihan</string>
+    <string name="alert_reboot_fastboot">Sedang Reboot ke Pemuat boot</string>
+    <string name="alert_reboot_poweroff">Sedang mematikan</string>
+    <string name="alert_fastboot_title">Reboot ke Pemuat boot</string>
     <string name="alert_fastboot_message">Do you really want to reboot your device into the bootloader?\n\nThis feature may be disabled in some ROMs. You can probably turn it on in the developer settings.</string>
 
 
-    <!--Init.d emulator-->
-    <string name="initd_title">Enable init.d</string>
+    <string name="initd_title">Aktifkan init.d</string>
     <string name="initd_summary">"Init.d emulation allows you to run scripts at startup even on ROMs without native init.d support.\n\nDon't use this option if your ROM has native init.d or you are already using another init.d emulator."</string>
-    <string name="alert_initd_new">New script</string>
-    <string name="alert_initd_name">Enter a name for your script</string>
-    <string name="alert_initd_delete">Delete script</string>
-    <string name="toast_initd_save">Changes to %s saved</string>
-    <string name="alert_initd_delete_message">Are you sure you want to delete this script (%s)?</string>
-    <string name="alert_unsaved_title">Save changes</string>
-    <string name="alert_unsaved_messsage">You have unsaved changes.\n\nSave changes now?</string>
-    <string name="initd_run">Run</string>
+    <string name="alert_initd_new">Skrip baru</string>
+    <string name="alert_initd_name">Masukkan nama untuk skrip anda</string>
+    <string name="alert_initd_delete">Padam skrip</string>
+    <string name="alert_unsaved_title">Simpan perubahan</string>
+    <string name="alert_unsaved_messsage">Anda ada perubahan yang tidak disimpan.\n\nSimpan perubahan sekarang?</string>
+    <string name="initd_run">Lancarkan</string>
     <string name="initd_edit">Edit</string>
-    <string name="initd_delete">Delete</string>
+    <string name="initd_delete">Padam</string>
 
 
-    <!--Build.prop Editor-->
+ 
     <string name="prop_edit">Edit</string>
-    <string name="prop_delete">Delete</string>
-    <string name="action_sort_by_key">Sort by key</string>
-    <string name="action_sort_by_file">Original</string>
-    <string name="alert_prop_delete_message">Are you sure you want to delete this property (%s)?</string>
-    <string name="alert_prop_delete">Delete property</string>
-    <string name="alert_prop_edit">Edit property</string>
-    <string name="alert_prop_new">New property</string>
-    <string name="search_hint_key">Search for keys</string>
+    <string name="prop_delete">Padam</string>
+    <string name="action_sort_by_key">Susun mengikut kunci</string>
+    <string name="action_sort_by_file">Asal</string>
+    <string name="alert_prop_delete_message">Adakah anda pasti mahu padamkan ciri ini (%s)?</string>
+    <string name="alert_prop_delete">Padam ciri</string>
+    <string name="alert_prop_edit">Edit ciri</string>
+    <string name="alert_prop_new">Ciri baru</string>
+    <string name="search_hint_key">Cari kunci</string>
     <string name="alert_reboot_title">Reboot</string>
-    <string name="alert_reboot_later">Later</string>
+    <string name="alert_reboot_later">Kemudian</string>
     <string name="alert_reboot_message">Reboot now to make your changes effective?</string>
     <string name="alert_reboot_message2">To make your changes effective, you need to reboot your device. Reboot now?</string>
-    <string name="alert_backup_title">Select a backup</string>
-    <string name="alert_nobackup_message">No backups found</string>
-    <string name="alert_restore">Restore</string>
-    <string name="alert_delete">Delete</string>
-    <string name="toast_save_success">Backup of build.prop successfully created</string>
-    <string name="toast_save_error">Error backing up build.prop</string>
-    <string name="toast_delete_success">Backup deleted</string>
-    <string name="toast_restore_success">Backup of build.prop successfully restored</string>
-    <string name="toast_restore_error">Error restoring build.prop</string>
-    <string name="toast_version">This feature is currently only available for Android 5.0+</string>
+    <string name="alert_backup_title">Pilih salinan</string>
+    <string name="alert_nobackup_message">TIada salinan dijumpai</string>
+    <string name="alert_restore">Kembalikan semula</string>
+    <string name="alert_delete">Padam</string>
+    <string name="toast_save_success">Salinan bagi build.prop berjaya dibuat</string>
+    <string name="toast_save_error">Ralat menyalin build.prop</string>
+    <string name="toast_delete_success">Salinan dipadam</string>
+    <string name="toast_restore_success">Salinan bagi build.prop berjaya dikembalikan semula</string>
+    <string name="toast_restore_error">Ralat mengembalikan semula build.prop</string>
+    <string name="toast_version">Ciri ini pada masa ini hanya tersedia untuk Android 5.0+</string>
 
-    <!--General dialogs-->
-    <string name="alert_title_root">Root required</string>
-    <string name="alert_root">This app requires root access</string>
-    <string name="alert_yes">Yes</string>
-    <string name="alert_sure">"Sure, I'm in"</string>
-    <string name="alert_no">No</string>
-    <string name="alert_no_thanks">No, thanks</string>
+    
+    <string name="alert_title_root">Root diperlukan</string>
+    <string name="alert_root">Aplikasi ini memerlukan akses root</string>
+    <string name="alert_yes">Ya</string>
+    <string name="alert_sure">"Semestinya, saya mahukan"</string>
+    <string name="alert_no">Tidak</string>
+    <string name="alert_no_thanks">Tidak, terima kasih</string>
     <string name="alert_ok">OK</string>
-    <string name="alert_save">Save</string>
-    <string name="alert_discard">Discard</string>
-    <string name="alert_cancel">Cancel</string>
-    <string name="alert_continue">Continue</string>
-    <string name="search_title">Search</string>
-    <string name="status_requesting_root">Requesting root access</string>
-    <string name="status_requesting_write">Requesting write access</string>
-    <string name="status_load_main">Loading main screen</string>
-    <string name="btn_cancel">Cancel</string>
-    <string name="toast_error">An error occurred</string>
+    <string name="alert_save">Simpan</string>
+    <string name="alert_discard">Buang</string>
+    <string name="alert_cancel">Batal</string>
+    <string name="alert_continue">Teruskan</string>
+    <string name="search_title">Cari</string>
+    <string name="status_requesting_root">Meminta akses root</string>
+    <string name="status_requesting_write">Meminta akses tulis</string>
+    <string name="status_load_main">Memuatkan skrin utama</string>
+    <string name="btn_cancel">Batal</string>
+    <string name="toast_error">Ralat berlaku</string>
 
 
-    <!--Widgets-->
-    <string name="widget_reboot">Reboot</string>
-    <string name="widget_cleaner">Task Cleaner</string>
-    <string name="widget_toast_saved">%1.1f MB freed</string>
-    <string name="widget_toast_version">This feature is currently only available for Android 5.1+</string>
-    <string name="widget_toast_noroot">No root access</string>
-    <string name="widget_busy">Just a sec…</string>
-
-
-    <!--About Page-->
-    <string name="title_about">About</string>
+    <string name="title_about">Tentang</string>
     <string name="title_betatest">Beta tester</string>
-    <string name="title_translation">English translation</string>
-    <string name="translators">cpu82</string>
+    <string name="title_translation">Terjemahan Melayu</string>
+    <string name="translators">OnTranslate</string>
 
-
-    <!--miscellaneous-->
-    <string name="adb_title">ADB over WiFi</string>
-    <string name="adb_summary">Enable ADB over WiFi to connect wirelessly from your PC</string>
-    <string name="adb_connect">Use \"adb connect %s:5555\" to connect to this device</string>
-    <string name="spellcheck_title">Spell check</string>
-    <string name="spellcheck_summary">Enable or disable spell check (red underlines)</string>
-    <string name="mountrw_title">Mount System R/W</string>
-    <string name="mountrw_summary">Mount system partition (/system) readable/writable instead of read-only</string>
-    <string name="language_title">Change system language</string>
-    <string name="alert_select_language">Select language</string>
-    <string name="alert_language" translatable="false">Changing system language</string>
-
+    <string name="adb_title">ADB mengatasi WiFi</string>
+    <string name="adb_summary">Aktifkan ADB mengatasi WiFi untuk menyambung secara tanpa wayar dari PC anda</string>
+    <string name="adb_connect">Gunakan \"sambungan adb %s:5555\" untuk menyambung ke peranti ini</string>
+    <string name="spellcheck_title">Semak ejaan</string>
+    <string name="spellcheck_summary">Aktifkan atau nyahaktifkan semakan ejaan (garis bawah merah)</string>
+    <string name="mountrw_title">Wujudkan sistem R/W</string>
+    <string name="mountrw_summary">Wujudkan system partition (/sistem) boleh lihat/boleh ubah bukannya  lihat sahaja</string>
+    <string name="language_title">Ubah bahasa sistem</string>
 
     <!-- Account -->
     <string name="title_activity_account">User account</string>
@@ -365,6 +324,27 @@
     <string name="comment">Comment</string>
     <string name="notify_sysupdate">Root ToolCase can check if previously removed system apps have been reinstalled.</string>
     <string name="notify_sysupdate_title">System update detected</string>
-
+    <string name="action_facebook">Facebook</string>
+    <string name="widget_cleaner">Task Cleaner</string>
+    <string name="widget_busy">Sekejap…</string>
+    <string name="apps_sizeinfo">%1$.1f MB</string>
+    <string name="alert_translate_no">Tidak, terima kasih</string>
+    <string name="alert_translate_yes">Pasti</string>
+    <string name="alert_select_language">Pilih Bahasa</string>
+    <string name="alert_translate_message">Would you like to contribute to your local translation of this app?</string>
+    <string name="alert_premium">Terima kasih kerana naik taraf!</string>
+    <string name="alert_initd_delete_message">Are you sure you want to delete this script (%s)?</string>
+    <string name="alert_twitter_title">Root ToolCase on Twitter</string>
+    <string name="alert_twitter_message">Root ToolCase is now on Twitter!  Follow us to receive news about the latest app updates etc.</string>
+    <string name="alert_upgrade_message">Adakah anda ingin menaik taraf ke versi tanpa iklan?</string>
+    <string name="apps_init_size">Calculating app size. Just a sec…</string>
+    <string name="apps_sysupdate">Looking for reinstalled system apps. Just a sec…</string>
+    <string name="message_share">\"Lihat \"%s\": \"</string>
+    <string name="widget_toast_noroot">No root access</string>
+    <string name="widget_toast_saved">%1.1f MB freed</string>
+    <string name="widget_reboot">Reboot</string>
+    <string name="toast_initd_save">Changes to %s saved</string>
+    <string name="title_root">ROOT DIKEHENDAKI</string>
+    <string name="widget_toast_version">This feature is currently only available for Android 5.1+</string>
 
 </resources>

@@ -1,0 +1,46 @@
+﻿TITLE
+*****
+
+Bekas Alatan Root
+
+SHORT DESCRIPTION
+*****************
+
+Koleksi alatan hebat untuk dapatkan banyak kelebihan dari peranti android anda!
+
+FULL DESCRIPTION
+****************
+
+ROOT DIPERLUKAN (aplikasi ini tidak akan root peranti anda)
+
+
+<b>Pengurus Aplikasi:</b>
+★ kosongkan data aplikasi atau cache aplikasi
+★ aktifkan/nyahaktifkan (bekukan) aplikasi
+★ nyahpasang aplikasi
+
+<b>Wizard Cepat:</b>
+★ pasang fail zip boleh cepat
+★ buat giliran cepat untuk beberapa fail zip
+★ imej boot (kernel) cepat
+★ imej pemulihan cepat
+
+<b>Perangkat Init.d:</b>
+★ jalankan skrip semasa permulaan
+★ tiada sokongan init.d asas diperlukan
+
+<b>Pengedit Build.prop:</b>
+★ edit ciri terbina bagi ROM anda
+
+<b>Reboot Lanjutan:</b>
+★ Boot ke pemulihan atau pemuat boot (boot cepat)
+
+<b>Alatan Pelbagai:</b>
+★ ADB mengatasi WiFi
+★ aktifkan/nyahaktifkan semakan ejaan
+★ wujudkan sistem r/w
+★ tukar bahasa sistem
+
+<b>Widget:</b>
+★ Pembersih Tugasan
+★ Reboot Lanjutan
