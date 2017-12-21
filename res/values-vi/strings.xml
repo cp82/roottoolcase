@@ -1,8 +1,8 @@
 <resources>
     <!--Main Activity-->
-    <string name="app_name">Root ToolCase</string>
-    <string name="action_pro">Loại bỏ quảng cáo</string>
-    <string name="action_about">Về</string>
+    <string name="app_name">Cộng cụ Root</string>
+    <string name="action_pro">Tắt quảng cáo</string>
+    <string name="action_about">Thông tin</string>
     <string name="action_translate">Dịch</string>
     <string name="action_share">Chia sẻ</string>
     <string name="action_follow">Theo dõi</string>
@@ -11,7 +11,7 @@
     <string name="title_advanced_reboot">Khởi động nâng cao</string>
     <string name="title_initd">Giả lập Init.d</string>
     <string name="title_root">YÊU CẦU ROOT</string>
-    <string name="title_flasher">Flash Wizard</string>
+    <string name="title_flasher">Trình Flash</string>
     <string name="title_buildprop">Trình sửa Build.prop</string>
     <string name="title_misc">Linh tinh</string>
     <string name="title_activity_app_manager">Quản lý ứng dụng</string>
@@ -21,7 +21,7 @@
     <string name="title_activity_editor">Trình sửa</string>
     <string name="title_activity_build_prop">Trình sửa Build.prop</string>
     <string name="title_activity_misc">Công cụ linh tinh</string>
-    <string name="alert_translate_title">Dịch phần mềm</string>
+    <string name="alert_translate_title">PNHT</string>
     <string name="alert_translate_message">Bạn có muốn đóng góp bản dịch địa phương của bạn cho ứng dụng này?</string>
     <string name="alert_translate_yes">"Có, tôi tham gia"</string>
     <string name="alert_translate_no">"Không, cảm ơn"</string>
@@ -50,12 +50,12 @@
     <string name="flasher_hint_image">Chọn tệp </string>
     <string name="alert_choose_zip">Chọn tệp zip để cài đặt</string>
     <string name="alert_choose_img">Chọn tệp ảnh để cài đặt</string>
-    <string name="alert_recovery_title">Flash ảnh Recovery</string>
+    <string name="alert_recovery_title">Flash Recovery</string>
     <string name="alert_recovery_progress">Đang Flash Recovery</string>
-    <string name="alert_recovery_message">Flash ảnh sai có thể làm hỏng phân vùng phục hồi của bạn.\n\nBạn có chắc muốn tiếp tục?</string>
+    <string name="alert_recovery_message">Flash sai có thể làm hỏng phân vùng phục hồi của bạn.\n\nBạn có chắc muốn tiếp tục?</string>
     <string name="alert_kernel_title">Flash Boot (Kernel)</string>
     <string name="alert_kernel_progress">Đang Flash Boot</string>
-    <string name="alert_kernel_message">Flash nhầm ảnh có thể làm hỏng phân vùng khởi động (Kernel).Trong trường hợp đó, bạn có thể cần flash lại ROM của bạn.\n\nBạn có chắc muốn tiếp tục?</string>
+    <string name="alert_kernel_message">Flash nhầm có thể làm hỏng phân vùng khởi động (Kernel).Trong trường hợp đó, bạn có thể cần flash lại ROM của bạn.\n\nBạn có chắc muốn tiếp tục?</string>
     <string name="cfg_backup_title">SAO LƯU (YÊU CẦU TWRP)</string>
     <string name="cfg_backup">Tạo sao lưu</string>
     <string name="toast_image_success">%1$s đã flash thành công</string>
@@ -185,7 +185,7 @@
     <string name="reboot_recovery_title">Khởi động lại để phục hồi</string>
     <string name="reboot_recovery_summary">Khởi động lại thiết bị của bạn ở chế độ khôi phục</string>
     <string name="reboot_fastboot_title">Khởi động lại vào Bootloader</string>
-    <string name="reboot_fastboot_summary">Khởi động lại thiết bị của bạn ở chế độ tải xuống hoặc nhanh chóng khởi động</string>
+    <string name="reboot_fastboot_summary">Khởi động lại thiết bị của bạn ở chế độ Fastboot</string>
     <string name="reboot_poweroff_title">Tắt nguồn</string>
     <string name="reboot_poweroff_summary">Tắt thiết bị của bạn</string>
     <string name="alert_reboot">Khởi động lại</string>
@@ -268,7 +268,7 @@
 
     <!--About Page-->
     <string name="title_about">Thông tin</string>
-    <string name="title_betatest">Thử nghiệm beta</string>
+    <string name="title_betatest">Thử nghiệm</string>
     <string name="title_translation">Bản dịch tiếng Việt</string>
     <string name="translators"> Phạm Nguyễn Hữu Thiện\nBibi9768@gmail.com</string>
 
@@ -293,7 +293,7 @@
     <string name="verified">Email đã kích hoạt</string>
     <string name="not_verified">Email chưa được xác minh</string>
     <string name="user_standard">Tiêu chuẩn</string>
-    <string name="user_premium">★ Premium ★</string>
+    <string name="user_premium">★ Trả phí ★</string>
     <string name="signed_out">Đã đăng xuất</string>
     <string name="signed_in">Đã đăng nhập</string>
     <string name="auth_failed">Quá trình xác thực đã thất bại</string>
@@ -336,28 +336,28 @@
     <string name="step_create">"Tạo tài khoản"</string>
     <string name="step_donate">"Ủng hộ qua PayPal"</string>
     <string name="step_approve">"Bạn sẽ nhận được giấy phép của mình trong vòng 72 giờ tiếp theo bằng Email"</string>
-    <string name="title_status">Status</string>
-    <string name="chanced_device">Changed your device?</string>
+    <string name="title_status">Trạng thái</string>
+    <string name="chanced_device">Đổi thiết bị?</string>
     <string name="alert_select_language">Chọn ngôn ngữ của bạn</string>
     <string name="language_title">Thay đổi ngôn ngữ hệ thống</string>
     <string name="action_rate">Xếp hạng</string>
-    <string name="alert_improve">What can we do better?</string>
-    <string name="alert_great">Great!</string>
-    <string name="alert_not_again">Don\'t ask again</string>
-    <string name="alert_rate_market">Please share your opinion with others on Google Play.\n\nThanks!</string>
-    <string name="alert_rate">How do you like Root ToolCase?</string>
-    <string name="ui_design">App design needs improvement</string>
-    <string name="feature_missing">A feature is missing</string>
-    <string name="feature_broken">A feature is not working</string>
-    <string name="comment">Comment</string>
-    <string name="awesome">It\'s awesome!</string>
-    <string name="dislike">Not so great</string>
-    <string name="alert_send">Send</string>
-    <string name="alert_thanks">Thanks!</string>
-    <string name="alert_too_bad">That\'s too bad!</string>
-    <string name="like">It\'s OK</string>
-    <string name="apps_sysupdate">Looking for reinstalled system apps. Just a sec…</string>
-    <string name="notify_sysupdate_title">System update detected</string>
-    <string name="notify_sysupdate">Root ToolCase can check if previously removed system apps have been reinstalled.</string>
+    <string name="alert_improve">Chúng tôi cần làm gì để ứng dụng tốt hơn?</string>
+    <string name="alert_great">Tuyệt!</string>
+    <string name="alert_not_again">Đừng hỏi lại</string>
+    <string name="alert_rate_market">Hãy đánh giá trênGoogle Play.\n\nThanks!</string>
+    <string name="alert_rate">Bạn có thích Root ToolCase?</string>
+    <string name="ui_design">Cải thiện thiết kế ứng dụng</string>
+    <string name="feature_missing">Thiếu tính năng</string>
+    <string name="feature_broken">Tính năng không dùng được</string>
+    <string name="comment">Bình luận</string>
+    <string name="awesome">Thât tuyệt vời!</string>
+    <string name="dislike">Không có gì hay</string>
+    <string name="alert_send">Gửi</string>
+    <string name="alert_thanks">Cảm ơn!</string>
+    <string name="alert_too_bad">Thật tệ!</string>
+    <string name="like">Nó ổn</string>
+    <string name="apps_sysupdate">Đang tìm ứng dụng hệ thống đã cài lại. Chờ vài giây…</string>
+    <string name="notify_sysupdate_title">Hệ thống phát hiện cập nhật</string>
+    <string name="notify_sysupdate">Root ToolCase có thể kiểm tra ứng dụng hệ thống đã gỡ được cài lại.</string>
 
 </resources>
