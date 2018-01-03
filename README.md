@@ -60,6 +60,7 @@ You find the template in the folder "PlayStoreEntry" under "yourlanguage.txt".
 * English, US - en-US
 * French - fr
 * German - de
+* Greek - el
 * Hindi - hi
 * Italian - it
 * Malay - ms
@@ -81,7 +82,6 @@ You find the template in the folder "PlayStoreEntry" under "yourlanguage.txt".
 * Estonian - et
 * Filipino - fil-PH
 * Finnish - fi
-* Greek - el
 * Hebrew - he
 * Hungarian - hu
 * Indonesian - in
