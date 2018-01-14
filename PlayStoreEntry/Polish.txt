@@ -6,7 +6,7 @@ Root ToolCase
 SHORT DESCRIPTION
 *****************
 
-Kolekcja świetnych narzędzi, która pozwoli wyciągnąć jak najwięcej z Twojego urządzenia!
+Kolekcja świetnych narzędzi, która pozwoli Ci wyciągnąć jak najwięcej z Twojego urządzenia!
 
 FULL DESCRIPTION
 ****************
