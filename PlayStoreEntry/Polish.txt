@@ -17,27 +17,27 @@ FULL DESCRIPTION
 Aplikacja posiada potężne możliwości, bądź ostrożny podczas korzystania z nich.
 TWÓRCA APLIKACJI NIE JEST ODPOWIEDZIALNY ZA EWENTUALNE PROBLEMY Z URZĄDZENIEM!
 
-<b>App Manager:</b>
+<b>Manager Aplikacji:</b>
 ★ czyszczenie danych i cache'u aplikacji
 ★ włączanie/wyłączanie (zamrażanie) aplikacji
 ★ usuwanie aplikacji
 
-<b>Flash Kreator:</b>
+<b>Kreator Instalacji:</b>
 ★ instalacja z plików zip
 ★ tworzenie kolejki instalacji dla kilku plików zip
 ★ instalacja obrazów boot (kernel)
 ★ instalacja obrazów recovery
 
-<b>Init.d Emulator:</b>
+<b>Emulator Init.d:</b>
 ★ uruchamianie skrytpów podczas startu
 ★ natywne wsparcie dla init.d nie jest wymagane
 
-<b>Build.prop Edytor:</b>
+<b>Edytor Build.prop:</b>
 ★ edytuj build properties swojego ROM'u
 
-<b>Zaawansowany Reboot:</b>
+<b>Zaawansowany Restart:</b>
 ★ uruchom recovery lub bootloader (fastboot)
 
-<b>Widgets:</b>
+<b>Widżety:</b>
 ★ czyszczenie zadań
-★ Zaawansowany Reboot
+★ zaawansowane uruchamianie
