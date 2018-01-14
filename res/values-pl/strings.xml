@@ -325,7 +325,7 @@
     <string name="alert_verify">Brak weryfikacji</string>
     <string name="alert_verify_message">Najpierw musisz zweryfikować swój e-mail</string>
     <string name="alert_sign_in">Musisz najpierw się zalogować</string>
-    <string name="alert_paypal_title">Wpłać, aby uzyskać licencję</string>
+    <string name="alert_paypal_title">Zrób donacje, aby uzyskać licencję</string>
     <string name="alert_paypal_message">"Przekierujemy Cię teraz do serwisu PayPal.\n\nPo zatwierdzeniu darowizny otrzymasz powiadomienie e-mailem w ciągu następnych 72 godzin."</string>
     <string name="alert_paypal_message_noauth">"Przekierujemy Cię teraz do serwisu PayPal.\n\nPo zatwierdzeniu darowizny otrzymasz powiadomienie e-mailem w ciągu następnych 72 godzin."</string>
     <string name="loading">Ładowanie…</string>
