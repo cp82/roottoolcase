@@ -5,23 +5,23 @@
         <item quantity="other">Wybranych aplikacji: %d</item>
     </plurals>
     <plurals name="apps_clear_cache">
-        <item quantity="one">Nast¹pi czyszczenie cache dla %d aplikacji</item>
-        <item quantity="other">Nast¹pi czyszczenie cache dla %d aplikacji</item>
+        <item quantity="one">NastÄ…pi czyszczenie cache dla %d aplikacji</item>
+        <item quantity="other">NastÄ…pi czyszczenie cache dla %d aplikacji</item>
     </plurals>
     <plurals name="apps_clear_data">
-        <item quantity="one">Nast¹pi czyszczenie danych dla %d aplikacji</item>
-        <item quantity="other">Nast¹pi czyszczenie danych dla %d aplikacji</item>
+        <item quantity="one">NastÄ…pi czyszczenie danych dla %d aplikacji</item>
+        <item quantity="other">NastÄ…pi czyszczenie danych dla %d aplikacji</item>
     </plurals>
     <plurals name="apps_uninstall">
-        <item quantity="one">Nast¹pi usuniêcie %d aplikacji</item>
-        <item quantity="other">Nast¹pi usuniêcie %d aplikacji</item>
+        <item quantity="one">NastÄ…pi usuniÄ™cie %d aplikacji</item>
+        <item quantity="other">NastÄ…pi usuniÄ™cie %d aplikacji</item>
     </plurals>
     <plurals name="apps_enable">
-        <item quantity="one">Nast¹pi w³¹czenie %d aplikacji</item>
-        <item quantity="other">Nast¹pi w³¹czenie %d aplikacji</item>
+        <item quantity="one">NastÄ…pi wÅ‚Ä…czenie %d aplikacji</item>
+        <item quantity="other">NastÄ…pi wÅ‚Ä…czenie %d aplikacji</item>
     </plurals>
     <plurals name="apps_disable">
-        <item quantity="one">Nast¹pi wy³¹czenie %d aplikacji</item>
-        <item quantity="other">Nast¹pi wy³¹czenie %d aplikacji</item>
+        <item quantity="one">NastÄ…pi wyÅ‚Ä…czenie %d aplikacji</item>
+        <item quantity="other">NastÄ…pi wyÅ‚Ä…czenie %d aplikacji</item>
     </plurals>
 </resources>
