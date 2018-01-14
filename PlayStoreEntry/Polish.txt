@@ -6,38 +6,38 @@ Root ToolCase
 SHORT DESCRIPTION
 *****************
 
-A great collection of tools to get more out of your android device!
+Kolekcja świetnych narzędzi, która pozwoli Ci wyciągnąć jak najwięcej z Twojego urządzenia!
 
 FULL DESCRIPTION
 ****************
 
-<b>ROOT REQUIRED (this app won't root your device)</b>
+<b>ROOT WYMAGANY (aplikacja nie instaluje root'a)</b>
 
-<b>DISCLAMER:</b>
-The features of this app are very powerful, be careful to use them properly.
-THE DEVELOPER OF THIS APP IS NOT RESPONSIBLE FOR DAMAGES TO YOUR DEVICE!
+<b>ZASTRZEŻENIE:</b>
+Aplikacja posiada potężne możliwości, bądź ostrożny podczas korzystania z nich.
+TWÓRCA APLIKACJI NIE JEST ODPOWIEDZIALNY ZA EWENTUALNE PROBLEMY Z URZĄDZENIEM!
 
-<b>App Manager:</b>
-★ clear app data or app cache
-★ enable/disable (freeze) apps
-★ uninstall apps
+<b>Manager Aplikacji:</b>
+★ czyszczenie danych i cache'u aplikacji
+★ włączanie/wyłączanie (zamrażanie) aplikacji
+★ usuwanie aplikacji
 
-<b>Flash Wizard:</b>
-★ install flashable zip files
-★ create flash queue for several zip files
-★ flash boot (kernel) images
-★ flash recovery images
+<b>Kreator Instalacji:</b>
+★ instalacja z plików zip
+★ tworzenie kolejki instalacji dla kilku plików zip
+★ instalacja obrazów boot (kernel)
+★ instalacja obrazów recovery
 
-<b>Init.d Emulator:</b>
-★ run scripts at startup
-★ no native init.d support required
+<b>Emulator Init.d:</b>
+★ uruchamianie skrytpów podczas startu
+★ natywne wsparcie dla init.d nie jest wymagane
 
-<b>Build.prop Editor:</b>
-★ edit your ROM's build properties
+<b>Edytor Build.prop:</b>
+★ edytuj build properties swojego ROM'u
 
-<b>Advanced Reboot:</b>
-★ Boot into recovery or bootloader (fastboot)
+<b>Zaawansowany Restart:</b>
+★ uruchom recovery lub bootloader (fastboot)
 
-<b>Widgets:</b>
-★ Task Cleaner
-★ Advanced Reboot
+<b>Widżety:</b>
+★ czyszczenie zadań
+★ zaawansowane uruchamianie
