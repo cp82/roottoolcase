@@ -1,4 +1,4 @@
-# ![logo](http://i.imgur.com/jFiaPZd.png)
+# ![logo](https://i.imgur.com/1cLoSQd.jpg)
 # Root ToolCase translation project
 
 ## Introduction
