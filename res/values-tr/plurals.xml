@@ -5,23 +5,23 @@
         <item quantity="other">%d uygulama seçildi</item>
     </plurals>
     <plurals name="apps_clear_cache">
-        <item quantity="one">%d uygulamasının önbelleğini temizlemek üzeresiniz</item>
-        <item quantity="other">%d uygulamalarının önbelleğini temizlemek üzeresiniz</item>
+        <item quantity="one">%d uygulamanın önbelleğini temizlemek üzeresiniz</item>
+        <item quantity="other">%d uygulamanın önbelleğini temizlemek üzeresiniz</item>
     </plurals>
     <plurals name="apps_clear_data">
-        <item quantity="one">%d uygulamasının verileri silmek üzeresin</item>
-        <item quantity="other">%d uygulamalarının verilerini silmek üzeresin</item>
+        <item quantity="one">%d uygulamanın verilerini temizlemek üzeresiniz</item>
+        <item quantity="other">%d uygulamanın verilerini temizlemek üzeresiniz</item>
     </plurals>
     <plurals name="apps_uninstall">
-        <item quantity="one">%d uygulamasını kaldırmak üzeresiniz</item>
-        <item quantity="other">%d uygulamalarını kaldırmak üzeresiniz</item>
+        <item quantity="one">%d uygulamayı kaldırmak üzeresiniz</item>
+        <item quantity="other">%d uygulamayı kaldırmak üzeresiniz</item>
     </plurals>
     <plurals name="apps_enable">
-        <item quantity="one">%d uygulamasını etkinleştirmek üzeresiniz</item>
-        <item quantity="other">%d uygulamalarını etkinleştirmek üzeresiniz</item>
+        <item quantity="one">%d uygulamayı etkinleştirmek üzeresiniz</item>
+        <item quantity="other">%d uygulamayı etkinleştirmek üzeresiniz</item>
     </plurals>
     <plurals name="apps_disable">
-        <item quantity="one">%d uygulamasını devre dışı bırakmak üzeresiniz</item>
-        <item quantity="other">%d uygulamalarını devre dışı bırakmak üzeresiniz</item>
+        <item quantity="one">%d uygulamayı devre dışı bırakmak üzeresiniz</item>
+        <item quantity="other">%d uygulamayı devre dışı bırakmak üzeresiniz</item>
     </plurals>
 </resources>
