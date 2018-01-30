@@ -1,43 +1,43 @@
 ﻿TITLE
 *****
 
-Root Alet Çantası
+Root ToolCase
 
 SHORT DESCRIPTION
 *****************
 
-Android cihazınızdan daha fazla faydalanmak için harika bir alet çantası.
+Android cihazınızdan daha fazla yararlanmak için harika bir araç koleksiyonu!
 
 FULL DESCRIPTION
 ****************
 
-<b>ROOT GEREKLİ (Bu uygulama cihazınızı rootlamaz.)</b>
+<b>ROOT GEREKLİ (bu uygulama cihazınızı rootlamaz.)</b>
 
 <b>SORUMLULUK REDDİ:</b>
-Bu uygulamanın özellikleri çok güçlüdür, bunları düzgün kullanmaya özen gösterin.
-BU UYGULAMA GELİŞTİRİCİSİ, CİHAZINIZIN ZARARLARDAN SORUMLU TUTULAMAZ!
+Bu uygulamanın özellikleri çok güçlüdür, bunları düzgün bir şekilde kullanmaya özen gösterin.
+BU UYGULAMANIN GELİŞTİRİCİSİ, CİHAZINIZIN ZARARLARINDAN SORUMLU DEĞİLDİR!
 
 <b>Uygulama Yöneticisi:</b>
-★ uygulama verilerini ve önceliğini temizleyin
-★ aktif/devre dışı (dondur) uygulamaları
-★ uygulamalar kaldır
+★ Uygulama verilerini ve önbelleğini temizleyin
+★ Uygulamaları etkinleştirin/devre dışı bırakın (dondurun)
+★ Uygulamaları kaldırın
 
-<b>Flash Sihirbazı:</b>
-★ flashable dosyaları kurun
-★ Birkaç zip dosyası için flash kuyruğu oluştur
-★ boot (kernel) images flashlayın
-★ recovery images kurun
+<b>Flaşlama Sihirbazı:</b>
+★ Flaşlanabilir zip dosyaları yükleyin
+★ Birkaç zip dosyası için flaşlama sırası oluşturun
+★ Boot (kernel) image dosyaları flaşlayın
+★ Recovery (kurtarma) image dosyaları flaşlayın
 
 <b>Init.d Emülatörü:</b>
-★ başlangıçta komut dosyalarını çalıştır
-★ yerli init.d desteği gerekli değil
+★ Başlangıçta komut dosyaları çalıştırın
+★ Orijinal init.d desteği gerekli değil
 
-<b>Build.prop Editör:</b>
-★ ROM'unuzun yapı özelliklerini düzenleyin
+<b>Build.prop Düzenleyicisi:</b>
+★ ROM'unuzun sürüm özelliklerini düzenleyin
 
 <b>Gelişmiş Yeniden Başlatma:</b>
-★ Kurtarma veya önyükleme programına önyükleme (fastboot)
+★ Cihazınızı recovery (kurtarma) veya bootloader modunda başlatın
 
-<b>Widgetler:</b>
-★ Görev Temizleyici
+<b>Widget'lar:</b>
+★ Görev Temizleyicisi
 ★ Gelişmiş Yeniden Başlatma
