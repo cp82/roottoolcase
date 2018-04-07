@@ -6,6 +6,8 @@
     <string name="action_translate">Translate</string>
     <string name="action_share">Share</string>
     <string name="action_rate">Rate</string>
+    <string name="action_facebook">Facebook</string>
+    <string name="action_wiki">Help</string>
     <string name="action_follow">Follow</string>
     <string name="action_account">User account</string>
     <string name="action_settings">Settings</string>
@@ -108,6 +110,7 @@
     <string name="action_multiselect">Multiple selection</string>
     <string name="action_customlist">Add to custom list</string>
     <string name="action_delete_list">Delete current list</string>
+    <string name="action_bloatware">Report bloatware</string>
     <string name="app_updated">UPDATED</string>
     <string name="app_disabled">DISABLED</string>
     <string name="appinfo_name">Name:</string>
@@ -143,6 +146,7 @@
     <string name="alert_uninstall_message">Do you really want to uninstall this app?</string>
     <string name="alert_uninstall_system_message">Do you really want to uninstall this <b>SYSTEM APP</b>?\nBe aware that removing the wrong applications can cause serious problems. In that case you may need to reflash the complete ROM.</string>
     <string name="alert_uninstalling">Uninstalling</string>
+    <string name="alert_uninstalling_pkg">Uninstalling %s</string>
     <string name="alert_installing">Installing</string>
     <string name="alert_install_success">Installation successful</string>
     <string name="alert_enabling">Enabling</string>
@@ -194,14 +198,23 @@
     <string name="reboot_fastboot_summary">Reboot your device in download or fastboot mode</string>
     <string name="reboot_poweroff_title">Power off</string>
     <string name="reboot_poweroff_summary">Switch off your device</string>
+    <string name="reboot_systemui_title">Restart System UI</string>
+    <string name="reboot_systemui_summary">Restart user interface process</string>
+    <string name="reboot_safemode_title">Safe Mode</string>
+    <string name="reboot_safemode_summary">Restart in safe mode (without third party apps)</string>
     <string name="alert_reboot">Rebooting</string>
     <string name="alert_reboot_soft">Restarting Android</string>
     <string name="alert_reboot_recovery">Rebooting into Recovery</string>
     <string name="alert_reboot_fastboot">Rebooting into Bootloader</string>
     <string name="alert_reboot_poweroff">Powering off</string>
+    <string name="alert_reboot_systemui">Restarting System UI</string>
+
     <string name="alert_fastboot_title">Reboot to Bootloader</string>
     <string name="alert_fastboot_message">Do you really want to reboot your device into the bootloader?\n\nThis feature may be disabled in some ROMs. You can probably turn it on in the developer settings.</string>
 
+    <string name="alert_safemode_title">Reboot to Safe Mode</string>
+    <string name="alert_safemode_message">Do you really want to reboot your device in safe mode? Only system apps will be loaded.\n\nTo exit safe mode, just reboot your device again.</string>
+    <string name="alert_reboot_safemode">Restarting in Safe Mode</string>
 
     <!--Init.d emulator-->
     <string name="initd_title">Enable init.d</string>
@@ -366,5 +379,25 @@
     <string name="notify_sysupdate">Root ToolCase can check if previously removed system apps have been reinstalled.</string>
     <string name="notify_sysupdate_title">System update detected</string>
 
+    <string name="bloatware_message">If you think that this is bloatware, please report this to our database so we can help other users identify potential bloatware on their devices.</string>
+    <string name="bloatware_message_safe">Is it safe to remove this app?</string>
+    <string name="bloatware_report">Report this app as bloatware</string>
+    <string name="bloatware_tag">Tag as bloatware</string>
+    <string name="bloatware_sysapp_info">You just uninstalled a system app:</string>
+    <string name="bloatware_ask">"Don't ask again"</string>
+    <string name="bloatware_safe">Safe</string>
+    <string name="bloatware_unsafe">Unsafe</string>
+    <string name="bloatware_unknown">"Don't know yet"</string>
+    <string name="notify_bloatware">Root ToolCase detected one or more apps that were tagged as bloatware by other users.</string>
+    <string name="notify_bloatware_title">Bloatware detected</string>
+    <string name="alert_details">Show details</string>
+    <string name="toast_feedback">Thank you for your feedback!</string>
+    <string name="number_reports">%d reports</string>
+    <string name="safe_percentage">%d %% safe to remove</string>
+    <string name="bloatware_found">%1$d apps found</string>
+    <string name="menu_all">All</string>
+    <string name="menu_none">None</string>
 
+    <string name="title_activity_bloatware">Bloatware Assistant</string>
+    <string name="summary_bloatware">Scan your apps for bloatware</string>
 </resources>

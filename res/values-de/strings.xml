@@ -355,5 +355,40 @@
     <string name="apps_sysupdate">Suche nach reinstallierten Systemapps. Einen Moment…</string>
     <string name="notify_sysupdate_title">Systemupdate erkannt</string>
     <string name="notify_sysupdate">Root ToolCase kann prüfen, ob bereits gelöschte Systemapps wieder installiert wurden.</string>
+    <string name="action_facebook">Facebook</string>
+    <string name="reboot_systemui_title">System UI</string>
+    <string name="reboot_systemui_summary">User-Interface-Prozess neu starten</string>
+    <string name="alert_reboot_systemui">Restarting System UI</string>
+    <string name="reboot_safemode_title">Abgesicherter Modus</string>
+    <string name="reboot_safemode_summary">Im abgesicherten Modus starten (nur Systemapps)</string>
+    <string name="alert_safemode_title">Abgesicherter Modus</string>
+    <string name="alert_safemode_message">Wollen Sie Ihr Gerät im abgesicherten Modus starten? Es werden nur Systemapps geladen.\n\nUm den abgesicherten Modus zu beenden, starten Sie Ihr Gerät noch einmal neu.</string>
+    <string name="alert_reboot_safemode">Restarting in Safe Mode</string>
+    <string name="action_wiki">Hilfe</string>
+    <string name="action_bloatware">Bloatware melden</string>
+    <string name="bloatware_message">Wenn Sie denken, dass es sich bei dieser App um Bloatware handelt, senden Sie dies bitte an unsere Datenbank. So können wir anderen Usern helfen, potentielle Bloatware auf ihrem Gerät zu identifizieren.</string>
+    <string name="bloatware_message_safe">Ist es sicher, diese App zu deinstallieren?</string>
+    <string name="bloatware_report">Diese App als Bloatware markieren</string>
+    <string name="bloatware_tag">Als Bloatware markieren</string>
+    <string name="bloatware_safe">Sicher</string>
+    <string name="bloatware_unsafe">Unsicher</string>
+    <string name="bloatware_unknown">Weiß noch nicht</string>
+    <string name="notify_bloatware">Root ToolCase hat eine oder mehrere Apps erkannt, die von anderen Usern als Bloatware markiert wurden.</string>
+    <string name="notify_bloatware_title">Bloatware erkannt</string>
+
+
+    <string name="bloatware_sysapp_info">Sie haben gerade eine Systemapp deinstalliert:</string>
+    <string name="bloatware_ask">"Nicht mehr fragen"</string>
+
+    <string name="alert_details">Details</string>
+    <string name="toast_feedback">Vielen Dank für Ihr Feedback!</string>
+    <string name="number_reports">%d Meldungen</string>
+    <string name="safe_percentage">%d %% sicher zu deinstallieren</string>
+    <string name="bloatware_found">%1$d Apps gefunden</string>
+    <string name="menu_all">Alle</string>
+    <string name="menu_none">Keine</string>
+    <string name="title_activity_bloatware">Bloatware Assistent</string>
+    <string name="alert_uninstalling_pkg">Uninstalling %s</string>
+    <string name="summary_bloatware">Apps auf Bloatware überprüfen</string>
 
 </resources>

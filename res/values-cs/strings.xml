@@ -132,8 +132,6 @@
     <string name="alert_extract_title">Rozbalit aplikaci</string>
     <string name="alert_extract_message">"Chcete rozbalit soubor aplikace?\n\nSoubor uložen:\n\n \"/sdcard/Root Toolcase/Extracted\""</string>
     <string name="alert_integrate_update">Chcete integrovat tuto aktualizaci do systému?</string>
-    <string name="alert_convert_system" translatable="false">"Chcete kovertovat tuto aplikaci jako systémovou?\n\nPro provedení změn je nutné restartovat Vaše zařízení."</string>
-    <string name="alert_convert_user" translatable="false">"Chcete kovertovat tuto aplikaci jako uživatelskou?\n\nPro provedení změn je nutné restartovat Vaše zařízení."</string>
     <string name="alert_overwrite_title">Poznámka</string>
     <string name="alert_overwrite_message">Tato aplikace již existuje. Chcete přepsat existující aplikaci?</string>
     <string name="alert_overwrite_sysapp_message">Tato systémová aplikace již existuje.\n\nPřepsáním systémové aplikace hrozí poškození systému. Pokud se tak stane, možná budete muset provést znovu flashnutí Vaší ROM.\n\nChcete přepsat existující aplikaci?</string>
@@ -177,10 +175,6 @@
     <string name="toast_error_videoad">Chyba při přehrávání reklamního videa. Zkontrolujte, prosím, Vaše připojení k internetu či nastavení blokování reklam a zkuste znovu!</string>
     <string name="alert_hint_title">Tip</string>
     <string name="alert_hint_message">Na aplikaci můžete také použít rychlé akce.\n\nMenu rychlých akci otevřete delším podržením výběru u položky v seznamu!</string>
-
-    <string name="alert_oreo_message" translatable="false">V případě Android Oreo, Root ToolCase požaduje Vaše povolení ke čtení uživatelských statistik pro načtení velikosti instalovaných aplikací.</string>
-    <string name="alert_grant" translatable="false">Povolit</string>
-    <string name="alert_ignore" translatable="false">Ignorovat</string>
 
 
     <!--Advanced reboot-->
@@ -289,7 +283,6 @@
     <string name="mountrw_summary">Připojit systémový oddíl (/system) na čtení/zápis místo jen ke čtení</string>
     <string name="language_title">Změna jazyka</string>
     <string name="alert_select_language">Výběr jazyka</string>
-    <string name="alert_language" translatable="false">Změna jazyka</string>
 
 
     <!-- Account -->
@@ -365,6 +358,39 @@
     <string name="comment">Komentář</string>
     <string name="notify_sysupdate">Root ToolCase může zjistit, zda předchozí odebrané systémové aplikace můžou být reinstalovány.</string>
     <string name="notify_sysupdate_title">Zjištěna systémová aktualizace</string>
+    <string name="action_facebook">Facebook</string>
+    <string name="reboot_systemui_title">Restart System UI</string>
+    <string name="reboot_systemui_summary">Restart user interface process</string>
+    <string name="alert_reboot_systemui">Restarting System UI</string>
+    <string name="reboot_safemode_title">Safe Mode</string>
+    <string name="reboot_safemode_summary">Restart in safe mode (without third party apps)</string>
+    <string name="alert_safemode_title">Reboot to Safe Mode</string>
+    <string name="alert_safemode_message">Do you really want to reboot your device in safe mode? Only system apps will be loaded.\n\nTo exit safe mode, just reboot your device again.</string>
+    <string name="alert_reboot_safemode">Restarting in Safe Mode</string>
+    <string name="action_wiki">Pomoci</string>
+    <string name="notify_bloatware_title">Bloatware detected</string>
+    <string name="notify_bloatware">Root ToolCase detected one or more apps that were tagged as bloatware by other users.</string>
+    <string name="action_bloatware">Report bloatware</string>
 
+    <string name="bloatware_message">If you think that this is bloatware, please report this to our database so we can help other users identify potential bloatware on their devices.</string>
+    <string name="bloatware_message_safe">Is it safe to remove this app?</string>
+    <string name="bloatware_report">Report this app as bloatware</string>
+    <string name="bloatware_tag">Tag as bloatware</string>
+    <string name="bloatware_sysapp_info">You just uninstalled a system app:</string>
+    <string name="bloatware_ask">"Don't ask again"</string>
+    <string name="bloatware_safe">Safe</string>
+    <string name="bloatware_unsafe">Unsafe</string>
+    <string name="bloatware_unknown">"Don't know yet"</string>
+
+    <string name="alert_details">Show details</string>
+    <string name="toast_feedback">Thank you for your feedback!</string>
+    <string name="number_reports">%d reports</string>
+    <string name="safe_percentage">%d %% safe to remove</string>
+    <string name="bloatware_found">%1$d apps found</string>
+    <string name="menu_all">All</string>
+    <string name="menu_none">None</string>
+    <string name="title_activity_bloatware">Bloatware Assistant</string>
+    <string name="alert_uninstalling_pkg">Uninstalling %s</string>
+    <string name="summary_bloatware">Scan your apps for bloatware</string>
 
 </resources>
