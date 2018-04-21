@@ -6,6 +6,8 @@
     <string name="action_translate">Çeviri yap</string>
     <string name="action_share">Paylaş</string>
     <string name="action_rate">Değerlendir</string>
+    <string name="action_facebook">Facebook</string>
+    <string name="action_wiki">Yardım</string>
     <string name="action_follow">Takip et</string>
     <string name="action_account">Kullanıcı hesabı</string>
     <string name="action_settings">Ayarlar</string>
@@ -108,6 +110,7 @@
     <string name="action_multiselect">Çoklu seçim</string>
     <string name="action_customlist">Özel listeye ekle</string>
     <string name="action_delete_list">Geçerli listeyi sil</string>
+	<string name="action_bloatware">Bloatware'i bildir</string>
     <string name="app_updated">GÜNCELLENDİ</string>
     <string name="app_disabled">DEVRE DIŞI BIRAKILDI</string>
     <string name="appinfo_name">Adı:</string>
@@ -143,6 +146,7 @@
     <string name="alert_uninstall_message">Bu uygulamayı gerçekten kaldırmak istiyor musunuz?</string>
     <string name="alert_uninstall_system_message">Bu <b>SİSTEM UYGULAMASI</b>nı gerçekten kaldırmak istiyor musunuz?\nYanlış uygulamaların kaldırılmasının ciddi sorunlara neden olabileceğini unutmayın. Bu durumda ROM'u yeniden flaşlamanız gerekebilir.</string>
     <string name="alert_uninstalling">Kaldırılıyor</string>
+	<string name="alert_uninstalling_pkg">%s kaldırılıyor</string>
     <string name="alert_installing">Yükleniyor</string>
     <string name="alert_install_success">Yükleme başarılı</string>
     <string name="alert_enabling">Etkinleştiriliyor</string>
@@ -194,14 +198,23 @@
     <string name="reboot_fastboot_summary">Cihazınızı download veya fastboot modunda yeniden başlatın</string>
     <string name="reboot_poweroff_title">Kapat</string>
     <string name="reboot_poweroff_summary">Cihazınızı kapatın</string>
+	<string name="reboot_systemui_title">Sistem Arayüzünü yeniden başlat</string>
+    <string name="reboot_systemui_summary">Kullanıcı arayüzü işlemini yeniden başlatın</string>
+    <string name="reboot_safemode_title">Güvenli Mod</string>
+    <string name="reboot_safemode_summary">Güvenli modda yeniden başlatın (üçüncü parti uygulamaları olmadan)</string>
     <string name="alert_reboot">Yeniden başlatılıyor</string>
     <string name="alert_reboot_soft">Android yeniden başlatılıyor</string>
     <string name="alert_reboot_recovery">Recovery modunda yeniden başlatılıyor</string>
     <string name="alert_reboot_fastboot">Bootloader modunda yeniden başlatılıyor</string>
     <string name="alert_reboot_poweroff">Kapatılıyor</string>
+	<string name="alert_reboot_systemui">Sistem Arayüzü yeniden başlatılıyor</string>
+
     <string name="alert_fastboot_title">Bootloader moduna yeniden başlat</string>
     <string name="alert_fastboot_message">Cihazınızı bootloader modunda yeniden başlatmak istiyor musunuz?\n\nBu özellik bazı ROM'larda devre dışı bırakılmış olabilir. Muhtemelen bunu geliştirici ayarlarından açabilirsiniz.</string>
 
+	<string name="alert_safemode_title">Güvenli Modda yeniden başlat</string>
+    <string name="alert_safemode_message">Cihazınızı güvenli modda yeniden başlatmak istiyor musunuz? Sadece sistem uygulamaları yüklenecek.\n\nGüvenli moddan çıkmak için cihazınızı yeniden başlatmanız yeterlidir.</string>
+    <string name="alert_reboot_safemode">Güvenli Modda yeniden başlatılıyor</string>
 
     <!--Init.d emulator-->
     <string name="initd_title">init.d'yi etkinleştir</string>
@@ -366,5 +379,25 @@
     <string name="notify_sysupdate">Root ToolCase, önceden kaldırılmış sistem uygulamalarının yeniden yüklenip yüklenmediğini kontrol edebilir.</string>
     <string name="notify_sysupdate_title">Sistem güncellemesi algılandı</string>
 
+    <string name="bloatware_message">Bunun bloatware olduğunu düşünüyorsanız, lütfen bunu veritabanımıza bildirin, böylece diğer kullanıcıların cihazlarındaki olası bloatware'leri tanımlamasına yardımcı olabiliriz.</string>
+    <string name="bloatware_message_safe">Bu uygulamayı kaldırmak güvenli mi?</string>
+    <string name="bloatware_report">Bu uygulamayı bloatware olarak bildir</string>
+    <string name="bloatware_tag">Bloatware olarak etiketle</string>
+    <string name="bloatware_sysapp_info">Bir sistem uygulamasını kaldırdınız:</string>
+    <string name="bloatware_ask">"Bir daha sorma"</string>
+    <string name="bloatware_safe">Güvenli</string>
+    <string name="bloatware_unsafe">Güvenli değil</string>
+    <string name="bloatware_unknown">"Henüz bilmiyorum"</string>
+    <string name="notify_bloatware">Root ToolCase, diğer kullanıcılar tarafından bloatware olarak etiketlenmiş bir veya daha fazla uygulama tespit etti.</string>
+    <string name="notify_bloatware_title">Bloatware tespit edildi</string>
+    <string name="alert_details">Ayrıntıları göster</string>
+    <string name="toast_feedback">Geri bildiriminiz için teşekkür ederiz!</string>
+    <string name="number_reports">%d bildiri</string>
+    <string name="safe_percentage">%% %d kaldırmak güvenli</string>
+    <string name="bloatware_found">%1$d uygulama bulundu</string>
+    <string name="menu_all">Tümü</string>
+    <string name="menu_none">Hiçbiri</string>
 
+    <string name="title_activity_bloatware">Bloatware Yardımcısı</string>
+    <string name="summary_bloatware">Bloatware uygulamalarını tarayın</string>
 </resources>
