@@ -1,9 +1,9 @@
 <resources>
     <!--Main Activity-->
-    <string name="app_name">Cộng cụ Root</string>
+    <string name="app_name">PNHT Bộ Công cụ Root</string>
     <string name="action_pro">Tắt quảng cáo</string>
     <string name="action_about">Thông tin</string>
-    <string name="action_translate">Dịch</string>
+    <string name="action_translate">PNHT</string>
     <string name="action_share">Chia sẻ</string>
     <string name="action_follow">Theo dõi</string>
     <string name="action_account">Tài khoản người dùng</string>
@@ -13,18 +13,18 @@
     <string name="title_root">YÊU CẦU ROOT</string>
     <string name="title_flasher">Trình Flash</string>
     <string name="title_buildprop">Trình sửa Build.prop</string>
-    <string name="title_misc">Linh tinh</string>
+    <string name="title_misc">Chức năng khác</string>
     <string name="title_activity_app_manager">Quản lý ứng dụng</string>
     <string name="title_activity_app">Thông tin ứng dụng</string>
     <string name="title_activity_reboot">Khởi động nâng cao</string>
     <string name="title_activity_init_d">Giả lập Init.d</string>
     <string name="title_activity_editor">Trình sửa</string>
     <string name="title_activity_build_prop">Trình sửa Build.prop</string>
-    <string name="title_activity_misc">Công cụ linh tinh</string>
+    <string name="title_activity_misc">Một số công cụ khác</string>
     <string name="alert_translate_title">PNHT</string>
-    <string name="alert_translate_message">Bạn có muốn đóng góp bản dịch địa phương của bạn cho ứng dụng này?</string>
-    <string name="alert_translate_yes">"Có, tôi tham gia"</string>
-    <string name="alert_translate_no">"Không, cảm ơn"</string>
+    <string name="alert_translate_message">Phần mềm được dịch bởi Phạm Nguyễn Hữu Thiện (bibi9768@gmail.com). Góp ý?</string>
+    <string name="alert_translate_yes">"Có"</string>
+    <string name="alert_translate_no">"Không"</string>
     <string name="summary_app_manager">Quản lý ứng dụng của người dùng và hệ thống</string>
     <string name="summary_reboot">Khởi động lại, vào chế độ khôi phục hoặc khởi động nhanh</string>
     <string name="summary_root">Ứng dụng này yêu cầu root phải hoạt động bình thường</string>
@@ -32,27 +32,27 @@
     <string name="summary_initd">Chạy tập lệnh khi khởi động</string>
     <string name="summary_misc">Công cụ linh tinh</string>
     <string name="alert_premium">Cảm ơn bạn đã nâng cấp lên bản Premium!</string>
-    <string name="alert_twitter_title">Root ToolCase trên Twitter</string>
-    <string name="alert_twitter_message">Root ToolCase hiện có trên Twitter!\n\nTheo dõi chúng tôi để nhận tin tức cập nhật về ứng dụng mới nhất.</string>
+    <string name="alert_twitter_title">Bộ Công cụ Root trên Twitter</string>
+    <string name="alert_twitter_message">Bộ Công cụ Root hiện có trên Twitter!\n\nTheo dõi chúng tôi để nhận tin tức cập nhật về ứng dụng mới nhất.</string>
     <string name="alert_upgrade_title">Nâng cấp</string>
     <string name="alert_upgrade_message">Bạn có muốn nâng cấp lên phiên bản không có quảng cáo không?</string>
     <string name="message_share">"Kiểm tra \"%s\": "</string>
     <string name="ad_failed">Hãy nâng cấp lên phiên bản không quảng cáo để hỗ trợ nhà phát triển</string>
 
     <!--Flash Wizard-->
-    <string name="title_activity_flash">Flash Wizard</string>
-    <string name="summary_flasher">Cài đặt flashable zips hoặc images</string>
+    <string name="title_activity_flash">Trình Flash</string>
+    <string name="summary_flasher">Cài đặt/Flash zip hoặc images</string>
     <string name="flasher_header">Chọn hành động</string>
-    <string name="flasher_type_zip">Cài đặt flashable zip (Yêu cầu TWRP hoặc CWM)</string>
-    <string name="flasher_type_recovery">Cài đặt revovery</string>
+    <string name="flasher_type_zip">Cài đặt/Flash zip (Yêu cầu TWRP hoặc CWM)</string>
+    <string name="flasher_type_recovery">Cài đặt recovery</string>
     <string name="flasher_type_boot">Cài đặt boot (kernel)</string>
-    <string name="flasher_hint_zip">Thêm tối đa 5 tệp zip vào hàng đợi flash</string>
+    <string name="flasher_hint_zip">Bạn có thể thêm tối đa 5 tệp zip vào hàng đợi flash</string>
     <string name="flasher_hint_image">Chọn tệp </string>
     <string name="alert_choose_zip">Chọn tệp zip để cài đặt</string>
     <string name="alert_choose_img">Chọn tệp ảnh để cài đặt</string>
     <string name="alert_recovery_title">Flash Recovery</string>
     <string name="alert_recovery_progress">Đang Flash Recovery</string>
-    <string name="alert_recovery_message">Flash sai có thể làm hỏng phân vùng phục hồi của bạn.\n\nBạn có chắc muốn tiếp tục?</string>
+    <string name="alert_recovery_message">Chú ý.Flash sai có thể làm hỏng phân vùng phục hồi của bạn.\n\nBạn có chắc muốn tiếp tục?</string>
     <string name="alert_kernel_title">Flash Boot (Kernel)</string>
     <string name="alert_kernel_progress">Đang Flash Boot</string>
     <string name="alert_kernel_message">Flash nhầm có thể làm hỏng phân vùng khởi động (Kernel).Trong trường hợp đó, bạn có thể cần flash lại ROM của bạn.\n\nBạn có chắc muốn tiếp tục?</string>
@@ -132,14 +132,14 @@
     <string name="alert_integrate_update">Bạn có muốn tích hợp cập nhật này với hệ thống?</string>
     <!--<string name="alert_convert_system" translatable="false">"Bạn có muốn chuyển đổi ứng dụng này sang ứng dụng hệ thống?\n\nBạn sẽ cần khởi động lại thiết bị của mình để thực hiện các thay đổi của mình hiệu quả."</string>-->
     <!--<string name="alert_convert_user" translatable="false">"Bạn có muốn chuyển đổi ứng dụng này sang ứng dụng người dùng không?\n\nBạn sẽ cần khởi động lại thiết bị của mình để thực hiện các thay đổi của mình hiệu quả."</string>-->
-    <string name="alert_overwrite_title">Để ý</string>
+    <string name="alert_overwrite_title">Chú ý</string>
     <string name="alert_overwrite_message">Ứng dụng này đã tồn tại. Bạn có muốn ghi đè ứng dụng hiện có không?</string>
     <string name="alert_overwrite_sysapp_message">Ứng dụng hệ thống này đã tồn tại.\n\nGhi đè lên các ứng dụng hệ thống có thể làm hỏng hệ thống của bạn. Trong trường hợp đó, bạn có thể cần flash lại ROM của bạn.\n\nBạn có muốn ghi đè ứng dụng hiện tại?</string>
     <string name="alert_updated_sysapp_message">Đây là ứng dụng hệ thống cập nhật. Trước tiên hãy gỡ cài đặt bản cập nhật hoặc thử cài đặt dưới dạng ứng dụng người dùng.</string>
     <string name="alert_uninstall_title">Gỡ cài đặt ứng dụng</string>
     <string name="alert_uninstall_system_title">Gỡ cài đặt ứng dụng hệ thống</string>
     <string name="alert_uninstall_message">Bạn có thực sự muốn gỡ cài đặt ứng dụng này?</string>
-    <string name="alert_uninstall_system_message">Bạn có thực sự muốn gỡ cài đặt này <b>SYSTEM APP</b>?\nLưu ý rằng việc gỡ bỏ các ứng dụng sai có thể gây ra các vấn đề nghiêm trọng. Trong trường hợp đó bạn có thể cần flash lại ROM đầy đủ.</string>
+    <string name="alert_uninstall_system_message">Bạn có thực sự muốn gỡ cài đặt này <b>ỨNG DỤNG HỆ THỐNG</b>?\nLưu ý rằng việc gỡ bỏ các ứng dụng sai có thể gây ra các vấn đề nghiêm trọng. Trong trường hợp đó bạn có thể cần flash lại ROM đầy đủ.</string>
     <string name="alert_uninstalling">Gỡ cài đặt</string>
     <string name="alert_installing">Cài đặt</string>
     <string name="alert_install_success">Cài đặt thành công</string>
@@ -173,16 +173,16 @@
     <string name="toast_error_existinglist">Danh sách này đã tồn tại!</string>
     <string name="toast_newlist_failed">Lỗi khi tạo danh sách</string>
     <string name="toast_error_videoad">Lỗi khi phát quảng cáo video. Vui lòng kiểm tra kết nối internet và cài đặt chặn quảng cáo của bạn và thử lại!</string>
-    <string name="alert_hint_title">Hint</string>
-    <string name="alert_hint_message">You can also use quick actions on apps.\n\nOpen the quick actions menu by long-pressing a list entry!</string>
+    <string name="alert_hint_title">Gợi ý</string>
+    <string name="alert_hint_message">Bạn cũng có thể sử dụng tác vụ nhanh trên ứng dụng.\n\nMở menu tác vụ nhanh bằng cách nhấn và giữ mục nhập danh sách!</string>
 
 
     <!--Advanced reboot-->
     <string name="reboot_title">Khởi động lại</string>
     <string name="reboot_summary">Khởi động lại thiết bị của bạn</string>
-    <string name="reboot_soft_title">Khởi động lại mềm</string>
-    <string name="reboot_soft_summary">Chỉ khởi động lại hệ thống android</string>
-    <string name="reboot_recovery_title">Khởi động lại để phục hồi</string>
+    <string name="reboot_soft_title">Khởi động lại nhanh</string>
+    <string name="reboot_soft_summary">Chỉ khởi động lại hệ thống Android</string>
+    <string name="reboot_recovery_title">Khởi động lại vào Recovery</string>
     <string name="reboot_recovery_summary">Khởi động lại thiết bị của bạn ở chế độ khôi phục</string>
     <string name="reboot_fastboot_title">Khởi động lại vào Bootloader</string>
     <string name="reboot_fastboot_summary">Khởi động lại thiết bị của bạn ở chế độ Fastboot</string>
@@ -292,7 +292,7 @@
     <string name="switch_googledrive">Google Drive</string>
     <string name="verified">Email đã kích hoạt</string>
     <string name="not_verified">Email chưa được xác minh</string>
-    <string name="user_standard">Tiêu chuẩn</string>
+    <string name="user_standard">Thông thường</string>
     <string name="user_premium">★ Trả phí ★</string>
     <string name="signed_out">Đã đăng xuất</string>
     <string name="signed_in">Đã đăng nhập</string>
@@ -360,39 +360,39 @@
     <string name="notify_sysupdate_title">Hệ thống phát hiện cập nhật</string>
     <string name="notify_sysupdate">Root ToolCase có thể kiểm tra ứng dụng hệ thống đã gỡ được cài lại.</string>
     <string name="action_facebook">Facebook</string>
-    <string name="reboot_systemui_title">Restart System UI</string>
-    <string name="reboot_systemui_summary">Restart user interface process</string>
-    <string name="alert_reboot_systemui">Restarting System UI</string>
-    <string name="reboot_safemode_title">Safe Mode</string>
-    <string name="reboot_safemode_summary">Restart in safe mode (without third party apps)</string>
-    <string name="alert_reboot_safemode">Restarting in Safe Mode</string>
-    <string name="alert_safemode_title">Reboot to Safe Mode</string>
-    <string name="alert_safemode_message">Do you really want to reboot your device in safe mode? Only system apps will be loaded.\n\nTo exit safe mode, just reboot your device again.</string>
+    <string name="reboot_systemui_title">Khởi động lại giao diện người dùng hệ thống</string>
+    <string name="reboot_systemui_summary">Đang khởi động lại quá trình giao diện người dùng</string>
+    <string name="alert_reboot_systemui">Đang khởi động lại giao diện người dùng hệ thống</string>
+    <string name="reboot_safemode_title">Chế độ an toàn</string>
+    <string name="reboot_safemode_summary">Khởi động lại ở chế độ an toàn (không có ứng dụng của bên thứ ba)</string>
+    <string name="alert_reboot_safemode">Đang hởi động lại ở chế độ an toàn</string>
+    <string name="alert_safemode_title">Khởi động lại sang Chế độ an toàn</string>
+    <string name="alert_safemode_message">Bạn có thực sự muốn khởi động lại thiết bị của mình ở chế độ an toàn không? Chỉ còn các ứng dụng hệ thống mới được.\n\nĐể thoát chế độ an toàn, chỉ cần khởi động lại thiết bị của bạn.</string>
     <string name="action_wiki">Trợ giúp</string>
-    <string name="notify_bloatware_title">Bloatware detected</string>
-    <string name="notify_bloatware">Root ToolCase detected one or more apps that were tagged as bloatware by other users.</string>
-    <string name="action_bloatware">Report bloatware</string>
+    <string name="notify_bloatware_title">Đã phát hiện phần mềm Bloatware</string>
+    <string name="notify_bloatware">Bộ Công cụ Root đã phát hiện một hoặc nhiều ứng dụng được người dùng khác gắn thẻ là bloatware.</string>
+    <string name="action_bloatware">Báo cáo bloatware</string>
 
-    <string name="bloatware_message">If you think that this is bloatware, please report this to our database so we can help other users identify potential bloatware on their devices.</string>
-    <string name="bloatware_message_safe">Is it safe to remove this app?</string>
-    <string name="bloatware_report">Report this app as bloatware</string>
-    <string name="bloatware_tag">Tag as bloatware</string>
-    <string name="bloatware_sysapp_info">You just uninstalled a system app:</string>
-    <string name="bloatware_ask">"Don't ask again"</string>
-    <string name="bloatware_safe">Safe</string>
-    <string name="bloatware_unsafe">Unsafe</string>
-    <string name="bloatware_unknown">"Don't know yet"</string>
+    <string name="bloatware_message">Nếu bạn nghĩ rằng đây là bloatware, hãy báo cáo điều này với cơ sở dữ liệu của chúng tôi để chúng tôi có thể giúp những người dùng khác xác định bloatware tiềm năng trên thiết bị của họ.</string>
+    <string name="bloatware_message_safe">Có an toàn để xóa ứng dụng này không?</string>
+    <string name="bloatware_report">Báo cáo ứng dụng này là bloatware</string>
+    <string name="bloatware_tag">Gắn thẻ dưới dạng bloatware</string>
+    <string name="bloatware_sysapp_info">Bạn vừa gỡ cài đặt ứng dụng hệ thống:</string>
+    <string name="bloatware_ask">"Đừng hỏi lại"</string>
+    <string name="bloatware_safe">An toàn</string>
+    <string name="bloatware_unsafe">Không an toàn</string>
+    <string name="bloatware_unknown">"Chưa biết"</string>
 
-    <string name="alert_details">Show details</string>
-    <string name="toast_feedback">Thank you for your feedback!</string>
-    <string name="number_reports">%d reports</string>
-    <string name="safe_percentage">%d %% safe to remove</string>
-    <string name="bloatware_found">%1$d apps found</string>
-    <string name="menu_all">All</string>
-    <string name="menu_none">None</string>
+    <string name="alert_details">Hiển thị chi tiết</string>
+    <string name="toast_feedback">Cảm ơn phản hồi của bạn!</string>
+    <string name="number_reports">%d báo cáo</string>
+    <string name="safe_percentage">%d %% an toàn để loại bỏ</string>
+    <string name="bloatware_found">%1$d ứng dụng được tìm thấy</string>
+    <string name="menu_all">Tất cả</string>
+    <string name="menu_none">Không có</string>
 
-    <string name="title_activity_bloatware">Bloatware Assistant</string>
-    <string name="alert_uninstalling_pkg">Uninstalling %s</string>
-    <string name="summary_bloatware">Scan your apps for bloatware</string>
+    <string name="title_activity_bloatware">Trợ lý Bloatware</string>
+    <string name="alert_uninstalling_pkg">Đang gỡ cài đặt %s</string>
+    <string name="summary_bloatware">Quét ứng dụng của bạn tìm bloatware</string>
 
 </resources>
