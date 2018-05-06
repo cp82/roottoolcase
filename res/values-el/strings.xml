@@ -2,8 +2,9 @@
 <resources>
   <string name="action_about">Σχετικά με</string>
   <string name="action_account">Λογαριασμός χρήστη</string>
+  <string name="action_bloatware">Αναφορά bloatware</string>
   <string name="action_clear_cache">Διαγραφή Cache</string>
-  <string name="action_clear_data">Καθαρισμός δεδομένων</string>
+  <string name="action_clear_data">Καθαρισμός δεδομ.</string>
   <string name="action_convert_system">Μετατροπή σε εφαρμογή συστήματος</string>
   <string name="action_convert_user">Μετατροπή σε εφαρμογή χρήστη</string>
   <string name="action_customlist">Προσθήκη σε προσαρμοσμένη λίστα</string>
@@ -15,7 +16,7 @@
   <string name="action_filter_custom">Προσαρμοσμένη λίστα</string>
   <string name="action_filter_frozen">Απενεργοποιημένες εφαρμογές</string>
   <string name="action_filter_system">Εφαρμογές συστήματος</string>
-  <string name="action_filter_updated">Ενημερωμένες εφαρμ. συστήματος</string>
+  <string name="action_filter_updated">Ενημερωμένες εφαρμ. συστήμ.</string>
   <string name="action_filter_user">Εφαρμογές χρήστη</string>
   <string name="action_follow">Twitter</string>
   <string name="action_freeze">Απενεργοποίηση</string>
@@ -24,7 +25,7 @@
   <string name="action_multiselect">Πολλαπλή επιλογή</string>
   <string name="action_pro">Αφαίρεση διαφημίσεων</string>
   <string name="action_rate">Βαθμολογία</string>
-  <string name="action_save_queue">Αποθήκευση λίστ.αναμονής πρός εγκατ.</string>
+  <string name="action_save_queue">Αποθήκευση λίστ.αναμ. πρός εγκατ.</string>
   <string name="action_settings">Ρυθμίσεις</string>
   <string name="action_share">Μοιραστείτε</string>
   <string name="action_sort_by_appsize">Κατά μέγεθος εφαρμογής</string>
@@ -38,13 +39,14 @@
   <string name="action_translate">Μετάφραση</string>
   <string name="action_unfreeze">Ενεργοποίηση</string>
   <string name="action_uninstall">Απεγκατάσταση</string>
+  <string name="action_wiki">Βοήθεια</string>
   <string name="activate_license">Εισαγωγή κλειδιού άδειας</string>
   <string name="ad_failed">Κάντε αναβάθμιση στην έκδοση χωρίς διαφημίσεις για να υποστηρίξετε τον προγραμματιστή</string>
-  <string name="adb_connect">Χρησιμοποιήστε \ "adb σύνδεση %s:5555\" για να συνδεθείτε σε αυτήν τη συσκευή</string>
+  <string name="adb_connect">Χρησιμοποιήστε \ \"adb σύνδεση %s:5555\" για να συνδεθείτε σε αυτήν τη συσκευή</string>
   <string name="adb_summary">Ενεργοποιήστε το ADB μέσω WiFi για να συνδεθείτε ασύρματα από τον υπολογιστή σας</string>
   <string name="adb_title">ADB μέσω WiFi</string>
   <string name="alert_attention">Προσοχή</string>
-  <string name="alert_backup_title">Επιλέξτε ένα αντίγραφο </string>
+  <string name="alert_backup_title">"Επιλέξτε ένα αντίγραφο "</string>
   <string name="alert_cache_title">Διαγραφή προσωρινής μνήμης εφαρμογών</string>
   <string name="alert_cancel">Άκυρο</string>
   <string name="alert_choose_apk">Επιλέξτε ένα apk</string>
@@ -56,29 +58,24 @@
   <string name="alert_data_message">Όλα τα δεδομένα της εφαρμογής θα διαγραφούν μόνιμα, συμπεριλαμβανομένων ρυθμίσεων εφαρμογών, αρχείων κλπ.</string>
   <string name="alert_data_title">Εκκαθάριση δεδομένων εφαρμογής</string>
   <string name="alert_delete">Διαγραφή</string>
+  <string name="alert_details">Εμφάνιση λεπτομερειών</string>
   <string name="alert_disabling">Απενεργοποίηση</string>
   <string name="alert_discard">Απόρριψη</string>
   <string name="alert_email">Εισάγετε Email</string>
   <string name="alert_enabling">Ενεργοποίηση</string>
   <string name="alert_extract_message">"Θέλετε να εξαγάγετε το αρχείο apk αυτής της εφαρμογής;
-  
-Θα βρείτε το αρχείο σε:
-
- \"/sdcard/Root Toolcase/Extracted\""</string>
+ \nΘα βρείτε το αρχείο σε:\n\n \"/sdcard/Root Toolcase/Extracted\""</string>
   <string name="alert_extract_title">Εξαγωγή apk</string>
   <string name="alert_fastboot_message">"Θέλετε πραγματικά να επανεκκινήσετε τη συσκευή σας στον bootloader;
-  
-Αυτή η λειτουργία ενδέχεται να είναι ανενεργή σε ορισμένες  ROM. Μπορείτε πιθανώς να το ενεργοποιήσετε στις ρυθμίσεις προγραμματιστή."</string>
+ \nΑυτή η λειτουργία ενδέχεται να είναι ανενεργή σε ορισμένες  ROM. Μπορείτε πιθανώς να το ενεργοποιήσετε στις ρυθμίσεις προγραμματιστή."</string>
   <string name="alert_fastboot_title">Επανεκκίνηση σε Bootloader</string>
   <string name="alert_freeze_title">Απενεργοποίηση εφαρμογών</string>
   <string name="alert_great">Εξαιρετική!</string>
   <string name="alert_hint_message">"Μπορείτε επίσης να χρησιμοποιήσετε τις γρήγορες ενέργειες σε εφαρμογές.
-  
-Ανοίξτε το μενού γρήγορων ενεργειών πατώντας παρατεταμένα μια καταχώρηση λίστας!"</string>
+ \nΑνοίξτε το μενού γρήγορων ενεργειών πατώντας παρατεταμένα μια καταχώρηση λίστας!"</string>
   <string name="alert_hint_title">Υπόδειξη</string>
   <string name="alert_iab_description">"Το Google Play δεν είναι διαθέσιμο σε αυτήν τη συσκευή.
-  
-Εναλλακτικά, μπορείτε να αποκτήσετε την έκδοση χωρίς διαφημίσεις ακολουθώντας τα παρακάτω βήματα:"</string>
+ \nΕναλλακτικά, μπορείτε να αποκτήσετε την έκδοση χωρίς διαφημίσεις ακολουθώντας τα παρακάτω βήματα:"</string>
   <string name="alert_improve">Τι μπορούμε να κάνουμε καλύτερα;</string>
   <string name="alert_initd_delete">Διαγραφή δέσμης ενεργειών</string>
   <string name="alert_initd_delete_message">Είστε βέβαιοι ότι θέλετε να διαγράψετε την δέσμη ενεργειών (%s)?</string>
@@ -88,17 +85,14 @@
   <string name="alert_installing">Εγκατάσταση</string>
   <string name="alert_integrate_update">Θέλετε να ενσωματώσετε αυτήν την ενημέρωση στο σύστημα;</string>
   <string name="alert_kernel_message">"Εγκαθιστώντας λάθος εικόνα ενδέχεται να καταστρέψει το διαμέρισμα εκκίνησης (πυρήνα). Σε αυτή την περίπτωση, μπορεί να χρειαστεί να επαναεγκαταστήσετε την ROM.
-  
-Είστε βέβαιοι ότι θέλετε να προχωρήσετε;"</string>
+ \nΕίστε βέβαιοι ότι θέλετε να προχωρήσετε;"</string>
   <string name="alert_kernel_progress">Εγκατάσταση εικόνας εκκίνησης</string>
   <string name="alert_kernel_title">Εγκατάσταση Εικόνας εκκίνησης (Kernel)</string>
   <string name="alert_list">Επιλέξτε μια προσαρμοσμένη λίστα</string>
   <string name="alert_multifreeze_na">"Δεν επιτρέπεται το ταυτόχρονο πάγωμα πολλαπλών εφαρμογών συστήματος, επειδή υπάρχει κίνδυνος να καταστραφεί η ROM.
-  
-Κάντε άλλη επιλογή χωρίς καμία εφαρμογή συστήματος."</string>
+ \nΚάντε άλλη επιλογή χωρίς καμία εφαρμογή συστήματος."</string>
   <string name="alert_multiuninstall_na">"Η απεγκατάσταση πολλαπλών εφαρμογών συστήματος ταυτόχρονα δεν επιτρέπεται, επειδή υπάρχει κίνδυνος να καταστραφεί η ROM.
-  
-Κάντε άλλη επιλογή χωρίς καμία εφαρμογή συστήματος."</string>
+ \nΚάντε άλλη επιλογή χωρίς καμία εφαρμογή συστήματος."</string>
   <string name="alert_new_queue">Δημιουργία νέας λίστας αναμονής</string>
   <string name="alert_new_queue_message">Πληκτρολογήστε ένα όνομα της λίστας εγκατάστασης</string>
   <string name="alert_new_queue_title">Νέα λίστα αναμονής</string>
@@ -115,17 +109,14 @@
   <string name="alert_overwrite_sysapp_message">Αυτή η εφαρμογή συστήματος υπάρχει ήδη.\n\nΟι εφαρμογές αντικατάστασης συστήματος ενδέχεται να καταστρέψουν το σύστημά σας. Σε αυτή την περίπτωση, μπορεί να χρειαστεί να ανανεώσετε ξανά τη ROM.\n\nΘέλετε να αντικαταστήσετε την υπάρχουσα εφαρμογή;</string>
   <string name="alert_overwrite_title">Ειδοποίηση</string>
   <string name="alert_paypal_message">"Θα μεταφερθείτε τώρα στο PayPal.
-  
-Μόλις η δωρεά σας εγκριθεί, θα λάβετε ειδοποίηση μέσω Email εντός των επόμενων 72 ωρών."</string>
+ \nΜόλις η δωρεά σας εγκριθεί, θα λάβετε ειδοποίηση μέσω Email εντός των επόμενων 72 ωρών."</string>
   <string name="alert_paypal_message_noauth">"Θα μεταφερθείτε τώρα στο PayPal.
-  
-Μόλις η δωρεά σας έχει εγκριθεί, θα λάβετε ένα Email με το κλειδί άδειας χρήσης εντός των επόμενων 72 ωρών."</string>
+ \nΜόλις η δωρεά σας έχει εγκριθεί, θα λάβετε ένα Email με το κλειδί άδειας χρήσης εντός των επόμενων 72 ωρών."</string>
   <string name="alert_paypal_title">Δωρεά για να πάρετε μια άδεια</string>
   <string name="alert_play_ad">Αναπαραγωγή διαφήμισης</string>
   <string name="alert_premium">Σας ευχαριστούμε για την αναβάθμιση σε premium!</string>
   <string name="alert_premium_message">"Αυτό είναι ένα χαρακτηριστικό premium. Κάντε αναβάθμιση στην έκδοση χωρίς διαφημίσεις.
-  
-Εναλλακτικά, μπορείτε να παρακολουθήσετε μια διαφήμιση βίντεο για να ξεκλειδώσετε αυτήν τη λειτουργία για αυτήν την περίοδο σύνδεσης."</string>
+ \nΕναλλακτικά, μπορείτε να παρακολουθήσετε μια διαφήμιση βίντεο για να ξεκλειδώσετε αυτήν τη λειτουργία για αυτήν την περίοδο σύνδεσης."</string>
   <string name="alert_premium_title">Premium χαρακτηριστικό</string>
   <string name="alert_progress">%1$s (%2$d/%3$d)</string>
   <string name="alert_prop_delete">Διαγραφή ιδιότητας</string>
@@ -134,8 +125,7 @@
   <string name="alert_prop_new">Προσθήκη νέας ιδιότητας</string>
   <string name="alert_rate">Σας αρέσει το Root ToolCase;</string>
   <string name="alert_rate_market">"Μοιραστείτε τη γνώμη σας με άλλους στο Google Play.
-  
-Ευχαριστώ!"</string>
+ \nΕυχαριστώ!"</string>
   <string name="alert_reboot">Επανεκκίνηση</string>
   <string name="alert_reboot_fastboot">Επανεκκίνηση στο Bootloader</string>
   <string name="alert_reboot_later">Αργότερα</string>
@@ -143,45 +133,46 @@
   <string name="alert_reboot_message2">Για να εφαρμοστούν οι αλλαγές σας, θα πρέπει να επανεκκινήσετε τη συσκευή σας. Επανεκκίνηση τώρα;</string>
   <string name="alert_reboot_poweroff">Απενεργοποίηση</string>
   <string name="alert_reboot_recovery">Επανεκκίνηση σε Ανάκτηση</string>
+  <string name="alert_reboot_safemode">Επανεκκίνηση σε ασφαλή λειτουργία</string>
   <string name="alert_reboot_soft">Επανεκκίνηση του Android</string>
+  <string name="alert_reboot_systemui">Επανεκκίνηση UI συστήματος</string>
   <string name="alert_reboot_title">Επανεκκίνηση</string>
   <string name="alert_recovery_message">"Η Εγκατάσταση μιας λανθασμένης εικόνας ενδέχεται να καταστρέψει το διαμέρισμα ανάκτησης.
-  
-Είστε βέβαιοι ότι θέλετε να προχωρήσετε;"</string>
+ \nΕίστε βέβαιοι ότι θέλετε να προχωρήσετε;"</string>
   <string name="alert_recovery_progress">Εγκατάσταση εικόνας Ανάκτησης</string>
   <string name="alert_recovery_title">Εγκατάσταση εικόνας Ανάκτησης</string>
   <string name="alert_restore">Επαναφορά</string>
   <string name="alert_root">Αυτή η εφαρμογή απαιτεί πρόσβαση root</string>
+  <string name="alert_safemode_message">Θέλετε πραγματικά να επανεκκινήσετε τη συσκευή σας σε ασφαλή λειτουργία; Θα φορτωθούν μόνο εφαρμογές συστήματος.\n\nΓια έξοδο από την ασφαλή λειτουργία, απλώς επανεκκινήστε τη συσκευή σας ξανά.</string>
+  <string name="alert_safemode_title">Επανεκκίνηση σε Ασφαλή Λειτουργία</string>
   <string name="alert_save">Αποθήκευση</string>
   <string name="alert_select_language">Επιλέξτε γλώσσα</string>
   <string name="alert_send">Αποστολή</string>
   <string name="alert_sign_in">Θα πρέπει να συνδεθείτε πρώτα</string>
-  <string name="alert_sure">"Σίγουρα, θέλω"</string>
+  <string name="alert_sure">Σίγουρα, θέλω</string>
   <string name="alert_thanks">Ευχαριστώ!</string>
   <string name="alert_title_config">Επιλογές εγκατάστασης</string>
   <string name="alert_title_root">Απαιτείται root</string>
-  <string name="alert_too_bad">"Αυτό είναι πολύ κακό!"</string>
+  <string name="alert_too_bad">Αυτό είναι πολύ κακό!</string>
   <string name="alert_translate_message">Θα θέλατε να συμβάλλετε στην μετάφραση αυτής της εφαρμογής στην γλώσσα σας;</string>
   <string name="alert_translate_no">Οχι ευχαριστώ</string>
   <string name="alert_translate_title">Μετάφραση εφαρμογής</string>
-  <string name="alert_translate_yes">"Σίγουρα, θέλω"</string>
+  <string name="alert_translate_yes">Σίγουρα, θέλω</string>
   <string name="alert_twitter_message">"Το Root ToolCase είναι τώρα στο Twitter!
-  
-Ακολουθήστε μας για να λαμβάνετε νέα σχετικά με τις τελευταίες ενημερώσεις εφαρμογών κλπ."</string>
+ \nΑκολουθήστε μας για να λαμβάνετε νέα σχετικά με τις τελευταίες ενημερώσεις εφαρμογών κλπ."</string>
   <string name="alert_twitter_title">Root ToolCase στο Twitter</string>
   <string name="alert_type_system">Εφαρμογή συστήματος</string>
   <string name="alert_type_title">Εγκατάσταση \"%s\" ώς</string>
   <string name="alert_type_user">Εφαρμογή χρήστη</string>
   <string name="alert_unfreeze_title">Ενεργοποίηση εφαρμογών</string>
   <string name="alert_uninstall_message">Θέλετε πραγματικά να απεγκαταστήσετε  αυτήν την εφαρμογή;</string>
-  <string name="alert_uninstall_system_message">Θέλετε πραγματικά να απεγκαταστήσετε την<b> ΕΦΑΡΜ. ΣΥΣΤΗΜΑΤΟΣ</b>"?
-Λάβετε υπόψη ότι η αφαίρεση λανθασμένων εφαρμογών μπορεί να προκαλέσει σοβαρά προβλήματα. Σε αυτή την περίπτωση ίσως χρειαστεί να επαναφέρετε ολόκληρη την ROM."</string>
+  <string name="alert_uninstall_system_message">Θέλετε πραγματικά να απεγκαταστήσετε την&lt;b&gt; ΕΦΑΡΜ. ΣΥΣΤΗΜΑΤΟΣ&lt;/b&gt;\"?\nΛάβετε υπόψη ότι η αφαίρεση λανθασμένων εφαρμογών μπορεί να προκαλέσει σοβαρά προβλήματα. Σε αυτή την περίπτωση ίσως χρειαστεί να επαναφέρετε ολόκληρη την ROM.\"</string>
   <string name="alert_uninstall_system_title">Απεγκατάσταση εφαρμογής συστήματος</string>
   <string name="alert_uninstall_title">Απεγκατάσταση  εφαρμογής</string>
   <string name="alert_uninstalling">"Απεγκατάσταση "</string>
+  <string name="alert_uninstalling_pkg">Απεγκατάσταση %s</string>
   <string name="alert_unsaved_messsage">"Έχετε μη αποθηκευμένες αλλαγές.
-  
-Αποθήκευση αλλαγών τώρα;"</string>
+ \nΑποθήκευση αλλαγών τώρα;"</string>
   <string name="alert_unsaved_title">Αποθήκευση αλλαγών</string>
   <string name="alert_updated_sysapp_message">Πρόκειται για μια ενημερωμένη εφαρμογή συστήματος. Αφαιρέστε πρώτα την ενημερωμένη έκδοση ή προσπαθήστε να την εγκαταστήσετε ως εφαρμογή χρήστη.</string>
   <string name="alert_upgrade">Αναβάθμιση</string>
@@ -214,6 +205,16 @@
   <string name="apps_user">Εφαρμογές χρηστών (%1$d)</string>
   <string name="auth_failed">Η ταυτοποίηση απέτυχε</string>
   <string name="awesome">Είναι φοβερό!</string>
+  <string name="bloatware_ask">Μην ερωτηθώ ξανά</string>
+  <string name="bloatware_found">%1$d εφαρμ. βρέθηκαν</string>
+  <string name="bloatware_message">Αν νομίζετε ότι αυτό είναι bloatware, αναφέρετε αυτό στη βάση δεδομένων μας, ώστε να βοηθήσουμε άλλους χρήστες να εντοπίσουν τα πιθανά bloatware στις συσκευές τους.</string>
+  <string name="bloatware_message_safe">Είναι ασφαλές να καταργηθεί αυτήν η εφαρμογή;</string>
+  <string name="bloatware_report">Αναφέρετε αυτήν την εφαρμογή ως bloatware</string>
+  <string name="bloatware_safe">Ασφαλής</string>
+  <string name="bloatware_sysapp_info">Απλώς απεγκαταστήσατε μια εφαρμογή συστήματος:</string>
+  <string name="bloatware_tag">Ετικέτα ως bloatware</string>
+  <string name="bloatware_unknown">Δεν ξέρω ακόμα</string>
+  <string name="bloatware_unsafe">Επισφαλής</string>
   <string name="btn_cancel">Ακύρωση</string>
   <string name="cfg_backup">Δημιουργία αντιγράφων</string>
   <string name="cfg_backup_title">ΔΗΜΙΟΥΡΓΙΑ ΑΝΤΙΓΡΑΦΩΝ ΑΣΦΑΛΕΙΑΣ (TWRP ΑΠΑΙΤΕΙΤΑΙ)</string>
@@ -231,7 +232,7 @@
   <string name="flasher_type_recovery">Εγκατάσταση εικόνας Ανάκτησης (Recovery)</string>
   <string name="flasher_type_zip">Zip Αυτοεγκατάστασης (απαιτείται TWRP ή CWM )</string>
   <string name="forgot_password">Ξεχάσατε τον κωδικό</string>
-  <string name="forgot_password_link"><u>Ξεχάσατε τον κωδικό</u></string>
+  <string name="forgot_password_link">&lt;u&gt;Ξεχάσατε τον κωδικό&lt;/u&gt;</string>
   <string name="forgot_password_message">Εισάγετε το Email σας</string>
   <string name="hint_email">Email</string>
   <string name="hint_password">Κωδικός πρόσβασης</string>
@@ -239,8 +240,7 @@
   <string name="initd_edit">Επεξεργασία</string>
   <string name="initd_run">Εκτέλεση</string>
   <string name="initd_summary">"Η εξομοίωση Init.d σας επιτρέπει να εκτελείτε δέσμες ενεργειών κατά την εκκίνηση ακόμα και σε ROM χωρίς εγγενή υποστήριξη init.d.
-  
-Μην χρησιμοποιήσετε αυτήν την επιλογή εάν η ROM σας έχει εγγενή init.d ή χρησιμοποιείτε ήδη άλλον εξομοιωτή init.d."</string>
+ \nΜην χρησιμοποιήσετε αυτήν την επιλογή εάν η ROM σας έχει εγγενή init.d ή χρησιμοποιείτε ήδη άλλον εξομοιωτή init.d."</string>
   <string name="initd_title">Ενεργοποίηση init.d</string>
   <string name="language_title">Αλλαγή γλώσσας συστήματος</string>
   <string name="license_key">Κλειδί άδειας χρήσης</string>
@@ -253,12 +253,17 @@
   <string name="meminfo_libs">Libs:</string>
   <string name="meminfo_odex">Odex:</string>
   <string name="meminfo_total">Σύνολο:</string>
+  <string name="menu_all">Ολα</string>
+  <string name="menu_none">None</string>
   <string name="message_share">"Ελέγξτε εκτός \"%s\": "</string>
   <string name="mountrw_summary">Προσάρτηση του διαμερίσματος του Συστήματος (/) /System (Σύστημα) αναγνώσιμο/εγγράψιμο αντί μόνο για ανάγνωση</string>
   <string name="mountrw_title">Τοποθετεί Το Σύστημα R/W</string>
   <string name="not_verified">Το email δεν επαληθεύτηκε</string>
+  <string name="notify_bloatware">Το Root ToolCase ανίχνευσε μία ή περισσότερες εφαρμογές που έχουν επισημανθεί ως bloatware από άλλους χρήστες.</string>
+  <string name="notify_bloatware_title">Το Bloatware εντοπίστηκε</string>
   <string name="notify_sysupdate">Το Root ToolCase μπορεί να ελέγξει αν έχει γίνει επανεγκατάσταση εφαρμογών που έχουν καταργηθεί προηγουμένως.</string>
   <string name="notify_sysupdate_title">Έχει εντοπιστεί ενημέρωση συστήματος</string>
+  <string name="number_reports">%d reports</string>
   <string name="one">"1. "</string>
   <string name="prop_delete">Διαγραφή</string>
   <string name="prop_edit">Επεξεργασία</string>
@@ -268,13 +273,18 @@
   <string name="reboot_poweroff_title">Απενεργοποίηση</string>
   <string name="reboot_recovery_summary">Επανεκκινήστε τη συσκευή σας σε λειτουργία Ανάκτησης (Recovery)</string>
   <string name="reboot_recovery_title">Επανεκκινήστε σε Ανάκτηση</string>
+  <string name="reboot_safemode_summary">Επανεκκίνηση σε ασφαλή λειτουργία (χωρίς εφαρμογές τρίτων)</string>
+  <string name="reboot_safemode_title">Ασφαλή Λειτουργία</string>
   <string name="reboot_soft_summary">Επανεκκινήστε μόνο το σύστημα Android</string>
   <string name="reboot_soft_title">Απλή επανεκκίνηση</string>
   <string name="reboot_summary">Επανεκκινήστε τη συσκευή σας</string>
+  <string name="reboot_systemui_summary">Διαδικασία επανεκκίνησης διεπαφής χρήστη</string>
+  <string name="reboot_systemui_title">Επανεκκίνηση System UI</string>
   <string name="reboot_title">Επανεκκίνηση</string>
   <string name="request_license">Αίτηση άδειας</string>
   <string name="request_new_key">Αίτηση για νέο κλειδί</string>
   <string name="reset_password">Επαναφορά κωδικού πρόσβασης</string>
+  <string name="safe_percentage">%d %% safe to remove</string>
   <string name="search_hint">Αναζήτηση apk</string>
   <string name="search_hint_key">Αναζήτηση Κλειδιών</string>
   <string name="search_title">Αναζήτηση</string>
@@ -287,11 +297,12 @@
   <string name="status_load_main">Φόρτωση κύριας οθόνης</string>
   <string name="status_requesting_root">Αίτηση για πρόσβαση root</string>
   <string name="status_requesting_write">Αίτηση για πρόσβαση εγγραφής</string>
-  <string name="step_approve">"Θα λάβετε την άδειά σας μέσα από το ηλεκτρονικό ταχυδρομείο τις επόμενες 72 ώρες"</string>
+  <string name="step_approve">Θα λάβετε την άδειά σας μέσα από το ηλεκτρονικό ταχυδρομείο τις επόμενες 72 ώρες</string>
   <string name="step_create">Δημιουργία λογαριασμού</string>
   <string name="step_donate">Κάντε μια δωρεά μέσω του PayPal</string>
   <string name="summary_app_manager">Διαχείριση εφαρμογών χρήστη και συστήματος</string>
-  <string name="summary_buildprop">"Επεξεργαστείτε τις ιδιότητες και στοιχεία δημιουργίας της ROM"</string>
+  <string name="summary_bloatware">Σάρωση των εφαρμογών σας για bloatware</string>
+  <string name="summary_buildprop">Επεξεργαστείτε τις ιδιότητες και στοιχεία δημιουργίας της ROM</string>
   <string name="summary_flasher">Εγκαταστήστε Zips (Αυτοεγκατάστασης) ή Εικόνα (.img)</string>
   <string name="summary_initd">Εκτελέστε δέσμες (scripts) κατά την εκκίνηση</string>
   <string name="summary_misc">Διάφορα εργαλεία</string>
@@ -303,6 +314,7 @@
   <string name="title_activity_account">Λογαριασμός χρήστη</string>
   <string name="title_activity_app">Πληροφορίες εφαρμογής</string>
   <string name="title_activity_app_manager">Διαχειριστής εφαρμογής</string>
+  <string name="title_activity_bloatware">Βοηθός bloatware</string>
   <string name="title_activity_build_prop">Επεξεργαστής Build.Prop</string>
   <string name="title_activity_editor">Επεξεργαστής</string>
   <string name="title_activity_flash">Οδηγός Εγκατάστασης</string>
@@ -329,6 +341,7 @@
   <string name="toast_error_nolist">Δεν βρέθηκε λίστα</string>
   <string name="toast_error_videoad">Σφάλμα κατά την αναπαραγωγή διαφήμισης βίντεο. Ελέγξτε τις ρυθμίσεις σύνδεσης στο διαδίκτυο και τις ρυθμίσεις αποκλεισμού διαφημίσεων και δοκιμάστε ξανά!</string>
   <string name="toast_extract_success">%1$s εξάχθηκε με επιτυχία</string>
+  <string name="toast_feedback">Σας ευχαριστώ για τα σχόλιά σας!</string>
   <string name="toast_image_success">%1$s εγκαταστάθηκε με επιτυχία</string>
   <string name="toast_initd_save">Αλλαγές σε %s αποθηκεύτηκαν</string>
   <string name="toast_license_failed">Η ενεργοποίηση της άδειας απέτυχε</string>
@@ -348,11 +361,11 @@
   <string name="toast_verify_failed">Αποτυχία αποστολής επαλήθευσης με email</string>
   <string name="toast_verify_success">Το μήνυμα email επαλήθευσης στάλθηκε σε %s</string>
   <string name="toast_version">Αυτή η λειτουργία είναι προς το παρόν διαθέσιμη μόνο για το Android 5.0+</string>
-  <string name="translators">cpu82</string>
+  <string name="translators">cpu82, Hellenic Spiros Kaparos</string>
   <string name="two">"2. "</string>
   <string name="ui_design">Ο σχεδιασμός εφαρμογών χρειάζεται βελτίωση</string>
   <string name="upgrade">Αναβάθμιση</string>
-  <string name="user_premium">★ Premium ★</string>
+  <string name="user_premium">? Premium ?</string>
   <string name="user_standard">Κανονική</string>
   <string name="verified">Το email επαληθεύτηκε</string>
   <string name="verify_email">Αποστολή συνδέσμου επαλήθευσης</string>
